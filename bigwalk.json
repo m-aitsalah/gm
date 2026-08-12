@@ -11,6 +11,12 @@
     }
   },
 
+  "privacy": {
+    "policyVersion": 1,
+    "policyUrl": "https://sites.google.com/view/walkpals/home",
+    "contactEmail": "funbigwalk@hotmail.com"
+  },
+
   "ads": {
     "enabled": true,
     "testMode": true,
