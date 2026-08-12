@@ -18,23 +18,23 @@
   },
 
   "ads": {
-    "enabled": true,
-    "testMode": true,
+    "enabled": false,
+    "testMode": false,
 
     "banner": {
-      "enabled": true,
+      "enabled": false,
       "androidAdUnitId": ""
     },
 
     "native": {
-      "enabled": true,
+      "enabled": false,
       "androidAdUnitId": "",
       "firstAfterItems": 6,
       "everyItems": 6
     },
 
     "interstitial": {
-      "enabled": true,
+      "enabled": false,
       "androidAdUnitId": "",
       "everyEligibleActions": 3
     }
