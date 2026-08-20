@@ -1,0 +1,42 @@
+{
+  "app": {
+    "active": true,
+    "minimumVersionCode": 1,
+    "update": {
+      "title": "Update Walk Pals",
+      "description": "A new version of Walk Pals is available. Update now to continue using the app.",
+      "imageUrl": "",
+      "buttonText": "Update Now",
+      "buttonUrl": ""
+    }
+  },
+
+  "privacy": {
+    "policyVersion": 1,
+    "policyUrl": "https://sites.google.com/view/walkpals/home",
+    "contactEmail": "funbigwalk@hotmail.com"
+  },
+
+  "ads": {
+    "enabled": false,
+    "testMode": false,
+
+    "banner": {
+      "enabled": false,
+      "androidAdUnitId": ""
+    },
+
+    "native": {
+      "enabled": false,
+      "androidAdUnitId": "",
+      "firstAfterItems": 6,
+      "everyItems": 6
+    },
+
+    "interstitial": {
+      "enabled": false,
+      "androidAdUnitId": "",
+      "everyEligibleActions": 3
+    }
+  }
+}
