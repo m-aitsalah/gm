@@ -36,7 +36,7 @@
     "interstitial": {
       "enabled": true,
       "androidAdUnitId": "ca-app-pub-5328735289575157/5727495009",
-      "everyEligibleActions": 1
+      "everyEligibleActions": 2
     }
   }
 }
