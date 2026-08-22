@@ -18,25 +18,25 @@
   },
 
   "ads": {
-    "enabled": false,
+    "enabled": true,
     "testMode": false,
 
     "banner": {
-      "enabled": false,
-      "androidAdUnitId": ""
+      "enabled": true,
+      "androidAdUnitId": "ca-app-pub-5328735289575157/8046431387"
     },
 
     "native": {
-      "enabled": false,
-      "androidAdUnitId": "",
+      "enabled": true,
+      "androidAdUnitId": "ca-app-pub-5328735289575157/4382623748",
       "firstAfterItems": 6,
       "everyItems": 6
     },
 
     "interstitial": {
-      "enabled": false,
-      "androidAdUnitId": "",
-      "everyEligibleActions": 3
+      "enabled": true,
+      "androidAdUnitId": "ca-app-pub-5328735289575157/5727495009",
+      "everyEligibleActions": 1
     }
   }
 }
