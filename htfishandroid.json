@@ -6,7 +6,7 @@
     "terms_url": "https://howtofishgame.neocities.org/privacy"
   },
   "ads": {
-    "enabled": true,
+    "enabled": false,
     "force_test_ads": true,
     "banner_enabled": true,
     "native_enabled": true,
