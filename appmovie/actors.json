@@ -257,29 +257,6 @@
       "imported_at": "2026-08-29T20:41:02.423Z"
     },
     {
-      "id": 1247604,
-      "name": "Agnez Mo",
-      "photo": "https://image.tmdb.org/t/p/w500/7GuBJxf5szQRCKLk3iG2ztfCo39.jpg",
-      "biography": "Agnes Monica Muljoto (born 1 July 1986), known professionally as Agnez Mo, is an Indonesian singer, songwriter, music producer, actress, dancer, model, and businesswoman. She started her career in the entertainment industry at the age of six as a child singer. In 2013, she signed a recording deal with the American label The Cherry Party, which is owned by Sony Music Entertainment. Her debut international single, Coke Bottle, was released indie in September 2013 and re-released in early 2014 by Sony Music, featuring American rappers Timbaland and T.I.",
-      "birthday": "1986-07-01",
-      "deathday": null,
-      "place_of_birth": "Jakarta, Indonesia",
-      "known_for_department": "Acting",
-      "popularity": 25.9753,
-      "imdb_id": "nm1296883",
-      "also_known_as": [
-        "Agnes Monica",
-        "Agnes Mo",
-        "Agnes Monica Muljoto "
-      ],
-      "movies": [],
-      "series": [
-        108978
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1247604",
-      "imported_at": "2026-08-29T20:34:31.539Z"
-    },
-    {
       "id": 1591491,
       "name": "Ahn Bo-hyun",
       "photo": "https://image.tmdb.org/t/p/w500/2pNNCnjI1TwxjyP3Y4cJln1wOKE.jpg",
@@ -303,56 +280,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/1591491",
       "imported_at": "2026-08-29T20:41:29.627Z"
-    },
-    {
-      "id": 1324646,
-      "name": "Ai Kakuma",
-      "photo": "https://image.tmdb.org/t/p/w500/o3tQSeeJAeafJNvQs2IKvpKY7av.jpg",
-      "biography": "Ai Kakuma is a Japanese voice actress from Fukuoka. She is affiliated with Mausu Promotion.",
-      "birthday": "1988-09-09",
-      "deathday": null,
-      "place_of_birth": "Fukuoka, Japan",
-      "known_for_department": "Acting",
-      "popularity": 1.807,
-      "imdb_id": "nm5665571",
-      "also_known_as": [
-        "Какума Ай",
-        "加隅亜衣",
-        "かくま あい",
-        "加隈 亜衣",
-        "آی کاکوما"
-      ],
-      "movies": [],
-      "series": [
-        94664
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1324646",
-      "imported_at": "2026-08-29T20:36:13.441Z"
-    },
-    {
-      "id": 1254671,
-      "name": "Ai Kayano",
-      "photo": "https://image.tmdb.org/t/p/w500/l8ywp387rfdAS7mOExe3cEZnsk0.jpg",
-      "biography": "Ai Kayano is a Japanese voice actress and singer affiliated with Pro-Fit.talent agency; she is represented by Office Osawa since 2015. After debuting as a voice actress in 2010, she played her first lead role as Meiko \"Menma\" Honma in the 2011 anime television series Anohana: The Flower We Saw That Day. She is also known for her lead roles as Inori Yuzuriha in Guilty Crown, Utaha Kasumigaoka in Saekano, Mashiro Shiina in The Pet Girl of Sakurasou and Shiro in No Game No Life. She has also performed opening, ending, and insert theme for various anime she has acted in.",
-      "birthday": "1987-09-13",
-      "deathday": null,
-      "place_of_birth": "Tokyo, Japan",
-      "known_for_department": "Acting",
-      "popularity": 3.8346,
-      "imdb_id": "nm4438173",
-      "also_known_as": [
-        "Каяно Ай",
-        "かやの あい",
-        "카야농",
-        "茅野 愛衣",
-        "آی کایانو"
-      ],
-      "movies": [],
-      "series": [
-        94664
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1254671",
-      "imported_at": "2026-08-29T20:36:13.772Z"
     },
     {
       "id": 3564490,
@@ -599,9 +526,7 @@
       "movies": [
         87513
       ],
-      "series": [
-        108978
-      ],
+      "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/64295",
       "imported_at": "2026-08-29T20:30:37.503Z"
     },
@@ -1077,25 +1002,6 @@
       "imported_at": "2026-08-29T20:34:32.764Z"
     },
     {
-      "id": 3054663,
-      "name": "Amanda Fix",
-      "photo": "https://image.tmdb.org/t/p/w500/ju3aa2yJL4h5msWcbEryh7cjXOt.jpg",
-      "biography": "Amanda Fix (born 2001) is a Canadian actress from Vancouver who made her feature film debut appearing in Broken Diamonds (2021). Fix played in Kung Fu (2021), North of Normal (2022), High School (2022), Daisy Jones & the Six (2023), Orphan Black: Echoes (2023), and Lowlifes (2024).\n\nDescription above from the Wikipedia article Amanda Fix, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "2001-11-05",
-      "deathday": null,
-      "place_of_birth": "Vancouver, British Columbia, Canada",
-      "known_for_department": "Acting",
-      "popularity": 0.7554,
-      "imdb_id": "nm9931958",
-      "also_known_as": [],
-      "movies": [
-        1240889
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/3054663",
-      "imported_at": "2026-08-29T20:31:12.832Z"
-    },
-    {
       "id": 1616920,
       "name": "Amar Chadha-Patel",
       "photo": "https://image.tmdb.org/t/p/w500/6SZXUfn5A2IzwrWhpBDw99gC4uQ.jpg",
@@ -1153,27 +1059,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/2212734",
       "imported_at": "2026-08-29T20:30:40.640Z"
-    },
-    {
-      "id": 2627621,
-      "name": "Amber Reign Smith",
-      "photo": "https://image.tmdb.org/t/p/w500/3YMyankl95BdQe183GZohfdloAL.jpg",
-      "biography": "",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "",
-      "known_for_department": "Acting",
-      "popularity": 1.9395,
-      "imdb_id": "nm5142660",
-      "also_known_as": [
-        "Amber Reign"
-      ],
-      "movies": [],
-      "series": [
-        246246
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/2627621",
-      "imported_at": "2026-08-29T20:19:43.901Z"
     },
     {
       "id": 2769222,
@@ -1241,25 +1126,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/1157418",
       "imported_at": "2026-08-29T20:41:12.507Z"
-    },
-    {
-      "id": 4855824,
-      "name": "Amita Rao",
-      "photo": "https://image.tmdb.org/t/p/w500/e48ULfNeCY3YeKkhiLJGHiFeJlA.jpg",
-      "biography": "Amita Rao is an American comedian and actress known for Deli Boys (2025), Adults (2025) and Sick Day (2024). She attended drama school prior to moving to Chicago to train in long-form improvisational comedy at the Annoyance Theatre and at The Second City and performed with comedy troupe Gag Reflex. She portrayed Nandika in 2025 Hulu comedy series Deli Boys. She had a dramatic role in 2024 suspense thriller television series The Emperor of Ocean Park.\n\nShe portrays Issa in FX comedy series Adults (originally developed under the name Snowflakes), created by The Tonight Show writers Ben Kronengold and Rebecca Shaw and executive producer by Nick Kroll, about five housemates in Queens, New York but filmed in Toronto. Her character was described as \"loud, dramatic [and] sexually liberated\" by Time (magazine) and \"unapologetically brash\".",
-      "birthday": "1998-09-09",
-      "deathday": null,
-      "place_of_birth": "Centreville, Virginia, USA",
-      "known_for_department": "Acting",
-      "popularity": 1.0403,
-      "imdb_id": "nm12642168",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        260458
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/4855824",
-      "imported_at": "2026-08-29T20:20:16.523Z"
     },
     {
       "id": 9273,
@@ -1555,25 +1421,6 @@
       "imported_at": "2026-08-29T20:44:22.099Z"
     },
     {
-      "id": 2374966,
-      "name": "Ángela Cano",
-      "photo": "https://image.tmdb.org/t/p/w500/9BaQO2i5kTluUkwsnK3bUB8SvlL.jpg",
-      "biography": "",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "",
-      "known_for_department": "Acting",
-      "popularity": 1.0149,
-      "imdb_id": "nm10921191",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        207333
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/2374966",
-      "imported_at": "2026-08-29T20:35:38.016Z"
-    },
-    {
       "id": 2953599,
       "name": "Angelo Kern",
       "photo": "",
@@ -1591,28 +1438,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/2953599",
       "imported_at": "2026-08-29T20:30:44.138Z"
-    },
-    {
-      "id": 1297494,
-      "name": "Anggun",
-      "photo": "https://image.tmdb.org/t/p/w500/4WxHGTehDvZudrunxTZmnR66CBi.jpg",
-      "biography": "Anggun Cipta Sasmi (born 29 April 1974) is an Indonesian-French singer, songwriter, and television personality. Born in Jakarta, she began performing at the age of seven and recorded a children's album two years later. She rose to fame in 1989 as a teenage rock star and by 1993 she had released five Indonesian-language studio albums. Rolling Stone listed her single \"Mimpi\" as one of the 150 Greatest Indonesian Songs of All Time.\n\nAnggun left Indonesia for England in 1994 to pursue an international career. She later moved to France and recorded her first international album, Snow on the Sahara (1997). It was released in 33 countries by Sony Music and sold more than one million copies worldwide. Since then, Anggun has released another six studio albums—in English and French—and a soundtrack album to the Danish film Open Hearts (2002). Her singles \"Snow on the Sahara\", \"What We Remember\", \"The Good Is Back\", and \"Perfect World\" entered the Billboard charts in the United States while \"In Your Mind\", \"Saviour\" and \"I'll Be Alright\" charted on the Billboard European Hot 100 Singles. She represented France in the Eurovision Song Contest 2012, with the song \"Echo (You and I)\".\n\nAnggun also ventured into television, becoming the judge for the Indonesian versions of The X Factor (2013), Got Talent (2014), and The Voice (2018); the pancontinental Asia's Got Talent (2015–2019); the French version of Masked Singer (2019–2022); and the Belgian version of StarMaker (2023). She also performed as the leading actress in musical theater show Al Capone (2023) and played supporting roles in the film Coup de foudre à Bangkok (2020) and TV series Profession Comédien (2021). Aside from her career in entertainment, Anggun has been appointed as the global ambassador of the United Nations twice, first for the International Year of Microcredit in 2005 and then for the Food and Agriculture Organization (FAO) in 2009.\n\nAnggun is one of the best-selling Asian artists outside Asia, with her releases being certified gold and platinum in some European countries. She is the first Indonesian artist to have success in European and American record charts. She has received a number of accolades for her achievements, including the Chevalier des Arts et Lettres from the Government of France, the World Music Award for World's Best-Selling Indonesian Artist, and the Asian Television Award for Outstanding Contribution to Asian Television Performing Arts. She also became the first woman from Indonesia to be immortalized in wax by Madame Tussauds. ...\n\nSource: Article \"Anggun\" from Wikipedia in English, licensed under CC-BY-SA 3.0.",
-      "birthday": "1974-04-29",
-      "deathday": null,
-      "place_of_birth": "Jakarta, Indonesia",
-      "known_for_department": "Acting",
-      "popularity": 3.5621,
-      "imdb_id": "nm1163076",
-      "also_known_as": [
-        "Anggun Cipta Sasmi",
-        "Anggun C. Sasmi"
-      ],
-      "movies": [],
-      "series": [
-        108978
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1297494",
-      "imported_at": "2026-08-29T20:14:49.588Z"
     },
     {
       "id": 6023452,
@@ -1691,25 +1516,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/4666474",
       "imported_at": "2026-08-29T20:31:02.988Z"
-    },
-    {
-      "id": 3458716,
-      "name": "Ankush Gedam",
-      "photo": "",
-      "biography": "",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "",
-      "known_for_department": "Acting",
-      "popularity": 0.373,
-      "imdb_id": "nm13463098",
-      "also_known_as": [],
-      "movies": [
-        1293550
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/3458716",
-      "imported_at": "2026-08-29T20:41:33.733Z"
     },
     {
       "id": 1233545,
@@ -2044,27 +1850,6 @@
       "imported_at": "2026-08-29T20:19:13.446Z"
     },
     {
-      "id": 60373,
-      "name": "Antony Starr",
-      "photo": "https://image.tmdb.org/t/p/w500/xx3As5SWcE8vYOKZgtjDjqmT3jc.jpg",
-      "biography": "Antony Starr (born October 25, 1975) is a New Zealand actor, known for his television roles. He played the dual roles of Jethro and Van West on Outrageous Fortune (2005–2010), Lucas Hood on Banshee (2013–2016), and Homelander on The Boys (2019–2026).\n\nFor his role in the 2012 Australian film Wish You Were Here, Starr won the AACTA Award for Best Actor in a Supporting Role, among other accolades. He was nominated for the New Zealand Film Award for Best Actor for his performance in After the Waterfall (2010).",
-      "birthday": "1975-10-25",
-      "deathday": null,
-      "place_of_birth": "Auckland, New Zealand",
-      "known_for_department": "Acting",
-      "popularity": 3.7689,
-      "imdb_id": "nm1102278",
-      "also_known_as": [
-        "آنتونی استار"
-      ],
-      "movies": [],
-      "series": [
-        76479
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/60373",
-      "imported_at": "2026-08-29T20:41:40.179Z"
-    },
-    {
       "id": 1397778,
       "name": "Anya Taylor-Joy",
       "photo": "https://image.tmdb.org/t/p/w500/qYNofOjlRke2MlJVihmJmEdQI4v.jpg",
@@ -2309,29 +2094,6 @@
       "imported_at": "2026-08-29T20:41:23.814Z"
     },
     {
-      "id": 3706720,
-      "name": "Arthur Conti",
-      "photo": "https://image.tmdb.org/t/p/w500/pnO8qBwvLJfN54UaKsy0QQlAc8u.jpg",
-      "biography": "Arthur Stanley Conti (born 2004) is an English actor. A son of Nina Conti, he began his career with a small role in the House of the Dragon episode \"We Light the Way\" in 2022. Conti gained recognition for his role as Jeremy Frazier in the 2024 fantasy film Beetlejuice Beetlejuice.\n\nDescription above from the Wikipedia article Arthur Conti, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "Camden, London, England, UK",
-      "known_for_department": "Acting",
-      "popularity": 1.1061,
-      "imdb_id": "nm14057859",
-      "also_known_as": [
-        "Arthur Conti Stanley",
-        "Артур Конті",
-        "آرتور کونتی"
-      ],
-      "movies": [
-        1240889
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/3706720",
-      "imported_at": "2026-08-29T20:31:13.131Z"
-    },
-    {
       "id": 2399904,
       "name": "Arty Froushan",
       "photo": "https://image.tmdb.org/t/p/w500/zYNvzONSgyfnC4efHXh6zcrVj4d.jpg",
@@ -2519,29 +2281,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/1552436",
       "imported_at": "2026-08-29T20:41:37.144Z"
-    },
-    {
-      "id": 1367847,
-      "name": "Austin Hébert",
-      "photo": "https://image.tmdb.org/t/p/w500/vOuRMtOtPVd8vuNCCxxavQSdGIC.jpg",
-      "biography": "",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "",
-      "known_for_department": "Acting",
-      "popularity": 2.1128,
-      "imdb_id": "nm3332884",
-      "also_known_as": [
-        "Austin Hébert",
-        "Austin Blaine Hebert",
-        "奥斯汀·希伯特"
-      ],
-      "movies": [],
-      "series": [
-        113962
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1367847",
-      "imported_at": "2026-08-29T20:19:38.909Z"
     },
     {
       "id": 212934,
@@ -2772,34 +2511,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/4349528",
       "imported_at": "2026-08-29T20:39:22.366Z"
-    },
-    {
-      "id": 122481,
-      "name": "Banjo Ginga",
-      "photo": "https://image.tmdb.org/t/p/w500/qiXnKaZheMiVyA1U2mX9tPdNA3T.jpg",
-      "biography": "Banjo Ginga is a Japanese voice actor currently affiliated with Aoni Production. He was previously credited under his real name Tanaka Takashi.\n\nHe is married to voice actress Gara Takashima.",
-      "birthday": "1948-11-12",
-      "deathday": null,
-      "place_of_birth": "Kofu, Yamanashi, Japan",
-      "known_for_department": "Acting",
-      "popularity": 1.7815,
-      "imdb_id": "nm0319980",
-      "also_known_as": [
-        "Banjô Ginga",
-        "Takashi Tanaka",
-        "ぎんが ばんじょう",
-        "田中崇",
-        "Banjou Ginga",
-        "Tanaka Takashi",
-        "銀河 万丈",
-        "بانجو گینگا"
-      ],
-      "movies": [
-        1530941
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/122481",
-      "imported_at": "2026-08-29T20:41:08.307Z"
     },
     {
       "id": 3748354,
@@ -3406,8 +3117,7 @@
         "Vijay Singh Deol"
       ],
       "movies": [
-        1122030,
-        1293550
+        1122030
       ],
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/77235",
@@ -4080,25 +3790,6 @@
       "imported_at": "2026-08-29T20:43:08.838Z"
     },
     {
-      "id": 2118332,
-      "name": "Carla Baratta",
-      "photo": "https://image.tmdb.org/t/p/w500/6SFvvX4LB1TySyjuldrVuQiwjce.jpg",
-      "biography": "Carla Baratta Sarcinelli (born 9 July 1990) is a Venezuelan actress, model and plastic artist known for being the protagonist of the digital series \"Bleep\" transmitted by the mobile phone company Digitel GSM. Since she was young she has studied stage acting in places such as the New York Film Academy and the New Collective in Los Angeles, as well as the Actors Gym in Caracas.\n\nIn 2017 The Hollywood Reporter reported that she had been cast in Sons of Anarchy spin-off Mayans MC as Adelita.\n\nSelected TV Appearances; -Prueba de Vida (Proof of Life), in which she played young Mother Teresa, -The web series \"Bleep\".",
-      "birthday": "1990-07-09",
-      "deathday": null,
-      "place_of_birth": "San Cristobal, Venezuela",
-      "known_for_department": "Acting",
-      "popularity": 1.1058,
-      "imdb_id": "nm7331093",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        207333
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/2118332",
-      "imported_at": "2026-08-29T20:35:36.114Z"
-    },
-    {
       "id": 562364,
       "name": "Carla Peterson",
       "photo": "https://image.tmdb.org/t/p/w500/wzu3UNvxIlk1i9uWjcFi8ANrAyl.jpg",
@@ -4344,27 +4035,6 @@
       "imported_at": "2026-08-29T20:45:16.629Z"
     },
     {
-      "id": 60899,
-      "name": "Chace Crawford",
-      "photo": "https://image.tmdb.org/t/p/w500/wz7s1JT3bYi2vd4fWwmLT809cnT.jpg",
-      "biography": "Christopher Chace Crawford (born July 18, 1985) is an American actor. He is known for his television portrayals of Nate Archibald on The CW's teen drama series Gossip Girl (2007–2012), and of The Deep in Amazon Prime Video original series The Boys (2019–present). He is also known for starring in the films The Covenant (2006), The Haunting of Molly Hartley (2008), Twelve (2010), and What to Expect When You're Expecting (2012). In 2015, he portrayed Billy LeFever in ABC's short-lived drama series Blood & Oil.",
-      "birthday": "1985-07-18",
-      "deathday": null,
-      "place_of_birth": "Lubbock, Texas, USA",
-      "known_for_department": "Acting",
-      "popularity": 2.695,
-      "imdb_id": "nm2003700",
-      "also_known_as": [
-        "Christopher Chace Crawford"
-      ],
-      "movies": [],
-      "series": [
-        76479
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/60899",
-      "imported_at": "2026-08-29T20:41:41.144Z"
-    },
-    {
       "id": 2223751,
       "name": "Chaneil Kular",
       "photo": "https://image.tmdb.org/t/p/w500/b6TmM2wcVntDMJGZWQM3ftshhIi.jpg",
@@ -4403,27 +4073,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/1500875",
       "imported_at": "2026-08-29T20:42:24.455Z"
-    },
-    {
-      "id": 53572,
-      "name": "Charles Malik Whitfield",
-      "photo": "https://image.tmdb.org/t/p/w500/94C1eqU1IGj8IkWZNpRiimz77eW.jpg",
-      "biography": "Charles Malik Whitfield is an American actor.",
-      "birthday": "1971-08-01",
-      "deathday": null,
-      "place_of_birth": "The Bronx, New York, USA",
-      "known_for_department": "Acting",
-      "popularity": 2.0435,
-      "imdb_id": "nm0925916",
-      "also_known_as": [
-        "Malik Whitfield"
-      ],
-      "movies": [],
-      "series": [
-        246246
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/53572",
-      "imported_at": "2026-08-29T20:19:46.156Z"
     },
     {
       "id": 1907002,
@@ -4465,9 +4114,7 @@
       "movies": [
         1226863
       ],
-      "series": [
-        2710
-      ],
+      "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/95101",
       "imported_at": "2026-08-29T20:40:34.615Z"
     },
@@ -5019,30 +4666,6 @@
       "imported_at": "2026-08-29T20:31:27.084Z"
     },
     {
-      "id": 51382,
-      "name": "Chris Parnell",
-      "photo": "https://image.tmdb.org/t/p/w500/9Ga03Y9TVIqTZJ4I9rfL740ibgJ.jpg",
-      "biography": "​Thomas Christopher \"Chris\" Parnell (born February 5, 1967) is an American comic actor best known as a cast member on Saturday Night Live from 1998–2006 and currently for his recurring role as Dr. Leo Spaceman on NBC's Emmy Award-winning comedy series 30 Rock. Parnell is currently one of the lead voices on the FX animated comedy Archer. In 2010, Parnell starred alongside his former SNL castmate Horatio Sanz in the Comedy Central series Big Lake.\n\nAfter performing as a company player with The Groundlings for a number of years, Parnell was hired to join the cast of Saturday Night Live as a featured player on September 26, 1998, and was promoted to repertory player the following season. In the summer of 2001, budget cuts and hiring four new cast members required Lorne Michaels to dismiss two cast members; he chose to lay off Parnell and Jerry Minor over Horatio Sanz, Rachel Dratch, and Maya Rudolph.\n\nWhile on SNL, Parnell appeared in numerous sketches, and commercial parodies, and performed memorable impressions of various celebrities. One of his most popular sketches is Lazy Sunday, a rap video he shot with Andy Samberg about buying cupcakes and going to see The Chronicles of Narnia. He has also performed raps about hosts Jennifer Garner, Britney Spears, Kirsten Dunst and Ashton Kutcher.\n\nIn the summer of 2006, Lorne Michaels announced that four cast members would be fired due to budget cuts, but he did not say who. On September 22, 2006 it was announced that three cast members had been fired: Parnell, Horatio Sanz, and Finesse Mitchell. This effectively made him the only SNL performer to have been fired twice by Lorne Michaels, though Parnell did say in a 2008 interview with The Sound of Young America podcast that he was okay with being let go this time, because he was considering leaving after that season anyway, but added that he probably would have stayed one last season if he was asked back. He had been with SNL for eight seasons; at the time only four people (Darrell Hammond, Tim Meadows, Kevin Nealon, and Al Franken) have been cast members longer. He has since made uncredited cameo appearances on the show, most recently in 2008 parodying newscasters Tom Brokaw, Jim Lehrer, and Bob Schieffer.\n\nParnell and his former SNL castmate Horatio Sanz recently starred together in Big Lake, a 2010 sitcom on Comedy Central from executive producers Will Ferrell and Adam McKay.\n\nHe also recently appeared as Dr. Drummer/Santa in the SyFy Holiday Special episode from the television show Eureka, which aired on December 7, 2010 (Season 4 Episode 10).",
-      "birthday": "1967-02-05",
-      "deathday": null,
-      "place_of_birth": "Memphis, Tennessee, USA",
-      "known_for_department": "Acting",
-      "popularity": 2.458,
-      "imdb_id": "nm0663177",
-      "also_known_as": [
-        "크리스 파넬",
-        "Thomas Christopher Parnell",
-        "کریس پارنل",
-        "Thomas Christopher \"Chris\" Parnell"
-      ],
-      "movies": [],
-      "series": [
-        60625
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/51382",
-      "imported_at": "2026-08-29T20:35:33.032Z"
-    },
-    {
       "id": 73457,
       "name": "Chris Pratt",
       "photo": "https://image.tmdb.org/t/p/w500/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg",
@@ -5258,30 +4881,6 @@
       "imported_at": "2026-08-29T20:44:46.008Z"
     },
     {
-      "id": 59238,
-      "name": "Christopher Rodriguez Marquette",
-      "photo": "https://image.tmdb.org/t/p/w500/8AL7UPXM4sVkOMgTHIxNdRi2SXP.jpg",
-      "biography": "Christopher Marquette (born October 3, 1984), also credited as Christopher Rodriguez-Marquette, is an American actor. He began his career with a main role as Adam Brody on the ABC sitcom Aliens in the Family (1996) before his breakout with a main role as Marc Delgado on the Lifetime medical drama series Strong Medicine (2000–2005).\n\nFollowing his breakout on Strong Medicine, Marquette had a main role as Mason McAllister on the Fox soap opera Pasadena (2001) and voiced lead character Alex O'Connell on the WB animated series The Mummy (2001–2003). He gained further mainstream attention with a main role as Adam Rove on the CBS series Joan of Arcadia (2003–2005) and starring roles in the films Freddy vs. Jason (2003), The Girl Next Door (2004), Just Friends (2005), Alpha Dog (2006), and The Invisible (2007).\n\nIn the late 2000s, Marquette starred in the films Life During Wartime (2009), Race to Witch Mountain (2009), and Fanboys (2009). In the 2010s and 2020s, he starred in the films The Double (2011) and Always Watching: A Marble Hornets Story (2015) and had a main role as Octie on the Gala Film web series RZR (2024). In 2025, he was cast in the fourth season of Reacher.",
-      "birthday": "1984-10-03",
-      "deathday": null,
-      "place_of_birth": "Stuart, Florida, USA",
-      "known_for_department": "Acting",
-      "popularity": 7.5635,
-      "imdb_id": "nm0549815",
-      "also_known_as": [
-        "Christopher George Marquette",
-        "Chris Marquette",
-        "Christopher Marquette",
-        "کریستوفر رودریگز مارکیت"
-      ],
-      "movies": [],
-      "series": [
-        108978
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/59238",
-      "imported_at": "2026-08-29T20:14:49.899Z"
-    },
-    {
       "id": 2578029,
       "name": "Chuo Ni",
       "photo": "https://image.tmdb.org/t/p/w500/3K0RFTpCKVYmyhltY7RND0vyFw5.jpg",
@@ -5431,25 +5030,6 @@
       "imported_at": "2026-08-29T20:44:01.235Z"
     },
     {
-      "id": 1633150,
-      "name": "Claudio Cataño",
-      "photo": "https://image.tmdb.org/t/p/w500/k5L4EDlJVhqvzQojcwvbrohKeJm.jpg",
-      "biography": "",
-      "birthday": "1986-12-29",
-      "deathday": null,
-      "place_of_birth": "Bogota, Colombia",
-      "known_for_department": "Acting",
-      "popularity": 0.7835,
-      "imdb_id": "",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        207333
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1633150",
-      "imported_at": "2026-08-29T20:35:35.491Z"
-    },
-    {
       "id": 7248,
       "name": "Cliff Curtis",
       "photo": "https://image.tmdb.org/t/p/w500/dfaElGoyJWseFWxXwEMLL9WTi7V.jpg",
@@ -5546,27 +5126,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/15661",
       "imported_at": "2026-08-29T20:39:14.482Z"
-    },
-    {
-      "id": 1157294,
-      "name": "Colby Minifie",
-      "photo": "https://image.tmdb.org/t/p/w500/56FVZRFdctYhZI8zHNbegkKMwl3.jpg",
-      "biography": "Colby Minifie (born January 31, 1992) is an American actress. She began acting at the age of eleven and was a YoungArts scholar; she graduated from the William E. Macaulay Honors College at Hunter College in 2014. She performed for four years with the National Dance Institute. She has appeared on and off Broadway, in television and in films. She is best known for her portrayal of Ashley Barrett from the Amazon Prime Video television series The Boys and Gen V.\n\nDescription above from the Wikipedia article Colby Minifie, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "1992-01-31",
-      "deathday": null,
-      "place_of_birth": "New York City, New York, USA",
-      "known_for_department": "Acting",
-      "popularity": 2.0523,
-      "imdb_id": "nm2281371",
-      "also_known_as": [
-        "کلبی مینیفی"
-      ],
-      "movies": [],
-      "series": [
-        76479
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1157294",
-      "imported_at": "2026-08-29T20:41:42.403Z"
     },
     {
       "id": 5472,
@@ -5868,25 +5427,6 @@
       "imported_at": "2026-08-29T20:39:12.453Z"
     },
     {
-      "id": 1229605,
-      "name": "Crystle Stewart",
-      "photo": "https://image.tmdb.org/t/p/w500/oSjX5e50fzbKs2erutpYsR152r4.jpg",
-      "biography": "Crystle Danae Stewart (born September 20, 1981) is an American actress, tv host, model, and beauty pageant titleholder who won Miss USA 2008. Her acting career began in 2011, when she played real estate agent Leslie Morris on the OWN/TBS comedy-drama television series For Better or Worse until 2017. In 2018 she appeared in Acrimony.\n\nFrom 2020 until 2023, she was the national director of Miss USA and Miss Teen USA. She was suspended from the position following allegations of favoritism, results rigging at Miss USA 2022 and sexual harassment at Miss USA 2021, and officially stepped down in August 2023.",
-      "birthday": "1981-09-20",
-      "deathday": null,
-      "place_of_birth": "Houston, Texas, USA",
-      "known_for_department": "Acting",
-      "popularity": 2.0448,
-      "imdb_id": "nm2981170",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        246246
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1229605",
-      "imported_at": "2026-08-29T20:19:43.602Z"
-    },
-    {
       "id": 1215021,
       "name": "Cullen Moss",
       "photo": "https://image.tmdb.org/t/p/w500/zjVvER4Bg4mz38u2JQfLgypYrSP.jpg",
@@ -5973,30 +5513,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/1525047",
       "imported_at": "2026-08-29T20:42:30.367Z"
-    },
-    {
-      "id": 40331,
-      "name": "Daisuke Sakaguchi",
-      "photo": "https://image.tmdb.org/t/p/w500/cP9lnoYSCyIpSlUkZN4k6RoD7fF.jpg",
-      "biography": "Daisuke Sakaguchi is a Japanese voice actor affiliated with Aoni Production.",
-      "birthday": "1973-10-11",
-      "deathday": null,
-      "place_of_birth": "Kashiwazaki, Niigata, Japan",
-      "known_for_department": "Acting",
-      "popularity": 1.7678,
-      "imdb_id": "nm1160233",
-      "also_known_as": [
-        "坂口大助",
-        "さかぐち だいすけ",
-        "阪口 大助",
-        "دایسوکه ساکاگوچی"
-      ],
-      "movies": [
-        1530941
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/40331",
-      "imported_at": "2026-08-29T20:41:06.689Z"
     },
     {
       "id": 46814,
@@ -6192,28 +5708,6 @@
       "imported_at": "2026-08-29T20:41:52.630Z"
     },
     {
-      "id": 518,
-      "name": "Danny DeVito",
-      "photo": "https://image.tmdb.org/t/p/w500/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg",
-      "biography": "Daniel Michael DeVito Jr. (/dəˈviːtoʊ/ də-VEE-toh; born November 17, 1944) is an American actor, comedian and filmmaker. Known for his short stature, raspy voice, distinct accent, and energetic comedy roles, he gained prominence for his portrayal of the taxi dispatcher Louie De Palma in the television series Taxi (1978–1983), which won him a Golden Globe Award and an Emmy Award. Since 2006, he has played Frank Reynolds on the FX/FXX sitcom It's Always Sunny in Philadelphia.\n\nDeVito is known for his film roles in One Flew Over the Cuckoo's Nest (1975), Terms of Endearment (1983), Romancing the Stone (1984), The Jewel of the Nile (1985), Ruthless People (1986), Throw Momma from the Train (1987), Twins (1988), The War of the Roses (1989), Batman Returns (1992), Jack the Bear (1993), Junior (1994), Matilda (1996), L.A. Confidential (1997), The Big Kahuna (1999), Big Fish (2003), Deck the Halls (2006), When in Rome (2010), Wiener-Dog (2016), and Jumanji: The Next Level (2019). He has voiced roles in such films as Disney's Hercules (1997), The Lorax (2012), Smallfoot (2018), and Migration (2023).\n\nIn 1991, DeVito and Michael Shamberg founded production company Jersey Films. Soon afterwards, Stacey Sher became an equal partner. The production company is known for films such as Pulp Fiction (1994), Garden State (2004) and Freedom Writers (2007). He would later create a second production company, Jersey Films 2nd Avenue, with his daughter, Lucy, and son, Jake. DeVito also owned Jersey Television, which produced the Comedy Central series Reno 911!. DeVito and his wife Rhea Perlman starred together in his 1996 film Matilda, based on Roald Dahl's children's novel. DeVito was also one of the producers nominated for an Academy Award for Best Picture for Erin Brockovich (2000).\n\nFrom 2012 to 2013, DeVito played Willie Clark in the West End revival of Neil Simon's The Sunshine Boys. He made his Broadway debut as Gregory Solomon in the revival of Arthur Miller's The Price (2017), earning a Tony Award nomination for his performance. He returned to Broadway in the Theresa Rebeck play I Need That (2023).\n\nDescription above from the Wikipedia article Danny DeVito, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "1944-11-17",
-      "deathday": null,
-      "place_of_birth": "Asbury Park, New Jersey, USA",
-      "known_for_department": "Acting",
-      "popularity": 3.7627,
-      "imdb_id": "nm0000362",
-      "also_known_as": [
-        "Daniel Michael DeVito Jr.",
-        "Danny De Vito"
-      ],
-      "movies": [],
-      "series": [
-        2710
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/518",
-      "imported_at": "2026-08-29T20:43:45.501Z"
-    },
-    {
       "id": 1352948,
       "name": "Darin Toonder",
       "photo": "https://image.tmdb.org/t/p/w500/bD7Y9T7Y6XwDXjGJ8Suabyt1ZGo.jpg",
@@ -6250,28 +5744,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/1728860",
       "imported_at": "2026-08-29T20:41:20.534Z"
-    },
-    {
-      "id": 176653,
-      "name": "Dave Annable",
-      "photo": "https://image.tmdb.org/t/p/w500/5DXu9ZiB4dfqNmHIOGnhXMBouPP.jpg",
-      "biography": "From Wikipedia, the free encyclopedia.\n\nDavid Rodman \"Dave\" Annable (born September 15, 1979) is an American actor. He played the character of Justin Walker on the television series Brothers &amp; Sisters from 2006 to 2011.\n\nDescription above from the Wikipedia article Dave Annable, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "1979-09-15",
-      "deathday": null,
-      "place_of_birth": "Suffern, New York, USA",
-      "known_for_department": "Acting",
-      "popularity": 5.9309,
-      "imdb_id": "nm1616349",
-      "also_known_as": [
-        "David Rodman Annable ",
-        "دیو انابل"
-      ],
-      "movies": [],
-      "series": [
-        113962
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/176653",
-      "imported_at": "2026-08-29T20:19:37.054Z"
     },
     {
       "id": 543530,
@@ -6627,52 +6099,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/1030512",
       "imported_at": "2026-08-29T20:19:07.692Z"
-    },
-    {
-      "id": 110847,
-      "name": "Dayo Wong Chi-Wah",
-      "photo": "https://image.tmdb.org/t/p/w500/p3vNUTB35GexppsWMBxqpDpeihS.jpg",
-      "biography": "Dayo Wong Chi-Wah (Chinese: 黃子華) is a Hong Kong stand-up comedian and actor. Wong gained a bachelor's degree in philosophy from the University of Alberta in Canada.\n\nHe began his career in the entertainment industry in Hong Kong in 1984, but he is best known for his works in live stand-up comedy which he started performing regularly in 1990. Since then he has starred in TV dramas and films and has recorded several albums.\n\nIn comparison with his stand-up comedy and TV dramas, his movies are not as successful. When asked the reasons behind it, he explained that his ultimate goal is to look for something new in his movies. His visions make his work good to watch, but it is not good enough to attract people to pay for a cinema ticket. Additionally, he hates doing promotions for his work.",
-      "birthday": "1960-09-05",
-      "deathday": null,
-      "place_of_birth": "Hong Kong, British Crown Colony [now China]",
-      "known_for_department": "Acting",
-      "popularity": 2.1418,
-      "imdb_id": "nm0938990",
-      "also_known_as": [
-        "Dayo Wong Chi-Wah",
-        "Wong Chi-Wah",
-        "Wong Tze-Wah",
-        "黃子華",
-        "黄子华",
-        "Zihua Huang"
-      ],
-      "movies": [
-        1602727,
-        1667205
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/110847",
-      "imported_at": "2026-08-29T20:39:52.832Z"
-    },
-    {
-      "id": 88161,
-      "name": "Debbi Morgan",
-      "photo": "https://image.tmdb.org/t/p/w500/5uet40J3x2pLCxdqC07RjNHTzvH.jpg",
-      "biography": "Debbi Morgan (born September 20, 1956) is an American film and television actress. She is perhaps best known for her roles on All My Children and Charmed.",
-      "birthday": "1951-09-20",
-      "deathday": null,
-      "place_of_birth": "Dunn, North Carolina, USA",
-      "known_for_department": "Acting",
-      "popularity": 1.5539,
-      "imdb_id": "nm0005247",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        246246
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/88161",
-      "imported_at": "2026-08-29T20:19:46.470Z"
     },
     {
       "id": 138328,
@@ -7543,31 +6969,6 @@
       "imported_at": "2026-08-29T20:40:49.877Z"
     },
     {
-      "id": 19152,
-      "name": "Dylan Baker",
-      "photo": "https://image.tmdb.org/t/p/w500/4mw6xj8Aj3ixjjeUj9pZdZPTbvz.jpg",
-      "biography": "Dylan Baker (born October 7, 1959) is an American actor. He gained recognition for his roles in films such as Planes, Trains and Automobiles, Happiness, Thirteen Days, Road to Perdition, Spider-Man 2, Spider-Man 3, Trick 'r Treat, Revolutionary Road, Anchorman 2: The Legend Continues, and Selma. On television he has had prominent roles in series such as Murder One, The Good Wife, Damages, The Americans, and Homeland. For The Good Wife he earned three Primetime Emmy Award nominations.\n\nBaker was nominated for a Tony Award and a Drama Desk Award for his performance in the original production of La Bête in 1991. He made his directorial debut with the film 23 Blast in 2013.\n\nDescription above from the Wikipedia article Dylan Baker, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "1959-10-07",
-      "deathday": null,
-      "place_of_birth": "Syracuse, New York, USA",
-      "known_for_department": "Acting",
-      "popularity": 2.914,
-      "imdb_id": "nm0048414",
-      "also_known_as": [
-        "Colin R. Fox ",
-        "迪倫·貝克",
-        "دیلن بیکر",
-        "딜란 베이커",
-        "狄倫·貝克"
-      ],
-      "movies": [
-        1240889
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/19152",
-      "imported_at": "2026-08-29T20:31:14.408Z"
-    },
-    {
       "id": 95686,
       "name": "Dylan Sprouse",
       "photo": "https://image.tmdb.org/t/p/w500/zy7ueLZtJwiRFdYkDlzjQhbA6SW.jpg",
@@ -7652,29 +7053,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/1653235",
       "imported_at": "2026-08-29T20:45:03.622Z"
-    },
-    {
-      "id": 819,
-      "name": "Edward Norton",
-      "photo": "https://image.tmdb.org/t/p/w500/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
-      "biography": "Edward Harrison Norton (born August 18, 1969) is an American actor and filmmaker. After graduating from Yale College in 1991 with a degree in history, he worked for a few months in Japan before moving to New York City to pursue an acting career. He gained recognition and critical acclaim for his debut in Primal Fear (1996), which earned him a Golden Globe for Best Supporting Actor and an Academy Award nomination in the same category. His role as a redeemed neo-Nazi in American History X (1998) earned him an Academy Award nomination for Best Actor. He also starred in the film Fight Club (1999), which garnered a cult following.\n\nNorton established the production company Class 5 Films in 2003, and was director or producer of the films Keeping the Faith (2000), Down in the Valley (2005), and The Painted Veil (2006). He continued to receive praise for his acting roles in films such as The Score (2001), 25th Hour (2002), The Italian Job (2003), The Illusionist (2006), Moonrise Kingdom (2012), and The Grand Budapest Hotel (2014). His biggest commercial successes have been Red Dragon (2002), Kingdom of Heaven (2005), The Incredible Hulk (2008), and The Bourne Legacy (2012). For his roles as a haughty actor in Birdman (2014) and Pete Seeger in A Complete Unknown (2024), Norton earned further Academy Award nominations for Best Supporting Actor. He has also directed and acted in the crime film Motherless Brooklyn (2019) and starred in Glass Onion: A Knives Out Mystery (2022).\n\nNorton is an environmental activist and social entrepreneur. He is a trustee of Enterprise Community Partners, a non-profit organization that advocates for affordable housing, and serves as president of the American branch of the Maasai Wilderness Conservation Trust. He is also the UN Goodwill Ambassador for Biodiversity.",
-      "birthday": "1969-08-18",
-      "deathday": null,
-      "place_of_birth": "Boston, Massachusetts, USA",
-      "known_for_department": "Acting",
-      "popularity": 7.5976,
-      "imdb_id": "nm0001570",
-      "also_known_as": [
-        " Edward Harrison ",
-        "Ed Norton",
-        "Edward Harrison Norton"
-      ],
-      "movies": [
-        950028
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/819",
-      "imported_at": "2026-08-29T20:19:09.956Z"
     },
     {
       "id": 1472895,
@@ -8128,9 +7506,7 @@
       "movies": [
         1248832
       ],
-      "series": [
-        94997
-      ],
+      "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/2121005",
       "imported_at": "2026-08-29T20:20:28.597Z"
     },
@@ -8230,25 +7606,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/185065",
       "imported_at": "2026-08-29T20:19:30.869Z"
-    },
-    {
-      "id": 3513369,
-      "name": "Emmanuel Restrepo",
-      "photo": "https://image.tmdb.org/t/p/w500/hcyTajG2qdIabNbfdQP4h4gXcL5.jpg",
-      "biography": "",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "",
-      "known_for_department": "Acting",
-      "popularity": 1.1306,
-      "imdb_id": "",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        207333
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/3513369",
-      "imported_at": "2026-08-29T20:35:37.382Z"
     },
     {
       "id": 4730,
@@ -8432,33 +7789,6 @@
       "imported_at": "2026-08-29T20:35:45.852Z"
     },
     {
-      "id": 990393,
-      "name": "Erin Moriarty",
-      "photo": "https://image.tmdb.org/t/p/w500/2tFblvjBRUYwcVT1V1i79Ppd6wG.jpg",
-      "biography": "Erin Elair Moriarty (born June 24, 1994) is an American actress. She is known for her role as Annie January / Starlight in the Amazon Prime Video series The Boys (2019–present). Prior to The Boys, she had notable roles in Netflix's Jessica Jones (2015), HBO's True Detective (2014), and ABC's Red Widow (2013). Outside of television, she has appeared in acclaimed independent films The Kings of Summer and Captain Fantastic, among others.",
-      "birthday": "1994-06-24",
-      "deathday": null,
-      "place_of_birth": "New York City, New York, USA",
-      "known_for_department": "Acting",
-      "popularity": 4.7549,
-      "imdb_id": "nm3929195",
-      "also_known_as": [
-        "Έριν Μοριάρτι",
-        "ארין מוריארטי",
-        "艾琳·莫里亞蒂",
-        "에린 모리아티",
-        "エリン・モリアーティ",
-        "Erin Elair Moriarty ",
-        "ایرین موریارتی"
-      ],
-      "movies": [],
-      "series": [
-        76479
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/990393",
-      "imported_at": "2026-08-29T20:41:40.488Z"
-    },
-    {
       "id": 150396,
       "name": "Erroll Shand",
       "photo": "https://image.tmdb.org/t/p/w500/75nc5lUcp1So9RTNNr08NZ0oQDG.jpg",
@@ -8478,27 +7808,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/150396",
       "imported_at": "2026-08-29T20:19:03.596Z"
-    },
-    {
-      "id": 2606946,
-      "name": "Estefania Piñeres",
-      "photo": "https://image.tmdb.org/t/p/w500/sglSsX9DlO1PcWwmNdgZNUFAFOX.jpg",
-      "biography": "",
-      "birthday": "1991-03-26",
-      "deathday": null,
-      "place_of_birth": "Cartagena, Colombia",
-      "known_for_department": "Acting",
-      "popularity": 1.5494,
-      "imdb_id": "nm3875562",
-      "also_known_as": [
-        "Estefanía Piñeres Duque"
-      ],
-      "movies": [],
-      "series": [
-        207333
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/2606946",
-      "imported_at": "2026-08-29T20:35:38.338Z"
     },
     {
       "id": 222050,
@@ -8604,46 +7913,6 @@
       "imported_at": "2026-08-29T20:19:47.444Z"
     },
     {
-      "id": 2425998,
-      "name": "Eva Victor",
-      "photo": "https://image.tmdb.org/t/p/w500/nlEirkGOQPVUVgNzIqEJysnt70q.jpg",
-      "biography": "Eva Victor (born 11 February 1994) is a French-American actor, writer, and director. They appeared in the television series Billions from 2020 to 2023, and made their directorial debut with the self-starring independent film Sorry, Baby (2025), for which they were nominated for the Golden Globe Award for Best Actress in a Motion Picture - Drama.\n\nDescription above from the Wikipedia article Eva Victor, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "1994-02-11",
-      "deathday": null,
-      "place_of_birth": "Paris, France",
-      "known_for_department": "Acting",
-      "popularity": 1.8667,
-      "imdb_id": "nm6872447",
-      "also_known_as": [],
-      "movies": [
-        1240889
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/2425998",
-      "imported_at": "2026-08-29T20:31:13.436Z"
-    },
-    {
-      "id": 38940,
-      "name": "Evan Rachel Wood",
-      "photo": "https://image.tmdb.org/t/p/w500/ksXTb2bvqt60bCGRwBlWrNbZHnr.jpg",
-      "biography": "Evan Rachel Wood (born September 7, 1987) is an American actress and singer. Wood began her acting career in the late 1990s, appearing in several television series, including American Gothic and Once and Again. She made her debut as a leading film actress in Little Secrets (2002) and became well-known after her transition to a more adult-oriented Golden Globe-nominated role in the teen drama film Thirteen (2003). Wood continued acting mostly in independent films, including Pretty Persuasion (2005), Down in the Valley (2006), Running with Scissors (2006), and in the big studio production Across the Universe (2007). Wood's acting has drawn critical praise, and she has been described by The Guardian newspaper as being \"wise beyond her years\" and as \"one of the best actresses of her generation.\"",
-      "birthday": "1987-09-07",
-      "deathday": null,
-      "place_of_birth": "Raleigh, North Carolina, USA",
-      "known_for_department": "Acting",
-      "popularity": 3.5592,
-      "imdb_id": "nm0939697",
-      "also_known_as": [
-        "Evan Rachael Wood"
-      ],
-      "movies": [],
-      "series": [
-        298168
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/38940",
-      "imported_at": "2026-08-29T20:35:29.352Z"
-    },
-    {
       "id": 933271,
       "name": "Eve Hewson",
       "photo": "https://image.tmdb.org/t/p/w500/1OlMfQrXEujIPTBUWt3AM0J0hJa.jpg",
@@ -8725,27 +7994,6 @@
       "imported_at": "2026-08-29T20:19:32.446Z"
     },
     {
-      "id": 1829122,
-      "name": "Ewan Mitchell",
-      "photo": "https://image.tmdb.org/t/p/w500/v1PqysDnx5umfA2DqGyjwuAxc9C.jpg",
-      "biography": "Ewan Mitchell (born 8 March 1997) is an English actor known for his roles in the ITV period drama The Halcyon (2017), the medieval series The Last Kingdom (2017–2022), the BBC war drama World on Fire (2019–), and the HBO fantasy series House of the Dragon (2022–). He has also appeared in the ITV crime thriller Trigger Point (2022) and the films High Life (2018, Claire Denis) and Saltburn (2023, Emerald Fennell).",
-      "birthday": "1997-03-08",
-      "deathday": null,
-      "place_of_birth": "Derby, Derbyshire, England, UK",
-      "known_for_department": "Acting",
-      "popularity": 3.0452,
-      "imdb_id": "nm7359071",
-      "also_known_as": [
-        "Ewan Robert Mitchell"
-      ],
-      "movies": [],
-      "series": [
-        94997
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1829122",
-      "imported_at": "2026-08-29T20:20:31.069Z"
-    },
-    {
       "id": 1125,
       "name": "Ewen Bremner",
       "photo": "https://image.tmdb.org/t/p/w500/u80rtfJRqCg4qKcdEPmYv8IkCvu.jpg",
@@ -8822,29 +8070,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/4947443",
       "imported_at": "2026-08-29T20:41:36.835Z"
-    },
-    {
-      "id": 2583704,
-      "name": "Fabien Frankel",
-      "photo": "https://image.tmdb.org/t/p/w500/nXh1h7KbdeZc41ucwGhzp1cOMnd.jpg",
-      "biography": "Frankel was born at Chelsea and Westminster Hospital in West London, to English actor Mark Frankel and actress/composer Caroline Besson. His father's family is Jewish, including Jewish ancestors from Iraq and Mumbai, India through his paternal grandmother. Frankel lost his father to a road accident when he was two, while his mother was pregnant with his younger brother Max. The two brothers were raised in London by their mother and spoke French at home. She introduced them to film by taking them to the cinema once a week.\n\nFrankel took a year-long Foundation Course at the Royal Academy of Dramatic Art (RADA) before going on to graduate with a Bachelor of Arts in Professional Acting from the London Academy of Music and Dramatic Art (LAMDA) in 2017.",
-      "birthday": "1994-04-06",
-      "deathday": null,
-      "place_of_birth": "London, England, UK",
-      "known_for_department": "Acting",
-      "popularity": 1.9684,
-      "imdb_id": "nm8844328",
-      "also_known_as": [
-        "Fabien Joseph Besson-Frankel",
-        "Fabien Joseph Frankel",
-        "Fabien Besson-Frankel"
-      ],
-      "movies": [],
-      "series": [
-        94997
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/2583704",
-      "imported_at": "2026-08-29T20:20:29.838Z"
     },
     {
       "id": 4526195,
@@ -8988,29 +8213,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/1442069",
       "imported_at": "2026-08-29T20:40:15.429Z"
-    },
-    {
-      "id": 1638505,
-      "name": "Fish Liew Chi-Yu",
-      "photo": "https://image.tmdb.org/t/p/w500/5DdEQnAqSscHFbn3hlu0mna7Fwu.jpg",
-      "biography": "Fish Liew Chi-Yu, actress, was selected as the Best New Performer of the 33rd Hong Kong Film Awards for \"Doomsday Party\"",
-      "birthday": "1990-03-31",
-      "deathday": null,
-      "place_of_birth": " Malaysia",
-      "known_for_department": "Acting",
-      "popularity": 2.7604,
-      "imdb_id": "nm7184245",
-      "also_known_as": [
-        "廖子妤",
-        "Liew Chi Yu"
-      ],
-      "movies": [
-        1602727,
-        1667205
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/1638505",
-      "imported_at": "2026-08-29T20:39:53.786Z"
     },
     {
       "id": 187058,
@@ -9443,31 +8645,6 @@
       "imported_at": "2026-08-29T20:44:47.852Z"
     },
     {
-      "id": 589162,
-      "name": "Genesis Rodriguez",
-      "photo": "https://image.tmdb.org/t/p/w500/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg",
-      "biography": "Génesis Rodríguez Pérez (born July 29, 1987) is an American actress. She is known for her roles in the Telemundo television telenovela series Prisionera, Dame Chocolate and Doña Bárbara. She also played Becky Ferrer on Days of our Lives. She has also starred in the films Man on a Ledge, Casa de Mi Padre, What to Expect When You're Expecting, and The Last Stand.",
-      "birthday": "1987-07-29",
-      "deathday": null,
-      "place_of_birth": "Miami, Florida, USA",
-      "known_for_department": "Acting",
-      "popularity": 15.7828,
-      "imdb_id": "nm1270009",
-      "also_known_as": [
-        "Генезис Родригес",
-        "Génesis Rodríguez Pérez",
-        "제네시스 로드리게스",
-        "Génesis Rodríguez",
-        "جنسیس رودریگز"
-      ],
-      "movies": [],
-      "series": [
-        113962
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/589162",
-      "imported_at": "2026-08-29T20:19:38.287Z"
-    },
-    {
       "id": 1,
       "name": "George Lucas",
       "photo": "https://image.tmdb.org/t/p/w500/mDLDvsx8PaZoEThkBdyaG1JxPdf.jpg",
@@ -9645,27 +8822,6 @@
       "imported_at": "2026-08-29T20:41:44.015Z"
     },
     {
-      "id": 12214,
-      "name": "Gillian Anderson",
-      "photo": "https://image.tmdb.org/t/p/w500/3Ny8ZYahb33vpqNEPNCE2IOXPew.jpg",
-      "biography": "Gillian Leigh Anderson OBE (born August 9, 1968) is an American actress, writer, and activist. She is best known for her roles as FBI Special Agent Dana Scully in the sci-fi series The X-Files (1993–2002; 2016–2018), Lily Bart in the drama film The House of Mirth (2000), DSI Stella Gibson in the BBC/RTÉ crime drama series The Fall (2013–2016), Jean Milburn in the Netflix comedy-drama series Sex Education (2019–2023), and Margaret Thatcher in the fourth season of the Netflix drama series The Crown (2020). She has won two Primetime Emmy Awards, two Golden Globe Awards, and four Screen Actors Guild Awards.\n\nBorn in Chicago, Anderson was raised first in London and then in Grand Rapids, Michigan. She later started her career onstage in New York City before achieving international recognition for her work on The X-Files. Her film work includes the dramas The Mighty Celt (2005), The Last King of Scotland (2006), Shadow Dancer (2012), and Viceroy's House (2017), as well as the X-Files films Fight the Future (1998) and I Want to Believe (2008). Her television credits include Lady Dedlock in Bleak House (2005), Wallis Simpson in Any Human Heart (2010), Miss Havisham in Great Expectations (2011), Dr. Bedelia Du Maurier on Hannibal (2013–2015), Media in the first season of American Gods (2017), and Eleanor Roosevelt on The First Lady (2022).\n\nAnderson has also received awards and acclaim for her stage work, which includes Absent Friends (1991), for which she won a Theatre World Award for Best Newcomer; A Doll's House (2009), for which she was nominated for a Laurence Olivier Award for Best Actress; Blanche DuBois in A Streetcar Named Desire (2014 and 2016), for which she won the Evening Standard Theatre Award for Best Actress and received a second Laurence Olivier Award nomination; and All About Eve (2019), for which she received a third Laurence Olivier Award nomination.\n\nAnderson has supported numerous charities and humanitarian organizations, being an honorary spokesperson for the Neurofibromatosis Network and a co-founder of South African Youth Education for Sustainability (SAYes). She has lived in London since 2002 and was appointed an honorary Officer of the Most Excellent Order of the British Empire (OBE) in 2016 for her services to drama.\n\nDescription above from the Wikipedia article Gillian Anderson, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "1968-08-09",
-      "deathday": null,
-      "place_of_birth": "Chicago, Illinois, USA",
-      "known_for_department": "Acting",
-      "popularity": 4.3982,
-      "imdb_id": "nm0000096",
-      "also_known_as": [
-        "Gillian Leigh Anderson"
-      ],
-      "movies": [
-        1240889
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/12214",
-      "imported_at": "2026-08-29T20:31:12.484Z"
-    },
-    {
       "id": 239059,
       "name": "Gina Alajar",
       "photo": "https://image.tmdb.org/t/p/w500/rm7okApJy5OT9aDi4dvNj7Dms2y.jpg",
@@ -9726,28 +8882,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/83271",
       "imported_at": "2026-08-29T20:40:36.272Z"
-    },
-    {
-      "id": 77870,
-      "name": "Glenn Howerton",
-      "photo": "https://image.tmdb.org/t/p/w500/r3KJd0Ea7lyrAHWl2Ww8lMh29hx.jpg",
-      "biography": "Glenn Franklin Howerton III (born April 13, 1976) is an American actor of television and film. He is best-known for his role as Dennis Reynolds on FX's It's Always Sunny in Philadelphia (on which he is also a writer and executive producer). He also played Corey Howard on the short-lived 2002 sitcom That '80s Show.\n\nDescription above from the Wikipedia article Glenn Franklin Howerton, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "1976-04-13",
-      "deathday": null,
-      "place_of_birth": "Okinawa, Japan",
-      "known_for_department": "Acting",
-      "popularity": 1.9913,
-      "imdb_id": "nm1097351",
-      "also_known_as": [
-        "Глен Говертон",
-        "Ґленн Говертон"
-      ],
-      "movies": [],
-      "series": [
-        2710
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/77870",
-      "imported_at": "2026-08-29T20:43:44.531Z"
     },
     {
       "id": 85173,
@@ -9826,27 +8960,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/126881",
       "imported_at": "2026-08-29T20:41:26.321Z"
-    },
-    {
-      "id": 5622327,
-      "name": "Graham Campbell",
-      "photo": "https://image.tmdb.org/t/p/w500/km4WcqbKnh6kPZATLQ2D88uvMbx.jpg",
-      "biography": "",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "",
-      "known_for_department": "Acting",
-      "popularity": 1.1683,
-      "imdb_id": "nm14553465",
-      "also_known_as": [
-        "Graham Edward Campbell"
-      ],
-      "movies": [],
-      "series": [
-        298168
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/5622327",
-      "imported_at": "2026-08-29T20:35:29.042Z"
     },
     {
       "id": 1260481,
@@ -10164,27 +9277,6 @@
       "imported_at": "2026-08-29T20:40:20.715Z"
     },
     {
-      "id": 2559506,
-      "name": "Hannah Einbinder",
-      "photo": "https://image.tmdb.org/t/p/w500/iWMeyJAghUYP3zxmOxzcYLU5G8Z.jpg",
-      "biography": "Hannah Einbinder (born May 21, 1995) is an American actress and stand-up comedian. She is best known for her starring role as struggling comedy writer Ava Daniels in the HBO Max dramedy series Hacks, for which she received a Primetime Emmy Award and a Critics' Choice Television Award, as well as four Golden Globe Award nominations.\n\nDescription above from the Wikipedia article Hannah Einbinder, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "1995-05-21",
-      "deathday": null,
-      "place_of_birth": "Los Angeles, California, USA",
-      "known_for_department": "Acting",
-      "popularity": 2.7354,
-      "imdb_id": "nm5709972",
-      "also_known_as": [
-        "한나 에인빈더"
-      ],
-      "movies": [
-        1240889
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/2559506",
-      "imported_at": "2026-08-29T20:31:12.111Z"
-    },
-    {
       "id": 1278487,
       "name": "Hannah Waddingham",
       "photo": "https://image.tmdb.org/t/p/w500/eHAICyhvjiRZCgzKyJCk9hWnnjr.jpg",
@@ -10295,25 +9387,6 @@
       "imported_at": "2026-08-29T20:45:14.991Z"
     },
     {
-      "id": 4129855,
-      "name": "Harry Belden",
-      "photo": "https://image.tmdb.org/t/p/w500/lkEyIjVsOKOzJgMZE2o8DCrOkbF.jpg",
-      "biography": "Harry Belden is an American actor. He has voiced Morty Smith and Evil Morty in the Adult Swim animated television series Rick and Morty since season 7.",
-      "birthday": "1995-08-25",
-      "deathday": null,
-      "place_of_birth": "Chicago, Illinois, USA",
-      "known_for_department": "Acting",
-      "popularity": 0.6962,
-      "imdb_id": "nm8803649",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        60625
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/4129855",
-      "imported_at": "2026-08-29T20:35:34.263Z"
-    },
-    {
       "id": 6008,
       "name": "Harry Shearer",
       "photo": "https://image.tmdb.org/t/p/w500/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg",
@@ -10376,47 +9449,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/1743875",
       "imported_at": "2026-08-29T20:44:32.072Z"
-    },
-    {
-      "id": 5642946,
-      "name": "Hayes Warner",
-      "photo": "https://image.tmdb.org/t/p/w500/eXmaXyWCHe7ESdMHRNBilntvdxp.jpg",
-      "biography": "Hayes Warner is an American singer and actress.",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "New York, USA",
-      "known_for_department": "Acting",
-      "popularity": 1.5015,
-      "imdb_id": "nm14733113",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        298168
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/5642946",
-      "imported_at": "2026-08-29T20:35:28.716Z"
-    },
-    {
-      "id": 3188657,
-      "name": "Hazel Lam",
-      "photo": "https://image.tmdb.org/t/p/w500/nlLdUcVkdUYcmVBZKJuHlDxtLqe.jpg",
-      "biography": "",
-      "birthday": "2003-11-20",
-      "deathday": null,
-      "place_of_birth": "Hong Kong",
-      "known_for_department": "Acting",
-      "popularity": 0.6658,
-      "imdb_id": "",
-      "also_known_as": [
-        "Hazel Lam Hei-Tung"
-      ],
-      "movies": [
-        1602727,
-        1667205
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/3188657",
-      "imported_at": "2026-08-29T20:39:55.414Z"
     },
     {
       "id": 1671010,
@@ -10809,33 +9841,12 @@
         "Houchu Otsuka",
         "هچو اوتسوکا"
       ],
-      "movies": [
-        1530941
-      ],
+      "movies": [],
       "series": [
         82684
       ],
       "tmdb_url": "https://www.themoviedb.org/person/552683",
       "imported_at": "2026-08-29T20:39:44.643Z"
-    },
-    {
-      "id": 4704845,
-      "name": "Homer Gere",
-      "photo": "https://image.tmdb.org/t/p/w500/bZAfJ2GbeCCYGEDDz25hPBdqMHD.jpg",
-      "biography": "Homer James Jigme Gere (born 6 February 2000) is an American television and film actor, known for The Shards (2026) and Euphoria (2019). He is the son of actors Richard Gere and Carey Lowell.",
-      "birthday": "2000-02-06",
-      "deathday": null,
-      "place_of_birth": "New York City, New York, USA",
-      "known_for_department": "Acting",
-      "popularity": 1.4375,
-      "imdb_id": "nm14756470",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        298168
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/4704845",
-      "imported_at": "2026-08-29T20:35:28.408Z"
     },
     {
       "id": 1158435,
@@ -11213,25 +10224,6 @@
       "imported_at": "2026-08-29T20:35:51.835Z"
     },
     {
-      "id": 4322756,
-      "name": "Ian Cardoni",
-      "photo": "https://image.tmdb.org/t/p/w500/iEC17Hj50xsH99GTRai14yWP0wp.jpg",
-      "biography": "Ian Cardoni is an American actor. He has voiced Rick Sanchez in the animated television series \"Rick and Morty\" since season 7.",
-      "birthday": "1990-06-12",
-      "deathday": null,
-      "place_of_birth": "Norwood, Massachusetts, USA",
-      "known_for_department": "Acting",
-      "popularity": 0.9316,
-      "imdb_id": "nm3264535",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        60625
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/4322756",
-      "imported_at": "2026-08-29T20:35:33.950Z"
-    },
-    {
       "id": 4410339,
       "name": "Ida Appel",
       "photo": "https://image.tmdb.org/t/p/w500/4aU9cbXjQBQVP9TIz0HjyBC2Ysw.jpg",
@@ -11274,25 +10266,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/17605",
       "imported_at": "2026-08-29T20:40:26.198Z"
-    },
-    {
-      "id": 2982416,
-      "name": "Igby Rigney",
-      "photo": "https://image.tmdb.org/t/p/w500/iWrTtze4lRQ3t6LQL7UzneguPTo.jpg",
-      "biography": "Igby Rigney is an actor known for The Shards (2026), Grey's Anatomy (2025) and The Midnight Club (2022)",
-      "birthday": "2003-06-06",
-      "deathday": null,
-      "place_of_birth": "United States of America",
-      "known_for_department": "Acting",
-      "popularity": 1.6345,
-      "imdb_id": "nm9723807",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        298168
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/2982416",
-      "imported_at": "2026-08-29T20:35:27.731Z"
     },
     {
       "id": 73044,
@@ -11388,27 +10361,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/2182738",
       "imported_at": "2026-08-29T20:42:05.781Z"
-    },
-    {
-      "id": 448468,
-      "name": "Indrajith Sukumaran",
-      "photo": "https://image.tmdb.org/t/p/w500/32YxjXVmgkPCVKUQAkNqWUGbBIl.jpg",
-      "biography": "Indrajith Sukumaran is an Indian film actor and singer best known for his work in Malayalam cinema. He is the eldest son of late actor Sukumaran. Indrajith made his debut in 2002 in the film Oomappenninu Uriyadappayyan. Wikipedia",
-      "birthday": "1980-12-17",
-      "deathday": null,
-      "place_of_birth": "Thiruvananthapuram, Kerala, India",
-      "known_for_department": "Acting",
-      "popularity": 0.9063,
-      "imdb_id": "nm1011348",
-      "also_known_as": [
-        "ഇന്ദ്രജിത്ത് സുകുമാരൻ"
-      ],
-      "movies": [
-        1293550
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/448468",
-      "imported_at": "2026-08-29T20:41:33.098Z"
     },
     {
       "id": 87879,
@@ -11814,25 +10766,6 @@
       "imported_at": "2026-08-29T20:42:21.199Z"
     },
     {
-      "id": 4855821,
-      "name": "Jack Innanen",
-      "photo": "https://image.tmdb.org/t/p/w500/zaretZWlulyMSH9xvsNY64pcqYh.jpg",
-      "biography": "Jack Innanen is a Canadian comedian and actor.  He was raised in Cambridge, Ontario, where he attended Galt Collegiate Institute.\n\nHe first came to prominence for creating viral TikTok videos, which earned him more than three million followers on the platform, which became a full-time job in 2022. He later moved to New York to pursue an acting career.\n\nHe had his first television role on Canadian sketch comedy series The Dessert. He also appeared in Crave comedy series The Office Movers in 2024.\n\nHe portrays Paul Baker in FX comedy series Adults (originally developed under the name Snowflakes), created by The Tonight Show writers Ben Kronengold and Rebecca Shaw, and executive produced by Nick Kroll, about five housemates in Queens, New York, but filmed in Toronto. His character, Paul Baker, was initially conceived as from Colorado but was rewritten as Canadian. It was only the second show he had auditioned for after moving to the United States.\n\nIn August 2025, he was announced as part of Netflix comedy series Big Mistakes.",
-      "birthday": "1999-04-07",
-      "deathday": null,
-      "place_of_birth": "Toronto, Ontario, Canada",
-      "known_for_department": "Acting",
-      "popularity": 1.0354,
-      "imdb_id": "nm14640164",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        260458
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/4855821",
-      "imported_at": "2026-08-29T20:20:16.218Z"
-    },
-    {
       "id": 1334638,
       "name": "Jack Lowden",
       "photo": "https://image.tmdb.org/t/p/w500/3wSE6uHLkslE9xvRiMbnphuI0VK.jpg",
@@ -11852,32 +10785,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/1334638",
       "imported_at": "2026-08-29T20:44:45.057Z"
-    },
-    {
-      "id": 1030513,
-      "name": "Jack Quaid",
-      "photo": "https://image.tmdb.org/t/p/w500/320qW5yEbxpmyxQ3evmClJbtKag.jpg",
-      "biography": "Jack Henry Quaid (born April 24, 1992) is an American actor. He made his acting debut with a minor role in the dystopian film The Hunger Games (2012). Quaid was part of the main cast of the drama series Vinyl (2016) and had a supporting role in the film Logan Lucky (2017). His breakout role was as vigilante Hughie Campbell in the satirical superhero series The Boys (2019–2026).\n\nQuaid has voiced Bradward \"Brad\" Boimler in the series Star Trek: Lower Decks (2020–2024) and Superman in My Adventures with Superman (2023–present). He played Richie Kirsch in the slasher film Scream (2022) and physicist Richard Feynman in Oppenheimer (2023) and has since taken on starring roles in the films Companion and Novocaine (both 2025).\n\nHe is the son of actors Meg Ryan and Dennis Quaid.",
-      "birthday": "1992-04-24",
-      "deathday": null,
-      "place_of_birth": "Los Angeles, California, USA",
-      "known_for_department": "Acting",
-      "popularity": 3.9506,
-      "imdb_id": "nm4425051",
-      "also_known_as": [
-        "Τζακ Κουέιντ",
-        "Jack Henry Quaid",
-        "잭 퀘이드",
-        "杰克·奎德",
-        "傑克·奎德",
-        "جک کواید"
-      ],
-      "movies": [],
-      "series": [
-        76479
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1030513",
-      "imported_at": "2026-08-29T20:41:39.869Z"
     },
     {
       "id": 1007683,
@@ -12130,48 +11037,6 @@
       "imported_at": "2026-08-29T20:18:47.413Z"
     },
     {
-      "id": 1224342,
-      "name": "James Jordan",
-      "photo": "https://image.tmdb.org/t/p/w500/8flzkBpcrl0QqjDnXhbg52rsNOY.jpg",
-      "biography": "Jordan grew up in Texas and Webb City, Missouri, graduating from Webb City High School in 1997. Jordan went to college at Missouri Southern in Joplin and graduated from UCLA School of Theater, Film and Television with a Master of Fine Arts in Acting.\n\nIn 2017, Jordan appeared in Wind River, written and directed by Taylor Sheridan. In 2021, Jordan was cast in Those Who Wish Me Dead. Jordan also had recurring roles in several Sheridan-created television shows such as Yellowstone (2018), Mayor of Kingstown (2021), 1883 (2021), Lioness (2023), and Landman (2024).",
-      "birthday": "1979-03-14",
-      "deathday": null,
-      "place_of_birth": "Houston, Texas, USA",
-      "known_for_department": "Acting",
-      "popularity": 3.3523,
-      "imdb_id": "nm2028579",
-      "also_known_as": [
-        "جیمز جوردن"
-      ],
-      "movies": [],
-      "series": [
-        113962
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1224342",
-      "imported_at": "2026-08-29T20:19:37.981Z"
-    },
-    {
-      "id": 1205278,
-      "name": "James Norton",
-      "photo": "https://image.tmdb.org/t/p/w500/3i9z9MkUCrlOGdMRw00j2vScxGC.jpg",
-      "biography": "James Geoffrey Ian Norton (born 18 July 1985) is an English actor. He is known for roles in the television series Happy Valley (2014–2023), Grantchester (2014–2019), War & Peace (2016), and McMafia (2018). He played the title role in the 2019 film Mr. Jones. He played King Harold Godwinson in the 2025 BBC historical mini-series King & Conqueror. He earned a nomination for Best Supporting Actor at the British Academy Television Awards in 2015 for his performance as Tommy Lee Royce in Happy Valley. He is also part of the main cast of House of Guinness (2025) and House of the Dragon (2026). Norton has a reputation for portraying villainous or complicated, morally conflicted characters.\n\nDescription above is from the Wikipedia article James Norton (actor), licensed under CC-BY-SA; full list of contributors is on Wikipedia.",
-      "birthday": "1985-07-18",
-      "deathday": null,
-      "place_of_birth": "Lambeth, London, England, UK",
-      "known_for_department": "Acting",
-      "popularity": 4.5936,
-      "imdb_id": "nm3584268",
-      "also_known_as": [
-        "James Geoffrey Ian Norton"
-      ],
-      "movies": [],
-      "series": [
-        94997
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1205278",
-      "imported_at": "2026-08-29T20:20:29.226Z"
-    },
-    {
       "id": 2096164,
       "name": "James Ortiz",
       "photo": "https://image.tmdb.org/t/p/w500/unzBwVsoq8rAH8BAYlPR1zsWQ4E.jpg",
@@ -12309,28 +11174,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/84706",
       "imported_at": "2026-08-29T20:13:17.080Z"
-    },
-    {
-      "id": 1508653,
-      "name": "Jasmin Savoy Brown",
-      "photo": "https://image.tmdb.org/t/p/w500/yWaCA2iKmVps20SFxwiB1DvbN6j.jpg",
-      "biography": "Jasmin Savoy Brown (born March 21, 1994) is an American actress. She has appeared in the HBO mystery drama series The Leftovers (2015–2017), the ABC legal drama series For the People (2018–2019), and the Showtime psychological drama series Yellowjackets (2021–present).\n\nBrown also acted in Sound of Violence (2021) and Scream (2022). She provided the voice and motion capture for Phin Mason / Tinkerer in the video game Spider-Man: Miles Morales (2020).",
-      "birthday": "1994-03-21",
-      "deathday": null,
-      "place_of_birth": "Alameda, California, USA",
-      "known_for_department": "Acting",
-      "popularity": 1.6614,
-      "imdb_id": "nm5506401",
-      "also_known_as": [
-        " Jasmin Brown",
-        "جاسمین ساوُی براون"
-      ],
-      "movies": [
-        1240889
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/1508653",
-      "imported_at": "2026-08-29T20:31:14.717Z"
     },
     {
       "id": 37203,
@@ -12765,25 +11608,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/6161",
       "imported_at": "2026-08-29T20:19:06.752Z"
-    },
-    {
-      "id": 1229787,
-      "name": "Jennifer Howell",
-      "photo": "https://image.tmdb.org/t/p/w500/tYgRyRGtDRyo5LBVv7McaRNY7LX.jpg",
-      "biography": "Jennifer Howell is a Canadian actress, best known as the voice of Bebe Stevens on the animated television series South Park.",
-      "birthday": "1973-08-13",
-      "deathday": null,
-      "place_of_birth": "",
-      "known_for_department": "Acting",
-      "popularity": 0.9069,
-      "imdb_id": "nm0397990",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        2190
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1229787",
-      "imported_at": "2026-08-29T20:43:35.663Z"
     },
     {
       "id": 10431,
@@ -13236,28 +12060,6 @@
       "imported_at": "2026-08-29T20:39:38.281Z"
     },
     {
-      "id": 82943,
-      "name": "Jill Wagner",
-      "photo": "https://image.tmdb.org/t/p/w500/gFtPDkS14CoDqNGnHsxNmaXZcGj.jpg",
-      "biography": "Jill Suzanne Wagner is an American actress and television personality. She was the on-field host for the ABC game show Wipeout from 2008 to 2011 and again from 2013 to 2014, briefly leaving during the fifth season in 2012. Since then, Wagner has starred in several made-for-television films for the Hallmark Channel and Hallmark Movies & Mysteries. She stars as Bobby in the Taylor Sheridan Paramount+ series Lioness (2023).",
-      "birthday": "1979-01-13",
-      "deathday": null,
-      "place_of_birth": "Winston-Salem, North Carolina, USA",
-      "known_for_department": "Acting",
-      "popularity": 10.3729,
-      "imdb_id": "nm1489978",
-      "also_known_as": [
-        "Jillian Suzanne Wagner",
-        "Jillian Wagner"
-      ],
-      "movies": [],
-      "series": [
-        113962
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/82943",
-      "imported_at": "2026-08-29T20:19:37.363Z"
-    },
-    {
       "id": 22125,
       "name": "Jimmi Simpson",
       "photo": "https://image.tmdb.org/t/p/w500/gerE8VqXfFyAs3QhbUlwEuZllKq.jpg",
@@ -13354,25 +12156,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/4722982",
       "imported_at": "2026-08-29T20:42:08.576Z"
-    },
-    {
-      "id": 1148989,
-      "name": "Jitendra Joshi",
-      "photo": "https://image.tmdb.org/t/p/w500/rUtSbkJXDwk3jmLiO0Zt8oNgIMO.jpg",
-      "biography": "Jitendra Joshi is an Indian actor and reality show host who predominantly works in Marathi cinema. He is well known for his lead role as Sant Tukaram Maharaj in the 2012 marathi movie Tukaram. He starred as constable Katekar in the hit Netflix television series Sacred Games.",
-      "birthday": "1978-01-27",
-      "deathday": null,
-      "place_of_birth": "Pune, Maharashtra, India",
-      "known_for_department": "Acting",
-      "popularity": 0.7439,
-      "imdb_id": "nm1241555",
-      "also_known_as": [],
-      "movies": [
-        1293550
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/1148989",
-      "imported_at": "2026-08-29T20:41:32.723Z"
     },
     {
       "id": 1307322,
@@ -14123,25 +12906,6 @@
       "imported_at": "2026-08-29T20:40:27.521Z"
     },
     {
-      "id": 1315619,
-      "name": "Jonah Wharton",
-      "photo": "https://image.tmdb.org/t/p/w500/4wisMOLFgPPQxm7gQO9wSI72O08.jpg",
-      "biography": "Jonah Wharton is an actor.",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "",
-      "known_for_department": "Acting",
-      "popularity": 1.5273,
-      "imdb_id": "nm3381677",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        113962
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1315619",
-      "imported_at": "2026-08-29T20:19:39.219Z"
-    },
-    {
       "id": 6243075,
       "name": "Jonathan Ciprian Breazu",
       "photo": "",
@@ -14488,25 +13252,6 @@
       "imported_at": "2026-08-29T20:42:38.240Z"
     },
     {
-      "id": 3042175,
-      "name": "Juanita Molina",
-      "photo": "https://image.tmdb.org/t/p/w500/y2x5rr85VVtlcbqum8vTypolDak.jpg",
-      "biography": "",
-      "birthday": "1997-04-29",
-      "deathday": null,
-      "place_of_birth": "Medellín, Colombia",
-      "known_for_department": "Acting",
-      "popularity": 2.0061,
-      "imdb_id": "",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        207333
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/3042175",
-      "imported_at": "2026-08-29T20:35:36.735Z"
-    },
-    {
       "id": 5752734,
       "name": "Jude Evan Lloyd",
       "photo": "https://image.tmdb.org/t/p/w500/vBbtBNsGKOZPvmdlyG6lUUkcNwF.jpg",
@@ -14646,46 +13391,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/1431703",
       "imported_at": "2026-08-29T20:40:39.147Z"
-    },
-    {
-      "id": 2603612,
-      "name": "Julian Horton",
-      "photo": "https://image.tmdb.org/t/p/w500/evrzsnEDl2DDqsafyYwqOGMoYFo.jpg",
-      "biography": "Julian Horton can be seen in the STX feature film National Champions, alongside J.K. Simmons, Timothy Olyphant, Uzo Aduba, and Lil Rel Howery. Alongside Neal McDonough and breakout star J. Alphonse Nicholson, Horton stars in another major sports film, Black Spartans. Horton plays a lead role portraying Gene Washington, a wide receiver from LaPorte, Texas that gets recruited to play football for Michigan State in the mid 1960's. The movie tells the groundbreaking story of Duffy Daugherty and his involvement in making the Michigan State Spartans the first team to ever be fully integrated in college football. Horton also appears in the feature The Re-Education of Molly Singer. He can also be seen in the Amazon distributed feature The House Invictus and countless other films. On the television side, Julian's first network appearance was on The CW's Legacies. Starring alongside Keri Hilson, Annie Ilonzeh, and Chris Warren, Horton stars in the thriller movie, Ruined. He has completed a two-episode arc on Tyler Perry/BET's Bruh, is a series regular on CleoTV's Tough Love Atlanta, and has appeared in numerous national commercials. Before transitioning into the world of acting, Horton played football for the Arkansas Razorbacks and Tennessee Titans in the early 2010's. Besides sports and acting, Horton is also a music producer, creating music for the Rap, R&B, and Pop genres.",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "",
-      "known_for_department": "Acting",
-      "popularity": 1.2681,
-      "imdb_id": "nm9430017",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        246246
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/2603612",
-      "imported_at": "2026-08-29T20:19:44.833Z"
-    },
-    {
-      "id": 1043806,
-      "name": "Julián Román",
-      "photo": "https://image.tmdb.org/t/p/w500/hiZHji2jqSfdGNdWW6Rm2k1NQwY.jpg",
-      "biography": "",
-      "birthday": "1977-10-23",
-      "deathday": null,
-      "place_of_birth": "Bogotá, DC, Colombia",
-      "known_for_department": "Acting",
-      "popularity": 0.7758,
-      "imdb_id": "nm0739814",
-      "also_known_as": [
-        "Julián Edgardo Román Rey"
-      ],
-      "movies": [],
-      "series": [
-        207333
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1043806",
-      "imported_at": "2026-08-29T20:35:37.702Z"
     },
     {
       "id": 4487890,
@@ -15047,28 +13752,6 @@
       "imported_at": "2026-08-29T20:42:49.366Z"
     },
     {
-      "id": 1957145,
-      "name": "Kaia Gerber",
-      "photo": "https://image.tmdb.org/t/p/w500/mUM9LGM3mtf6TEJXDpPou3KJhNR.jpg",
-      "biography": "Kaia Jordan Gerber is an American model and actress. After starring in a series of ad campaigns for fashion brands since debuting at Fashion Week in 2017, Gerber won Model of the Year at the British Fashion Awards in 2018. As an actress, she has appeared in supporting roles in the films Bottoms (2023) and Saturday Night (2024). She is the second child and only daughter of the supermodel Cindy Crawford and the businessman Rande Gerber.",
-      "birthday": "2001-09-03",
-      "deathday": null,
-      "place_of_birth": "Malibu, California, USA",
-      "known_for_department": "Acting",
-      "popularity": 2.0749,
-      "imdb_id": "nm7333021",
-      "also_known_as": [
-        "Kaia Jordan Gerber",
-        "Κάια Τζόρνταν Γκέρμπερ"
-      ],
-      "movies": [],
-      "series": [
-        298168
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1957145",
-      "imported_at": "2026-08-29T20:35:28.044Z"
-    },
-    {
       "id": 2312936,
       "name": "Kaik Pereira",
       "photo": "https://image.tmdb.org/t/p/w500/t8Ko416jwfO1ge6IhO3yBCMb9Gh.jpg",
@@ -15088,28 +13771,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/2312936",
       "imported_at": "2026-08-29T20:43:13.303Z"
-    },
-    {
-      "id": 95102,
-      "name": "Kaitlin Olson",
-      "photo": "https://image.tmdb.org/t/p/w500/z84SKRCVl9zPhP9AINVS8Bx8dRO.jpg",
-      "biography": "Kaitlin Willow Olson McElhenney (born August 18, 1975) is an American actress, comedian, and producer. She began her career in The Sunday Company at the Groundlings, an improvisational theatre and school in Los Angeles, California. She had minor roles in several television series before being cast as Deandra \"Sweet Dee\" Reynolds on the long-running FX comedy series It's Always Sunny in Philadelphia (2005–present).\n\nOlson starred as Mackenzie \"Micky\" Murphy in the Fox comedy series The Mick (2017–2018) and as Cricket Melfi in the Quibi comedy series Flipped (2020), which earned her a nomination for the Primetime Emmy Award for Outstanding Actress in a Short Form Comedy or Drama Series.\n\nShe has also appeared in films including Leap Year (2010), The Heat (2013), Vacation (2015), Finding Dory (2016), and Arizona (2018).\n\nShe has been married to actor Rob McElhenney, her co-star on It's Always Sunny in Philadelphia, since 2008.",
-      "birthday": "1975-08-18",
-      "deathday": null,
-      "place_of_birth": "Tigard, Portland, Oregon, USA",
-      "known_for_department": "Acting",
-      "popularity": 2.7947,
-      "imdb_id": "nm0647698",
-      "also_known_as": [
-        "Kaitlin Willow Olson McElhenney",
-        "Kaitlin Willow Olson"
-      ],
-      "movies": [],
-      "series": [
-        2710
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/95102",
-      "imported_at": "2026-08-29T20:43:45.161Z"
     },
     {
       "id": 3119545,
@@ -15198,60 +13859,13 @@
         "山口 光雄",
         "کاپِی یاماگوچی"
       ],
-      "movies": [
-        1530941
-      ],
+      "movies": [],
       "series": [
         30983,
         37854
       ],
       "tmdb_url": "https://www.themoviedb.org/person/68472",
       "imported_at": "2026-08-29T20:20:03.898Z"
-    },
-    {
-      "id": 1461608,
-      "name": "Karen Fukuhara",
-      "photo": "https://image.tmdb.org/t/p/w500/sG6CWLdENCtzukNFkFYyPxqyRmS.jpg",
-      "biography": "Karen Fukuhara (born February 10, 1992) is an American actress. She is known for her role of Tatsu Yamashiro / Katana in the 2016 DC superhero film Suicide Squad and as Kimiko / The Female on the popular Amazon Prime original series The Boys.",
-      "birthday": "1992-02-10",
-      "deathday": null,
-      "place_of_birth": "Los Angeles, California, USA",
-      "known_for_department": "Acting",
-      "popularity": 3.3342,
-      "imdb_id": "nm7232332",
-      "also_known_as": [
-        "Κάρεν Φουκουχάρα",
-        "福原かれん",
-        "福原凯伦",
-        "کارن فوکوهارا"
-      ],
-      "movies": [],
-      "series": [
-        76479
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1461608",
-      "imported_at": "2026-08-29T20:41:41.784Z"
-    },
-    {
-      "id": 1372,
-      "name": "Karl Urban",
-      "photo": "https://image.tmdb.org/t/p/w500/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg",
-      "biography": "Karl-Heinz Urban (born 7 June 1972) is a New Zealand actor. His career began with appearances in New Zealand films and TV series such as Xena: Warrior Princess. His first Hollywood role was in the 2002 horror film Ghost Ship. Since then, he has starred in many high-profile movies, including as Éomer in the second and third instalments of The Lord of the Rings trilogy, Vaako in the second and third instalments of the Riddick film series, Leonard McCoy in the Star Trek reboot film series, Kirill in The Bourne Supremacy (2004), John \"Reaper\" Grimm in Doom (2005), Judge Dredd in Dredd (2012), Gavin Magary in Pete's Dragon (2016), and Skurge in Marvel Studios' Thor: Ragnarok (2017). In 2013, he starred in the sci-fi series Almost Human. Since 2019, he has starred as Billy Butcher in Amazon's superhero series streaming on television, The Boys.",
-      "birthday": "1972-06-07",
-      "deathday": null,
-      "place_of_birth": "Wellington, New Zealand",
-      "known_for_department": "Acting",
-      "popularity": 4.7094,
-      "imdb_id": "nm0881631",
-      "also_known_as": [
-        "Karl-Heinz Urban"
-      ],
-      "movies": [],
-      "series": [
-        76479
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1372",
-      "imported_at": "2026-08-29T20:41:39.545Z"
     },
     {
       "id": 5060873,
@@ -15977,28 +14591,6 @@
       "imported_at": "2026-08-29T20:43:02.100Z"
     },
     {
-      "id": 18472,
-      "name": "Kevin Corrigan",
-      "photo": "https://image.tmdb.org/t/p/w500/obSUGc68mQDvFONalMg25Xw5GZM.jpg",
-      "biography": "Kevin Fitzgerald Corrigan (born March 27, 1969) is an American actor. He has appeared mostly in independent films and television since the 1990s, including the role of Uncle Eddie on the sitcom Grounded for Life. His film appearances have included a supporting role in The Departed and co-starring roles in Big Fan and Results. Wikipedia",
-      "birthday": "1969-03-27",
-      "deathday": null,
-      "place_of_birth": "The Bronx, New York City, New York, USA",
-      "known_for_department": "Acting",
-      "popularity": 6.0167,
-      "imdb_id": "nm0180984",
-      "also_known_as": [
-        "Kevin Fitzgerald Corrigan ",
-        "کوین کوریگان"
-      ],
-      "movies": [],
-      "series": [
-        108978
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/18472",
-      "imported_at": "2026-08-29T20:14:50.219Z"
-    },
-    {
       "id": 79072,
       "name": "Kevin Durand",
       "photo": "https://image.tmdb.org/t/p/w500/hINvryvce5tpod6kTnUg9ZTH8wg.jpg",
@@ -16065,31 +14657,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/934289",
       "imported_at": "2026-08-29T20:42:47.725Z"
-    },
-    {
-      "id": 101913,
-      "name": "Kikuko Inoue",
-      "photo": "https://image.tmdb.org/t/p/w500/pPxGWy53FgYSC79zmxblmHe0gI3.jpg",
-      "biography": "Kikuko Inoue is a Japanese voice actress, narrator and singer. She is the founder and manager of voice-acting company, Office Anemone. Kikuko tends to play the \"perfect girlfriend\" or \"motherly\" role in many series, but has also played more sultry and provocative roles.",
-      "birthday": "1964-09-25",
-      "deathday": null,
-      "place_of_birth": "Yokosuka, Kanagawa, Japan",
-      "known_for_department": "Acting",
-      "popularity": 2.317,
-      "imdb_id": "nm0409291",
-      "also_known_as": [
-        "いのうえ きくこ",
-        "井上 喜久子",
-        "井之上喜久子（旧名）",
-        "熊谷 喜久子（本名）",
-        "کیکوکو اینوئه"
-      ],
-      "movies": [
-        1530941
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/101913",
-      "imported_at": "2026-08-29T20:41:09.019Z"
     },
     {
       "id": 1193151,
@@ -16569,28 +15136,6 @@
       "imported_at": "2026-08-29T20:42:34.526Z"
     },
     {
-      "id": 1820616,
-      "name": "Konomi Kohara",
-      "photo": "https://image.tmdb.org/t/p/w500/3wjTzpJpBiTkLexdMmo9a3wfgRT.jpg",
-      "biography": "Konomi Kohara (小原 好美, Kohara Konomi) is a Japanese voice actress affiliated with Office Osawa. She debuted as a voice actress in 2016 and started to get main roles in 2017.",
-      "birthday": "1992-06-28",
-      "deathday": null,
-      "place_of_birth": "Kanagawa, Japan",
-      "known_for_department": "Acting",
-      "popularity": 2.4258,
-      "imdb_id": "nm8787094",
-      "also_known_as": [
-        "小原 好美",
-        "کونومی کوهارا"
-      ],
-      "movies": [],
-      "series": [
-        94664
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1820616",
-      "imported_at": "2026-08-29T20:36:14.095Z"
-    },
-    {
       "id": 1096458,
       "name": "Koo Kyo-hwan",
       "photo": "https://image.tmdb.org/t/p/w500/aFwCpSKPGFqoiTStY6ljXnD5CwH.jpg",
@@ -16843,25 +15388,6 @@
       "imported_at": "2026-08-29T20:39:40.822Z"
     },
     {
-      "id": 1094385,
-      "name": "LaMonica Garrett",
-      "photo": "https://image.tmdb.org/t/p/w500/yE5TBZ2qC5LAPDduBQAERo7EF3r.jpg",
-      "biography": "LaMonica Garrett is an American actor and former professional Slamball player. He is best known for Deputy Sheriff Cane in the FX series Sons of Anarchy (2011–2014), Mike Ritter in the abc/Netflix series Designated Survivor (2016–2018), John in Primal (2019), Mar Novu / Monitor and Anti-Monitor in the Arrowverse (2018–2020), Thomas in the Paramount+ series 1883 (2021–2022), and Tucker in the Paramount+ series Special Ops: Lioness (2023).\n\nFrom Wikipedia, the free encyclopedia",
-      "birthday": "1975-05-23",
-      "deathday": null,
-      "place_of_birth": "San Francisco, California, USA",
-      "known_for_department": "Acting",
-      "popularity": 4.0654,
-      "imdb_id": "nm1206818",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        113962
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1094385",
-      "imported_at": "2026-08-29T20:19:37.679Z"
-    },
-    {
       "id": 1452046,
       "name": "Lana Condor",
       "photo": "https://image.tmdb.org/t/p/w500/vWn27Fk2GLwH7o9fBG9hBWZI6OR.jpg",
@@ -17029,25 +15555,6 @@
       "imported_at": "2026-08-29T20:40:39.763Z"
     },
     {
-      "id": 5070901,
-      "name": "Laura Taylor",
-      "photo": "https://image.tmdb.org/t/p/w500/8LDjS0vTkwDjEht2HTbGciSLGps.jpg",
-      "biography": "",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "",
-      "known_for_department": "Acting",
-      "popularity": 0.8691,
-      "imdb_id": "",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        207333
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/5070901",
-      "imported_at": "2026-08-29T20:35:37.067Z"
-    },
-    {
       "id": 5221331,
       "name": "Lauren Azania",
       "photo": "",
@@ -17131,46 +15638,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/15100",
       "imported_at": "2026-08-29T20:20:22.525Z"
-    },
-    {
-      "id": 2034922,
-      "name": "Laysla De Oliveira",
-      "photo": "https://image.tmdb.org/t/p/w500/3hWOSY5ZXoyzp94OzGaooURK9hn.jpg",
-      "biography": "Laysla De Oliveira (born January 11, 1992, Brazilian descent) is a Canadian actress, dancer, model, and social media personality. She is known for her roles as Dodge in the Netflix series  Locke & Key, Veronica in the drama film Guest of Honour, and Becky DeMuth in the horror film In the Tall Grass.",
-      "birthday": "1992-01-11",
-      "deathday": null,
-      "place_of_birth": "Toronto, Ontario, Canada",
-      "known_for_department": "Acting",
-      "popularity": 8.6647,
-      "imdb_id": "nm5315658",
-      "also_known_as": [
-        "لایسلا دی اولیویرا"
-      ],
-      "movies": [],
-      "series": [
-        113962
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/2034922",
-      "imported_at": "2026-08-29T20:19:36.747Z"
-    },
-    {
-      "id": 10964,
-      "name": "Laz Alonso",
-      "photo": "https://image.tmdb.org/t/p/w500/nmgOd3X2Xn3jIp9OLCRJzLExRWN.jpg",
-      "biography": "Lazaro Alonso (born March 25, 1974) is an American actor. He is known for playing Tsu'tey in James Cameron's science fiction film Avatar and Fenix Calderon in the film Fast & Furious. Alonso has had roles in other films such as Jarhead, This Christmas, Miracle at St. Anna and Detroit. As of 2019, Alonso is part of the main cast of Amazon Prime Video original series The Boys (based on the comic book series of the same name) playing the character known as Marvin T. \"MM (Mother's Milk)\" Milk.",
-      "birthday": "1974-03-25",
-      "deathday": null,
-      "place_of_birth": "Washington, D.C., USA",
-      "known_for_department": "Acting",
-      "popularity": 3.139,
-      "imdb_id": "nm0022306",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        76479
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/10964",
-      "imported_at": "2026-08-29T20:41:40.820Z"
     },
     {
       "id": 1018045,
@@ -17822,29 +16289,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/2463716",
       "imported_at": "2026-08-29T20:19:19.407Z"
-    },
-    {
-      "id": 3834503,
-      "name": "Li Sum-Ling",
-      "photo": "https://image.tmdb.org/t/p/w500/tbmyX4mphVfCliqyGKSOn9AwuR8.jpg",
-      "biography": "",
-      "birthday": "1986-04-18",
-      "deathday": null,
-      "place_of_birth": "Hong Kong, British Crown Colony",
-      "known_for_department": "Acting",
-      "popularity": 0.7648,
-      "imdb_id": "",
-      "also_known_as": [
-        "Sumling@COLLAR",
-        "Sumling"
-      ],
-      "movies": [
-        1602727,
-        1667205
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/3834503",
-      "imported_at": "2026-08-29T20:39:55.084Z"
     },
     {
       "id": 4252188,
@@ -18523,32 +16967,6 @@
       "imported_at": "2026-08-29T20:42:18.831Z"
     },
     {
-      "id": 3164683,
-      "name": "Louise Wong Tan-Nei",
-      "photo": "https://image.tmdb.org/t/p/w500/awgMS0s7DMNyAyqWwTsSQM4Ud5K.jpg",
-      "biography": "Louise Wong Tan-Nei is a well-known model and actress in Hong Kong. At the age of 17, she participated in the Elite model competition and won the championship. She has been on catwalks in Japan and Milan Fashion Week. She sparked Hong Kong in portraying Anita Mui in Anita (2021)",
-      "birthday": "1989-07-03",
-      "deathday": null,
-      "place_of_birth": "Hong Kong, China",
-      "known_for_department": "Acting",
-      "popularity": 1.3623,
-      "imdb_id": "nm5867428",
-      "also_known_as": [
-        "王丹妮",
-        "Louise Wang",
-        "Louise Wong Tan-Nei",
-        "Louise Wong",
-        "Wong Tan-Nei"
-      ],
-      "movies": [
-        1602727,
-        1667205
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/3164683",
-      "imported_at": "2026-08-29T20:39:53.468Z"
-    },
-    {
       "id": 6363580,
       "name": "Luca Marandola",
       "photo": "https://image.tmdb.org/t/p/w500/9u9WsKV69ijFZD1gKiz4TIpFZeh.jpg",
@@ -18609,25 +17027,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/1399806",
       "imported_at": "2026-08-29T20:19:03.277Z"
-    },
-    {
-      "id": 1825530,
-      "name": "Lucy Freyer",
-      "photo": "https://image.tmdb.org/t/p/w500/l0NhTPgAwu1OTOsoiE2PnhxG3Jm.jpg",
-      "biography": "Lucy Freyer is an Australian stage, film, and television actress.\n\nFreyer trained at Juilliard School. Her first on-screen acting role after graduation was in the 2023 film Paint, in which she appeared alongside Wendi McLendon-Covey, Owen Wilson, and Michaela Watkins. Between January and April 2023, she appeared on stage as Esther in the off-Broadway play The Wanderers by Ann Ziegler, alongside Katie Holmes and Sarah Cooper for the Roundabout Theatre Company at the Laura Pels Theatre. For this performance, Freyer won a Theater World Award\n\nShe portrays Billie in the FX comedy series Adults (originally developed under the name Snowflakes), created by The Tonight Show writers Ben Kronengold and Rebecca Shaw, and executive produced by Nick Kroll. The series follows five housemates in Queens, New York, but was filmed in Toronto.",
-      "birthday": "1996-03-01",
-      "deathday": null,
-      "place_of_birth": " Sydney, New South Wales, Australia",
-      "known_for_department": "Acting",
-      "popularity": 0.8003,
-      "imdb_id": "nm7766607",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        260458
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1825530",
-      "imported_at": "2026-08-29T20:20:15.904Z"
     },
     {
       "id": 140,
@@ -19189,25 +17588,6 @@
       "imported_at": "2026-08-29T20:40:10.258Z"
     },
     {
-      "id": 4228139,
-      "name": "Malik Elassal",
-      "photo": "https://image.tmdb.org/t/p/w500/4El5xGscnSOKnd0zuvP3rgi8WS5.jpg",
-      "biography": "Malik Elassal (Arabic: مالك العسال) is a Canadian stand-up comedian and actor of Lebanese descent.\n\nHe began performing stand-up comedy shortly after graduating from the Calgary Islamic School. In 2022, he was named one of the New Faces of Comedy at the Just for Laughs festival in Montreal. He recorded the title track on Yeehaw Hell Yeah, a comedy album released by Just For Laughs. He appeared on Season 3 of 'The New Wave of Standup’ on CBC Gem in 2023.\n\nHe was featured on the Vulture (website) list of Comedians You Should and Will Know in 2024. He had television roles in Resident Alien, Joe Pickett, Fortunate Son, and Fakeland. He was an extra on the Christopher Nolan film Interstellar.\n\nHe portrays Samir in the FX comedy series Adults (originally developed under the name Snowflakes), created by The Tonight Show writers Ben Kronengold and Rebecca Shaw, and executive produced by Nick Kroll. The series follows five housemates in Queens, New York, but was filmed in Toronto.",
-      "birthday": "1996-04-12",
-      "deathday": null,
-      "place_of_birth": "Winnipeg, Manitoba, Canada",
-      "known_for_department": "Acting",
-      "popularity": 1.7937,
-      "imdb_id": "nm7453965",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        260458
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/4228139",
-      "imported_at": "2026-08-29T20:20:15.550Z"
-    },
-    {
       "id": 2369470,
       "name": "Mallory Adams",
       "photo": "https://image.tmdb.org/t/p/w500/c5CdKuNTubd0kZUA7oNizY7my8Z.jpg",
@@ -19286,29 +17666,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/16855",
       "imported_at": "2026-08-29T20:43:20.425Z"
-    },
-    {
-      "id": 4203374,
-      "name": "Mandy Tam Man-Huen",
-      "photo": "https://image.tmdb.org/t/p/w500/t42gHlOR22ef5EQslAQRLS15aCv.jpg",
-      "biography": "",
-      "birthday": "2000-11-15",
-      "deathday": null,
-      "place_of_birth": "Hong Kong",
-      "known_for_department": "Acting",
-      "popularity": 1.0637,
-      "imdb_id": "",
-      "also_known_as": [
-        "Mandy Tam ",
-        "Tam Man-Huen"
-      ],
-      "movies": [
-        1602727,
-        1667205
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/4203374",
-      "imported_at": "2026-08-29T20:39:54.774Z"
     },
     {
       "id": 3992498,
@@ -19467,25 +17824,6 @@
       "imported_at": "2026-08-29T20:20:03.159Z"
     },
     {
-      "id": 1251175,
-      "name": "Maria Adelaida Puerta",
-      "photo": "https://image.tmdb.org/t/p/w500/noYeO2kPdmRIfv6xnDNSQoOQQzU.jpg",
-      "biography": "",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "",
-      "known_for_department": "Acting",
-      "popularity": 1.4268,
-      "imdb_id": "nm1690463",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        207333
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1251175",
-      "imported_at": "2026-08-29T20:35:36.428Z"
-    },
-    {
       "id": 1931136,
       "name": "Mariana Santos",
       "photo": "https://image.tmdb.org/t/p/w500/rpi4IiA9YoUOPmVy6ekopPfEM06.jpg",
@@ -19597,25 +17935,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/1316401",
       "imported_at": "2026-08-29T20:40:40.387Z"
-    },
-    {
-      "id": 6353553,
-      "name": "Mario Valdez",
-      "photo": "https://image.tmdb.org/t/p/w500/4CShBxkTX3OLYtHjuAkMbzgKI5y.jpg",
-      "biography": "",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "",
-      "known_for_department": "Acting",
-      "popularity": 0.4861,
-      "imdb_id": "",
-      "also_known_as": [],
-      "movies": [
-        950028
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/6353553",
-      "imported_at": "2026-08-29T20:19:11.302Z"
     },
     {
       "id": 3141,
@@ -19964,47 +18283,6 @@
       "imported_at": "2026-08-29T20:13:14.142Z"
     },
     {
-      "id": 136532,
-      "name": "Matt Smith",
-      "photo": "https://image.tmdb.org/t/p/w500/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg",
-      "biography": "Matthew Robert Smith (born 28 October 1982) is an English actor. He is known for playing the Eleventh Doctor in the BBC science fiction television series Doctor Who (2010–2013), Prince Philip in Netflix's historical series The Crown (2016–2017)—for which he received a Primetime Emmy Award nomination—and Daemon Targaryen in HBO's fantasy drama series House of the Dragon(2022–present).\n\nSmith initially aspired to be a professional footballer, but spondylolysis forced him out of the sport. After joining the National Youth Theatre and studying drama and creative writing at the University of East Anglia, he began his acting career in 2003, performing in plays such as Murder in the Cathedral, Fresh Kills, The History Boys, and On the Shore of the Wide World in London theatres. Extending his repertoire into West End theatre, he has since performed in the stage adaptation of Swimming with Sharks with Christian Slater, followed a year later by a critically acclaimed performance in That Face.\n\nSmith's first television role was in 2006 as Jim Taylor in the BBC adaptations of Philip Pullman's The Ruby in the Smoke and The Shadow in the North. His first significant television role came as Danny in the 2007 BBC series Party Animals. In film, he has played a dual role in the science fiction film Womb (2010), the physical forms of Skynet in the cyberpunk action film Terminator Genisys (2015), a 1960s pimp in the psychological horror film Last Night in Soho (2021) and Milo Morbius in the superhero film Morbius (2022).\n\nDescription above from the Wikipedia article Matt Smith, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "1982-10-28",
-      "deathday": null,
-      "place_of_birth": "Northampton, Northamptonshire, England, UK",
-      "known_for_department": "Acting",
-      "popularity": 4.5254,
-      "imdb_id": "nm1741002",
-      "also_known_as": [
-        "Matthew Smith",
-        "マシュー・スミス"
-      ],
-      "movies": [],
-      "series": [
-        94997
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/136532",
-      "imported_at": "2026-08-29T20:20:28.240Z"
-    },
-    {
-      "id": 34518,
-      "name": "Matt Stone",
-      "photo": "https://image.tmdb.org/t/p/w500/nS3BOaF0EHd7vyATV7WBnFEvTLr.jpg",
-      "biography": "Matthew Richard \"Matt\" Stone (born May 26, 1971) is an American screenwriter, producer, voice artist, musician and actor, best known for being the co-creator of South Park along with creative partner and best friend, Trey Parker.\n\nStone started his film career in 1992, making a holiday short titled Jesus vs. Frosty. His first success came from Cannibal! The Musical. From there he made another short title Jesus vs. Santa, leading him and his college friend Trey Parker to create the animated television series South Park, which has been on television for over a decade. He has four Emmy Awards for his role in South Park, winning for both \"Outstanding Programming More Than One Hour\" and \"Outstanding Programming Less Than One Hour\".\n\nDescription above from the Wikipedia article Matt Stone, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "1971-05-26",
-      "deathday": null,
-      "place_of_birth": "Houston, Texas, USA",
-      "known_for_department": "Acting",
-      "popularity": 1.5998,
-      "imdb_id": "nm0001778",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        2190
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/34518",
-      "imported_at": "2026-08-29T20:43:34.790Z"
-    },
-    {
       "id": 1272291,
       "name": "Matthew Daddario",
       "photo": "https://image.tmdb.org/t/p/w500/s3y6xA1U8rJCcw4KmBv5xjjHJ7w.jpg",
@@ -20067,25 +18345,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/8654",
       "imported_at": "2026-08-29T20:31:29.011Z"
-    },
-    {
-      "id": 1584566,
-      "name": "Matthew Needham",
-      "photo": "https://image.tmdb.org/t/p/w500/sZHT2xFtnBawU3DoaWZACSv15gX.jpg",
-      "biography": "Matthew Needham (born 13 April 1984) is a British actor. He has worked on stage and screen, appearing in television series such as Casualty, Endeavour, and Sanditon. As of 2022, Needham portrays Larys Strong on the HBO fantasy series House of the Dragon. His performance in the series has received critical acclaim.",
-      "birthday": "1984-04-13",
-      "deathday": null,
-      "place_of_birth": "UK",
-      "known_for_department": "Acting",
-      "popularity": 1.7637,
-      "imdb_id": "nm2765916",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        94997
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1584566",
-      "imported_at": "2026-08-29T20:20:30.146Z"
     },
     {
       "id": 4707274,
@@ -20468,25 +18727,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/202952",
       "imported_at": "2026-08-29T20:35:46.470Z"
-    },
-    {
-      "id": 2079867,
-      "name": "Mel Powell",
-      "photo": "https://image.tmdb.org/t/p/w500/qu7T2uxliIK6TbCp1JAVY5rWPLl.jpg",
-      "biography": "",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "",
-      "known_for_department": "Acting",
-      "popularity": 0.6678,
-      "imdb_id": "nm9871432",
-      "also_known_as": [],
-      "movies": [
-        950028
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/2079867",
-      "imported_at": "2026-08-29T20:19:10.586Z"
     },
     {
       "id": 15091,
@@ -20901,28 +19141,6 @@
       "imported_at": "2026-08-29T20:13:02.660Z"
     },
     {
-      "id": 50217,
-      "name": "Michael Kelly",
-      "photo": "https://image.tmdb.org/t/p/w500/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg",
-      "biography": "Michael Kelly is an American actor. He is best known for his role as Doug Stamper in the Netflix drama series House of Cards. He also appeared as CIA Agent Mike November in the Prime Video thriller series Jack Ryan and Byron Westfield in the Paramount+ series Lioness.",
-      "birthday": "1969-05-22",
-      "deathday": null,
-      "place_of_birth": " Philadelphia, Pennsylvania, USA",
-      "known_for_department": "Acting",
-      "popularity": 4.9454,
-      "imdb_id": "nm0446672",
-      "also_known_as": [
-        "Michael Joseph Kelly ",
-        "Michael J. Kelly "
-      ],
-      "movies": [],
-      "series": [
-        113962
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/50217",
-      "imported_at": "2026-08-29T20:19:38.598Z"
-    },
-    {
       "id": 2626180,
       "name": "Michael Logo",
       "photo": "https://image.tmdb.org/t/p/w500/5cB0ENHqemY19DsMZyXF9tQ5a03.jpg",
@@ -21256,28 +19474,6 @@
       "imported_at": "2026-08-29T20:31:23.988Z"
     },
     {
-      "id": 4577915,
-      "name": "Miko Wong",
-      "photo": "https://image.tmdb.org/t/p/w500/fiV9ADkL7neaWpPclsyEoesfr1K.jpg",
-      "biography": "",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "Kuala Lumpur, Malaysia",
-      "known_for_department": "Acting",
-      "popularity": 0.936,
-      "imdb_id": "",
-      "also_known_as": [
-        "Wong Jie Kee"
-      ],
-      "movies": [
-        1602727,
-        1667205
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/4577915",
-      "imported_at": "2026-08-29T20:39:55.733Z"
-    },
-    {
       "id": 1454946,
       "name": "Milana Vayntrub",
       "photo": "https://image.tmdb.org/t/p/w500/i5Cou9ExwTZvRRtl79V75CsI7oC.jpg",
@@ -21588,28 +19784,6 @@
       "imported_at": "2026-08-29T20:31:26.104Z"
     },
     {
-      "id": 111466,
-      "name": "Mona Marshall",
-      "photo": "https://image.tmdb.org/t/p/w500/A2RCAt0Xmm3jLBKZogQAJX6eD9n.jpg",
-      "biography": "From Wikipedia, the free encyclopedia. Mona Marshall (born Mona Mortica Ianotti on August 31, 1947) is an American voice actress. She is often cast in the role of young boys. Her roles have included parts in not only Japanese anime, but also in American cartoons as well. Mona Marshall has recently lent her voice to the talking bear Koby the Study Buddy. Her most notable roles are that of playing Sheila Broflovski, Linda Stotch, and additional voices on the popular television show South Park as well as Kite, the main protagonist of the 2002 video game series .hack for PlayStation 2. In the 1990s, she provided the voice of the Native American princess in Young Pocahontas which was released on VHS March 15, 1995. Three months later, Disney's Pocahontas premiered in theaters.\n\nDescription above from the Wikipedia article Mona Marshall, licensed under CC-BY-SA,full list of contributors on Wikipedia.",
-      "birthday": "1947-08-31",
-      "deathday": null,
-      "place_of_birth": "Los Angeles, California, USA",
-      "known_for_department": "Acting",
-      "popularity": 1.1461,
-      "imdb_id": "nm0551065",
-      "also_known_as": [
-        "Mona Mortica Ianotti",
-        "Mona M. Ianotti "
-      ],
-      "movies": [],
-      "series": [
-        2190
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/111466",
-      "imported_at": "2026-08-29T20:43:35.351Z"
-    },
-    {
       "id": 1525043,
       "name": "Monica Barbaro",
       "photo": "https://image.tmdb.org/t/p/w500/nxkFcvDIC4tC3st1K1BJXJm1F2h.jpg",
@@ -21873,25 +20047,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/1755710",
       "imported_at": "2026-08-29T20:41:05.700Z"
-    },
-    {
-      "id": 239691,
-      "name": "Nagesh Bhonsle",
-      "photo": "https://image.tmdb.org/t/p/w500/iGtKPbzBJBZKabNNklpgS7mvOhA.jpg",
-      "biography": "",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "",
-      "known_for_department": "Acting",
-      "popularity": 0.8121,
-      "imdb_id": "nm0080426",
-      "also_known_as": [],
-      "movies": [
-        1293550
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/239691",
-      "imported_at": "2026-08-29T20:41:34.365Z"
     },
     {
       "id": 5255023,
@@ -22163,27 +20318,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/51797",
       "imported_at": "2026-08-29T20:35:45.193Z"
-    },
-    {
-      "id": 229422,
-      "name": "Nathan Mitchell",
-      "photo": "https://image.tmdb.org/t/p/w500/ivaVpN1bU2HzKmncuf1IAG6ohlb.jpg",
-      "biography": "",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "Canada ",
-      "known_for_department": "Acting",
-      "popularity": 1.3253,
-      "imdb_id": "nm1756121",
-      "also_known_as": [
-        "Νέιθαν Μίτσελ"
-      ],
-      "movies": [],
-      "series": [
-        76479
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/229422",
-      "imported_at": "2026-08-29T20:41:42.097Z"
     },
     {
       "id": 6317899,
@@ -22975,27 +21109,6 @@
       "imported_at": "2026-08-29T20:45:00.781Z"
     },
     {
-      "id": 1173984,
-      "name": "Olivia Cooke",
-      "photo": "https://image.tmdb.org/t/p/w500/wf71ctooNlVmiT8dxx0QmRAzyiX.jpg",
-      "biography": "Olivia Kate Cooke (born 27 December 1993) is an English actress. She is best known for her role as Alicent Hightower in the fantasy drama television series House of the Dragon (2022–present). In television, she has starred as Emma Decody in the thriller Bates Motel (2013–2017), Becky Sharp in the period drama Vanity Fair(2018), and a spy in the thriller Slow Horses(2022). \n\nIn films, Cooke has starred in the horror film Ouija(2014), the comedy-drama film Me and Earl and the Dying Girl (2015), the thriller Thoroughbreds(2017), the science fiction film Ready Player One(2018), the comedy thriller Pixie (2020), and the drama Sound of Metal (2020).\n\nDescription above from the Wikipedia article Olivia Cooke, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "1993-12-27",
-      "deathday": null,
-      "place_of_birth": "Oldham, Greater Manchester, England, UK",
-      "known_for_department": "Acting",
-      "popularity": 5.1352,
-      "imdb_id": "nm4972453",
-      "also_known_as": [
-        "Olivia Kate Cooke"
-      ],
-      "movies": [],
-      "series": [
-        94997
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1173984",
-      "imported_at": "2026-08-29T20:20:28.908Z"
-    },
-    {
       "id": 2462673,
       "name": "Olivia Morris",
       "photo": "https://image.tmdb.org/t/p/w500/iAzUTXzFWwEkRx6Ygudqnx4DmtW.jpg",
@@ -23013,27 +21126,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/2462673",
       "imported_at": "2026-08-29T20:35:54.005Z"
-    },
-    {
-      "id": 59315,
-      "name": "Olivia Wilde",
-      "photo": "https://image.tmdb.org/t/p/w500/eODi1QKamyVa41eSK2SjU20VAZS.jpg",
-      "biography": "Olivia Jane Cockburn (born March 10, 1984), known professionally as Olivia Wilde, is an American and Irish actress, director and producer. She played Remy \"Thirteen\" Hadley on the medical-drama television series House (2007–2012). She appeared in the action films Tron: Legacy (2010) and Cowboys & Aliens (2011), the romantic drama film Her (2013), the comedy film The Incredible Burt Wonderstone (2013), and the horror film The Lazarus Effect (2015). She made her Broadway debut playing Julia in 1984 (2017). \n\nWilde made her directorial debut with the teen comedy film Booksmart (2019), which received critical acclaim and won the Independent Spirit Award for Best First Feature. She directed the thriller  Don't Worry Darling (2022), which she also starred in.\n\nDescription above from the Wikipedia article Olivia Wilde, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "1984-03-10",
-      "deathday": null,
-      "place_of_birth": "New York City, New York, USA",
-      "known_for_department": "Acting",
-      "popularity": 5.7182,
-      "imdb_id": "nm1312575",
-      "also_known_as": [
-        "Olivia Jane Cockburn"
-      ],
-      "movies": [
-        950028
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/59315",
-      "imported_at": "2026-08-29T20:19:09.320Z"
     },
     {
       "id": 1988291,
@@ -23157,25 +21249,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/1586047",
       "imported_at": "2026-08-29T20:13:02.973Z"
-    },
-    {
-      "id": 2023314,
-      "name": "Owen Thiele",
-      "photo": "https://image.tmdb.org/t/p/w500/po9m5RptExM2cS78KnYWS6GGZ2B.jpg",
-      "biography": "Owen Thiele is an American actor and musician.",
-      "birthday": "1996-11-04",
-      "deathday": null,
-      "place_of_birth": "Houston, Texas, USA",
-      "known_for_department": "Acting",
-      "popularity": 0.9452,
-      "imdb_id": "nm6337477",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        260458
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/2023314",
-      "imported_at": "2026-08-29T20:20:16.828Z"
     },
     {
       "id": 1211946,
@@ -23475,28 +21548,6 @@
       "imported_at": "2026-08-29T20:30:42.244Z"
     },
     {
-      "id": 52801,
-      "name": "Patrick Fischler",
-      "photo": "https://image.tmdb.org/t/p/w500/vVj7GjHL9hOilbKwViXZpnUlbcQ.jpg",
-      "biography": "Patrick Fischler (born December 29, 1969) is an American actor known for his roles as Jimmy Barrett on the drama series Mad Men, Dharma Initiative worker Phil on the drama series Lost and Detective Kenny No-Gun on the police drama Southland. He has more than sixty film and television credits, including the films Mulholland Drive (2001), Ghost World (2001), Old School (2003), The Black Dahlia (2006), and Dinner for Schmucks (2010).",
-      "birthday": "1969-12-29",
-      "deathday": null,
-      "place_of_birth": "Los Angeles, California, USA",
-      "known_for_department": "Acting",
-      "popularity": 3.5463,
-      "imdb_id": "nm0279209",
-      "also_known_as": [
-        "Patrick Fishler",
-        "پاتریک فیشلر"
-      ],
-      "movies": [
-        1240889
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/52801",
-      "imported_at": "2026-08-29T20:31:14.071Z"
-    },
-    {
       "id": 115730,
       "name": "Patrick John Flueger",
       "photo": "https://image.tmdb.org/t/p/w500/gfUmEGjAUwXJOJs0YekWx8aV2ZP.jpg",
@@ -23767,27 +21818,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/3437121",
       "imported_at": "2026-08-29T20:40:21.040Z"
-    },
-    {
-      "id": 955,
-      "name": "Penélope Cruz",
-      "photo": "https://image.tmdb.org/t/p/w500/n5SFgmvJSENQt8poE4qYacUnKOi.jpg",
-      "biography": "Penélope Cruz Sánchez (born 28 April 1974) is a Spanish actress. Prolific in Spanish and English-language films, her accolades include an Academy Award, a BAFTA Award, a David di Donatello and three Goya Awards.\n\nCruz made her television acting debut at age 16, and her feature film debut the following year in Jamón Jamón (1992). Her subsequent roles included Belle Époque (1992), Open Your Eyes (1997), Don Juan (1998), The Hi-Lo Country (1999), The Girl of Your Dreams (2000) and Woman on Top (2000). She collaborated with Spanish director Pedro Almodóvar in Live Flesh (1997), All About My Mother (1999), Volver (2006), Broken Embraces (2009), I'm So Excited! (2013), Pain and Glory (2019), and Parallel Mothers (2021).\n\nFor her role in Woody Allen's romantic drama Vicky Cristina Barcelona (2008), Cruz won the Academy Award for Best Supporting Actress. Her other Oscar-nominated roles are in Volver (2006), Nine(2009), and Parallel Mothers (2021). Other films include Vanilla Sky (2001), Blow (2001), Pirates of the Caribbean: On Stranger Tides (2011), The Counselor (2013), Murder on the Orient Express (2017), Everybody Knows (2018), Official Competition (2022), L'immensità (2022), and Ferrari (2023). For her role as Donatella Versace in the miniseries The Assassination of Gianni Versace: American Crime Story (2018), she received a Primetime Emmy Award nomination. She is the only Spanish actress to have won an Academy Award and to have received a star on the Hollywood Walk of Fame. In 2007, she won the David di Donatello for the leading role in Don't Move.\n\nCruz has also modelled for Mango, Ralph Lauren, and L'Oréal, and has designed clothing for Mango with her younger sister, Mónica Cruz. She has been a house ambassador for Chanel since 2018. She volunteered in Uganda and India, where she spent one week working with Mother Teresa, and donated her salary from The Hi-Lo Country to help fund the now-deceased nun's mission.\n\nDescription above from the Wikipedia article Penélope Cruz, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "1974-04-28",
-      "deathday": null,
-      "place_of_birth": "Madrid, Spain",
-      "known_for_department": "Acting",
-      "popularity": 6.1588,
-      "imdb_id": "nm0004851",
-      "also_known_as": [
-        "Penélope Cruz Sánchez"
-      ],
-      "movies": [
-        950028
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/955",
-      "imported_at": "2026-08-29T20:19:09.639Z"
     },
     {
       "id": 1666681,
@@ -24416,25 +22446,6 @@
       "imported_at": "2026-08-29T20:41:03.742Z"
     },
     {
-      "id": 3709705,
-      "name": "Rachel Thurow",
-      "photo": "https://image.tmdb.org/t/p/w500/cmc9sL0MfauEeeyRPmMFvNDePhK.jpg",
-      "biography": "",
-      "birthday": "1976-01-30",
-      "deathday": null,
-      "place_of_birth": "Marin County, California, USA",
-      "known_for_department": "Acting",
-      "popularity": 0.7764,
-      "imdb_id": "nm10548160",
-      "also_known_as": [],
-      "movies": [
-        950028
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/3709705",
-      "imported_at": "2026-08-29T20:19:10.888Z"
-    },
-    {
       "id": 1146866,
       "name": "Rafael Cebrian",
       "photo": "https://image.tmdb.org/t/p/w500/aIvCv51Jh55neKPiGFvXql9CuvA.jpg",
@@ -24475,28 +22486,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/28847",
       "imported_at": "2026-08-29T20:45:18.736Z"
-    },
-    {
-      "id": 1906560,
-      "name": "Raj B Shetty",
-      "photo": "https://image.tmdb.org/t/p/w500/vlNvrGhaYzmRxhkd4GOKFNfSkHY.jpg",
-      "biography": "Raj B Shetty was born in Mangalore, Karnataka, India. He completed his schooling from Bharathi English Medium School. Mangaluru and post graduated from School of Social Work Roshni Nilaya, Mangaluru. He worked as an RJ (Radio jockey) for 92.7 Big FM for a few years.",
-      "birthday": "1987-07-05",
-      "deathday": null,
-      "place_of_birth": "Mangalore, Karnataka, India",
-      "known_for_department": "Writing",
-      "popularity": 0.7185,
-      "imdb_id": "nm8833077",
-      "also_known_as": [
-        "Raj B.Shetty",
-        "Raj B. Shetty"
-      ],
-      "movies": [
-        1293550
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/1906560",
-      "imported_at": "2026-08-29T20:41:33.403Z"
     },
     {
       "id": 4454948,
@@ -24993,31 +22982,6 @@
       "imported_at": "2026-08-29T20:18:55.610Z"
     },
     {
-      "id": 2595841,
-      "name": "Renci Yeung",
-      "photo": "https://image.tmdb.org/t/p/w500/xVeGyiws3pnr4jpsRJMmnoLFhWH.jpg",
-      "biography": "Renci Yeung Si-Wing (楊偲泳) is a Hong Kong actress.",
-      "birthday": "1993-11-06",
-      "deathday": null,
-      "place_of_birth": "Hong Kong, British Crown Colony [now China]",
-      "known_for_department": "Acting",
-      "popularity": 1.0683,
-      "imdb_id": "nm9052375",
-      "also_known_as": [
-        "Yang Caiyong",
-        "Yeung Sz Wing",
-        "Renci Yeung Si-Wing",
-        "Yeung Si-Wing"
-      ],
-      "movies": [
-        1602727,
-        1667205
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/2595841",
-      "imported_at": "2026-08-29T20:39:54.446Z"
-    },
-    {
       "id": 6406927,
       "name": "Rex Hayes",
       "photo": "",
@@ -25075,25 +23039,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/3901",
       "imported_at": "2026-08-29T20:19:29.549Z"
-    },
-    {
-      "id": 10090,
-      "name": "Richard Lawson",
-      "photo": "https://image.tmdb.org/t/p/w500/zP1iQOP5aimsRlRENl2mPtXyRGH.jpg",
-      "biography": "Richard Lee Lawson (born March 7, 1947) is an American actor who has starred in movies and on television. He is perhaps best known for his roles in genre films; he portrayed Ryan in the 1982 film Poltergeist, and Dr. Ben Taylor in the 1983 NBC miniseries V.",
-      "birthday": "1947-03-07",
-      "deathday": null,
-      "place_of_birth": "Loma Linda, California, USA",
-      "known_for_department": "Acting",
-      "popularity": 1.6784,
-      "imdb_id": "nm0493311",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        246246
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/10090",
-      "imported_at": "2026-08-29T20:19:45.478Z"
     },
     {
       "id": 1335218,
@@ -25178,48 +23123,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/1927025",
       "imported_at": "2026-08-29T20:40:19.762Z"
-    },
-    {
-      "id": 1671080,
-      "name": "Riddhi Sen",
-      "photo": "https://image.tmdb.org/t/p/w500/1txdIuaNnEPGi2mfInoRRcLyVBI.jpg",
-      "biography": "Riddhi Sen is an Indian Bengali actor.\n\nHe is the youngest actor in India to win the National Film Award for Best Actor for the film Nagarkirtan.",
-      "birthday": "1998-05-19",
-      "deathday": null,
-      "place_of_birth": "Kolkata, India",
-      "known_for_department": "Acting",
-      "popularity": 1.0207,
-      "imdb_id": "nm4690844",
-      "also_known_as": [],
-      "movies": [
-        1293550
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/1671080",
-      "imported_at": "2026-08-29T20:41:34.041Z"
-    },
-    {
-      "id": 83928,
-      "name": "Rie Kugimiya",
-      "photo": "https://image.tmdb.org/t/p/w500/xHonhNFpTpz9zCVXLAF7D4OuHLv.jpg",
-      "biography": "Rie Kugimiya is a Japanese singer and voice actress affiliated with I'm Enterprise.  Some of Kugimiya's most prominent roles include Alphonse Elric in the Fullmetal Alchemist series, Kagura in Gin Tama, and Happy in Fairy Tail. Because of her voicing of lead characters such as Shana in Shakugan no Shana, Louise in The Familiar of Zero, Nagi Sanzenin in Hayate the Combat Butler, Taiga Aisaka in Toradora!, and Aria Holmes Kanzaki in Aria the Scarlet Ammo, some of her fans have nicknamed her the \"Queen of Tsundere.\"\n\nWithin the Tamagotchi fandom she is known for her role in the Tamagotchi movies and anime as Mametchi. She has also contributed her voice to various merchandise such as Mugen Puchipuchi Moe, a virtual keychain bubble-wrap popping game.\n\nShe was nominated for Best Actress in Leading Role in the first Seiyu Awards for the role of Louise in The Familiar of Zero and for Best Actress in Supporting Role for the role of Kagura in Gintama, and jointly won Best Actress in a Supporting Role with Mitsuki Saiga at the second Seiyu Awards. Kugimiya won Best Actress in the third Seiyu Awards for the roles as Taiga Aisaka in Toradora! and her work in Nabari no Ou",
-      "birthday": "1979-05-30",
-      "deathday": null,
-      "place_of_birth": "Kumamoto, Japan",
-      "known_for_department": "Acting",
-      "popularity": 3.0048,
-      "imdb_id": "nm1069584",
-      "also_known_as": [
-        "Kugimiya Rie",
-        "釘宮 理恵 ",
-        "ريي كوغيميا"
-      ],
-      "movies": [
-        1530941
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/83928",
-      "imported_at": "2026-08-29T20:41:07.096Z"
     },
     {
       "id": 1324665,
@@ -25420,28 +23323,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/53240",
       "imported_at": "2026-08-29T20:42:00.339Z"
-    },
-    {
-      "id": 78597,
-      "name": "Rob Mac",
-      "photo": "https://image.tmdb.org/t/p/w500/gcep3ItyxaZ3ljH1IS6Lfkm8IAs.jpg",
-      "biography": "Robert Dale \"Rob\" McElhenney (born April 14, 1977) is an American film and television actor best known for his role as Mac on the FX TV series It's Always Sunny in Philadelphia. He is also credited as creator, developer and executive producer of the show, which has also provided McElhenney with writing and directing credits on various episodes. He is married to Kaitlin Olson, who plays Deandra Reynolds on the show. He has also opened a bar in Philadelphia called Mac's Tavern.\n\nDescription above from the Wikipedia article Rob McElhenney, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "1977-04-14",
-      "deathday": null,
-      "place_of_birth": "Philadelphia, Pennsylvania, USA",
-      "known_for_department": "Acting",
-      "popularity": 2.4912,
-      "imdb_id": "nm0568390",
-      "also_known_as": [
-        "Robert McElhenney III",
-        " Rob McElhenney"
-      ],
-      "movies": [],
-      "series": [
-        2710
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/78597",
-      "imported_at": "2026-08-29T20:43:44.839Z"
     },
     {
       "id": 60949,
@@ -25961,25 +23842,6 @@
       "imported_at": "2026-08-29T20:19:40.135Z"
     },
     {
-      "id": 1514871,
-      "name": "Saba Azad",
-      "photo": "https://image.tmdb.org/t/p/w500/kK1IEhbhpKCQz4pZ5HWuqpDf9rD.jpg",
-      "biography": "",
-      "birthday": "1985-11-01",
-      "deathday": null,
-      "place_of_birth": "Delhi, India",
-      "known_for_department": "Acting",
-      "popularity": 0.799,
-      "imdb_id": "nm3220898",
-      "also_known_as": [],
-      "movies": [
-        1293550
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/1514871",
-      "imported_at": "2026-08-29T20:41:32.092Z"
-    },
-    {
       "id": 1379411,
       "name": "Sabrina Bartlett",
       "photo": "https://image.tmdb.org/t/p/w500/w4AnBCVuHFhYiJYWJ1SzT09yhBb.jpg",
@@ -26232,33 +24094,6 @@
       "imported_at": "2026-08-29T20:40:10.572Z"
     },
     {
-      "id": 86318,
-      "name": "Sammi Cheng Sau-Man",
-      "photo": "https://image.tmdb.org/t/p/w500/fecOHFVJC0R16aSraJmULaHV6hx.jpg",
-      "biography": "Sammi Cheng Sau-Man (Chinese:鄭秀文) is a Hong Kong Cantopop singer and actress. Having enjoyed much success in the Hong Kong music industry, Sammi has been known as a diva and has been one of the most successful female singers in Hong Kong since the 1990s. Her albums have sold more than 25 million copies through Asia-pacific. Most notably in the 1990s, she was dubbed by the media as the \" Cantopop Queen\".\n\nCheng's acting career began with the TVB series Life of His Own in 1991. A year later she would begin her film career with the movie Best of the Best in 1992 with fellow cantopop star Jacky Cheung. She would follow with another comedy film Feel 100% with Ekin Cheng and Gigi Leung.",
-      "birthday": "1972-08-19",
-      "deathday": null,
-      "place_of_birth": "Hong Kong, British Crown Colony",
-      "known_for_department": "Acting",
-      "popularity": 2.4215,
-      "imdb_id": "nm0155618",
-      "also_known_as": [
-        "Sammi Cheng Sau-Man",
-        "郑秀文",
-        "เจิ้งซิ่วเหวิน",
-        "鄭秀文",
-        "Trịnh Tú Văn",
-        "سامی چنگ"
-      ],
-      "movies": [
-        1602727,
-        1667205
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/86318",
-      "imported_at": "2026-08-29T20:39:53.152Z"
-    },
-    {
       "id": 2850904,
       "name": "Samson Cox-Vinell",
       "photo": "https://image.tmdb.org/t/p/w500/6p5k7eW3dnTO0EcaPs9L3XtcrP.jpg",
@@ -26319,49 +24154,6 @@
       "imported_at": "2026-08-29T20:20:11.953Z"
     },
     {
-      "id": 1756851,
-      "name": "Sanya Malhotra",
-      "photo": "https://image.tmdb.org/t/p/w500/sQ0VIqGLecfpwYayO05Z7NC32yN.jpg",
-      "biography": "Sanya Malhotra (born 25 February 1992) is an Indian actress who works in Hindi films. After making her film debut with the role of Babita Kumari in the biographical sports film Dangal, she starred in the comedy-drama Badhaai Ho, both of which rank among the highest-grossing Indian films.",
-      "birthday": "1992-02-25",
-      "deathday": null,
-      "place_of_birth": "Delhi, India",
-      "known_for_department": "Acting",
-      "popularity": 1.4064,
-      "imdb_id": "nm7621667",
-      "also_known_as": [
-        "桑妮亞·馬賀拉",
-        "سانیا مالهوترا"
-      ],
-      "movies": [
-        1293550
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/1756851",
-      "imported_at": "2026-08-29T20:41:31.780Z"
-    },
-    {
-      "id": 1450085,
-      "name": "Sapna Pabbi",
-      "photo": "https://image.tmdb.org/t/p/w500/n0LTGi9ZrMtUWfZgahD0oyYDrFT.jpg",
-      "biography": "Sapna Pabbi is a British actress and model of Indian descent, born on December 20, 1988, in London, England. She gained recognition for her role as Kiran Rathod in the Indian adaptation of the television series 24 in 2013. She made her film debut with Khamoshiyan (2015), playing the role of Meera Sharma Dhanrajgir. Her film credits include Mar Gaye Oye Loko (2018), Ardaas Karaan (2019), and Drive (2019). In the digital space, she has appeared in web series such as Breathe, The Trip, and Inside Edge, portraying Mantra Patil in the latter. She has also featured in popular commercials for brands like Galaxy Chocolate, Pepsi, and Fair and Lovely.",
-      "birthday": "1988-12-20",
-      "deathday": null,
-      "place_of_birth": " London, England",
-      "known_for_department": "Acting",
-      "popularity": 1.4454,
-      "imdb_id": "nm5688044",
-      "also_known_as": [
-        "Sapna Babbi"
-      ],
-      "movies": [
-        1293550
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/1450085",
-      "imported_at": "2026-08-29T20:41:32.407Z"
-    },
-    {
       "id": 33397,
       "name": "Sarah Bolger",
       "photo": "https://image.tmdb.org/t/p/w500/A3K2l5kkqTMQHtAkctzICqtbZMY.jpg",
@@ -26381,25 +24173,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/33397",
       "imported_at": "2026-08-29T20:36:09.770Z"
-    },
-    {
-      "id": 49001,
-      "name": "Sarah Chalke",
-      "photo": "https://image.tmdb.org/t/p/w500/ycwiu89cpjqCtSNC5FjbJggjj5R.jpg",
-      "biography": "Sarah Louise Christine Chalke (born August 27, 1976) is a Canadian actress and model. She is best known for her roles as Kate Mularkey on Netflix's Firefly Lane, Gabi in the movie Mother's Day, Paula Crowe in Chaos Theory, Dr. Elliot Reid on the NBC/ABC sitcom Scrubs, Gloria Macintosh in the movie Nothing Too Good for a Cowboy and on the subsequent CBC series, Muriel Jake's on Showtime's series Dead Man's Gun, Annie on CTV's series Neon Rider, and \"Second Becky\" Conner on Roseanne.\n\nShe's had recurring roles as Merrill Morgan on Netflix's Friends from College, Melanie Hertzal on ABC's sitcom Speechless, Amy Gazanian on FOX's series Backstrom, and Stella Zinman on CBS's sitcom How I Met Your Mother.\n\nShe's also voiced a number of roles including The Professor on Disney Channel's Hailey's on It!, Stella on Netflix's Dogs in Space, Gina Jabowski on Netflix's Paradise PD, Beth Smith on [adult swim]'s Rick & Morty, and Magee in Prep & Landing series of animated shorts.\n\nIn December 2006, she became engaged to Canadian lawyer Jamie Afifi, after three years of dating. In September 2022, she announced that they had called off the engagement and \"separated some time ago\". They have two children together, a son born in December 2009, and a daughter born in May 2016. Her son was diagnosed at two years old with Kawasaki disease. (​From Wikipedia, the free encyclopedia)",
-      "birthday": "1976-08-27",
-      "deathday": null,
-      "place_of_birth": "Ottawa, Ontario, Canada",
-      "known_for_department": "Acting",
-      "popularity": 2.6689,
-      "imdb_id": "nm0149950",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        60625
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/49001",
-      "imported_at": "2026-08-29T20:35:33.643Z"
     },
     {
       "id": 11863,
@@ -26423,48 +24196,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/11863",
       "imported_at": "2026-08-29T20:44:58.672Z"
-    },
-    {
-      "id": 34490,
-      "name": "Sarah Paulson",
-      "photo": "https://image.tmdb.org/t/p/w500/tJnhBV516yrekR3hTDUw15UMbxS.jpg",
-      "biography": "Sarah Catharine Paulson (born December 17, 1974) is an American actress. She began her acting career in New York City stage productions before starring in the short-lived television series American Gothic (1995–1996) and Jack & Jill (1999–2001). She later appeared in comedy films such as What Women Want (2000) and Down with Love (2003), and drama films such as Path to War (2002) and The Notorious Bettie Page (2005). From 2006 to 2007, she starred as Harriet Hayes in the NBC comedy-drama series Studio 60 on the Sunset Strip, for which she received her first Golden Globe Award nomination. In 2008, she starred as Ellen Dolan in the superhero noir film The Spirit.\n\nPaulson has appeared on Broadway in the plays The Glass Menagerie in 2005 and Collected Stories in 2010. She also starred in a number of independent films and had a leading role in the ABC comedy series Cupid (2009). She later starred in the independent drama film Martha Marcy May Marlene (2011) and received Primetime Emmy Award and Golden Globe Award nominations for her portrayal of Nicolle Wallace in the HBO film Game Change (2012). She was featured as Mary Epps in the 2013 historical drama film 12 Years a Slave, as Abby Gerhard in the 2015 romantic drama film Carol, and as Toni Bradlee in the 2017 political drama film The Post, all of which were nominated for multiple Academy Awards. Her other films include Serenity (2005), New Year's Eve (2011), Mud (2012), Blue Jay (2016), Ocean's 8 (2018), Bird Box (2018), Glass (2019), and Run (2020).\n\nIn 2011, Paulson began starring in the FX anthology series American Horror Story, playing different characters in many of the show's 10 seasons. For her performances in the series, she received five Primetime Emmy Award nominations and won two Critics' Choice Television Awards. In 2016, she portrayed real-life prosecutor Marcia Clark in the first season of the anthology series American Crime Story, subtitled The People v. O. J. Simpson, for which she garnered critical acclaim and numerous accolades, including the Primetime Emmy Award and the Golden Globe Award. In 2020, Paulson appeared in the FX limited series Mrs. America, and began starring as Nurse Mildred Ratched in the Netflix psychological thriller series Ratched. In 2021, she returned to American Crime Story to portray Linda Tripp in the third season of the show, subtitled Impeachment.",
-      "birthday": "1974-12-17",
-      "deathday": null,
-      "place_of_birth": "Tampa, Florida, USA",
-      "known_for_department": "Acting",
-      "popularity": 3.7016,
-      "imdb_id": "nm0005299",
-      "also_known_as": [
-        "Sarah Catharine Paulson"
-      ],
-      "movies": [],
-      "series": [
-        1413
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/34490",
-      "imported_at": "2026-08-29T20:40:56.957Z"
-    },
-    {
-      "id": 2198504,
-      "name": "Sarah Sherman",
-      "photo": "https://image.tmdb.org/t/p/w500/5BwGUREK2H6acSH5Inqmy2hFpGY.jpg",
-      "biography": "Sarah Sherman, also known professionally as Sarah Squirm, is an American comedian, actress, and screenwriter. Sherman is known for using surreal and body horror comedy. She became a featured player on the NBC sketch comedy series Saturday Night Live starting with its 47th season in October 2021, and was promoted to Repertory Status in October 2023.",
-      "birthday": "1993-03-07",
-      "deathday": null,
-      "place_of_birth": "Long Island, New York, USA",
-      "known_for_department": "Acting",
-      "popularity": 2.1541,
-      "imdb_id": "nm7567645",
-      "also_known_as": [
-        "Sarah Squirm"
-      ],
-      "movies": [
-        1240889
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/2198504",
-      "imported_at": "2026-08-29T20:31:13.748Z"
     },
     {
       "id": 13363,
@@ -26509,28 +24240,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/219563",
       "imported_at": "2026-08-29T20:20:10.924Z"
-    },
-    {
-      "id": 224413,
-      "name": "Satoshi Hino",
-      "photo": "https://image.tmdb.org/t/p/w500/8ZJIiwIVF2zDyyFr7oXewj0eEuu.jpg",
-      "biography": "Satoshi Hino is an American-born Japanese voice actor. In January 2015 he and fellow voice talent Saki Nakajima announced their marriage.",
-      "birthday": "1978-08-04",
-      "deathday": null,
-      "place_of_birth": "San Francisco, California, USA",
-      "known_for_department": "Acting",
-      "popularity": 2.2658,
-      "imdb_id": "nm2174227",
-      "also_known_as": [
-        "日野 聡",
-        "ساتوشی هینو"
-      ],
-      "movies": [
-        1530941
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/224413",
-      "imported_at": "2026-08-29T20:41:07.447Z"
     },
     {
       "id": 112205,
@@ -26885,27 +24594,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/1445032",
       "imported_at": "2026-08-29T20:39:03.806Z"
-    },
-    {
-      "id": 19274,
-      "name": "Seth Rogen",
-      "photo": "https://image.tmdb.org/t/p/w500/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
-      "biography": "Seth Aaron Rogen is a Canadian actor, comedian, and filmmaker. Known primarily for his comedic leading man roles in films, the accolades he has received include nominations for three Golden Globe Awards, five Primetime Emmy Awards, a Screen Actors Guild Award, and an Independent Spirit Award.\n\nOriginally a stand-up comedian in Vancouver, Rogen moved to Los Angeles for a part in Judd Apatow's series Freaks and Geeks in 1999 and got a part in Apatow's sitcom Undeclared in 2001, which also hired him as a writer. Rogen landed a job as a staff writer on the final season of Da Ali G Show (2004), for which the writing team was nominated for a Primetime Emmy Award for Outstanding Writing for a Variety Series. Apatow subsequently guided him toward a film career.\n\nHis first movie appearance was a minor role in Donnie Darko (2001), and he had a supporting part in Apatow's directorial debut, The 40-Year-Old Virgin (2005), which he co-produced. He had leading roles in Apatow's comedies Knocked Up (2007) and Funny People (2009). Rogen and his writing partner, Evan Goldberg, co-wrote the films Superbad (2007), Pineapple Express (2008), The Green Hornet (2011), and This Is the End (2013) and directed This Is the End and The Interview (2014), all of which starred Rogen. He had further comedic roles in Zack and Miri Make a Porno (2008), Neighbors (2014), its 2016 sequel, The Disaster Artist (2017), and Long Shot (2019). He has played dramatic roles in 50/50 (2011), Take This Waltz (2011), Steve Jobs (2015) and The Fabelmans (2022). He also starred in the FX on Hulu miniseries Pam & Tommy (2022), for which he received Primetime Emmy and Golden Globe Award for Best Supporting Actor nominations.\n\nRogen co-developed the AMC television series Preacher (2016–2019), serving as writer, executive producer, and director. He has also executive produced the Amazon Prime Video superhero series The Boys from 2019 and Invincible from 2021. Rogen is also known for his voice roles in the animated films Shrek the Third (2007) and Horton Hears a Who! (2008), the Kung Fu Panda series, The Spiderwick Chronicles (2008), Monsters vs Aliens (2009), Sausage Party (2016; which he also co-wrote and produced), The Lion King (2019), The Super Mario Bros. Movie (2023), Teenage Mutant Ninja Turtles: Mutant Mayhem (2023; which he also co-wrote and produced) and Mufasa: The Lion King (2024).",
-      "birthday": "1982-04-15",
-      "deathday": null,
-      "place_of_birth": "Vancouver, British Columbia, Canada",
-      "known_for_department": "Acting",
-      "popularity": 5.0741,
-      "imdb_id": "nm0736622",
-      "also_known_as": [
-        "Seth Aaron Rogen"
-      ],
-      "movies": [
-        950028
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/19274",
-      "imported_at": "2026-08-29T20:19:09.007Z"
     },
     {
       "id": 3303644,
@@ -27590,28 +25278,6 @@
       "imported_at": "2026-08-29T20:40:52.385Z"
     },
     {
-      "id": 3252036,
-      "name": "Skip Howland",
-      "photo": "https://image.tmdb.org/t/p/w500/mXgzTq5QFTcWDi5eJe2vFQnaZ47.jpg",
-      "biography": "As a seasoned character actor, Skip has played multiple roles appearing in Feature Films, National Commercials, Network TV series and A-List Artist Music Videos as well as Web Series. He has also worked as a featured character in various industrial and training videos. Skip's characters include featured supporting role as an Italian Tailor in the upcoming comedy feature Stealing Pulp Fiction; Co-starring Jason Alexander and Cazzie David. As a Boxing Judge in Father Stu (Feature Film) with Mark Walberg and Mel Gibson, TV Executive on Lilly Singh's late night network talk show (Sketch comedy Universal/NBC), A Biker in Ed Sheeran's Music Video (Overpass Graffiti, A Motel Guest in Justin Bieber's Holy, and lead in a Warner sponsored Ed Sheeran video titled That's On Me. A featured Barber alongside Charles Barkley, Samuel L Jackson, Jennifer Garner, directed by Spike Lee in Capital One's National Commercial (Chuck Cuts) for the 2022 NCAA March Madness campaign. Prior roles include Professor/Teacher/Therapist to Gunslinger and Cowboy to CEO/Detective/Commander. He was a homeless man on the street and in the same production transformed into a successful businessman (Dahr Mann Production). Skip has the ability to cry on cue for character depth. Among Skip's outside interest, he rides a big 'bad' Harley Davidson and is an experienced skydiver with over 2300 jumps. He is a US Army Veteran, an ocean sailor and has taught ocean sailing. He rides his bicycle for exercise and loves to travel. He is a certified SCUBA diver and former private pilot. Skip's white 'Sam Elliott/Wilfred Brimley/Monopoly Man' mustache accentuates his roles and adds a unique element of comedy to those appropriate roles. His a trained artist in improv and also does close-up magic!",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "",
-      "known_for_department": "Acting",
-      "popularity": 0.6198,
-      "imdb_id": "nm10965185",
-      "also_known_as": [
-        "Donald Howland",
-        "Skip Howland"
-      ],
-      "movies": [
-        950028
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/3252036",
-      "imported_at": "2026-08-29T20:19:10.277Z"
-    },
-    {
       "id": 61263,
       "name": "Skyler Gisondo",
       "photo": "https://image.tmdb.org/t/p/w500/vyalCuJUUP7Ht1vMWZQzhOrscXV.jpg",
@@ -27699,25 +25365,6 @@
       "imported_at": "2026-08-29T20:39:01.258Z"
     },
     {
-      "id": 1457238,
-      "name": "Sonoya Mizuno",
-      "photo": "https://image.tmdb.org/t/p/w500/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg",
-      "biography": "Sonoya Mizuno (born 1 July 1986) is a British actress. She is best known for her roles in the Netflix series Maniac (2018), the HBO series House of the Dragon (2022–), FX miniseries Devs (2020) and the film Crazy Rich Asians (2018).",
-      "birthday": "1986-07-01",
-      "deathday": null,
-      "place_of_birth": "Tokyo, Japan",
-      "known_for_department": "Acting",
-      "popularity": 3.4995,
-      "imdb_id": "nm4420495",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        94997
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1457238",
-      "imported_at": "2026-08-29T20:20:30.451Z"
-    },
-    {
       "id": 4064438,
       "name": "Sophia Wright-Mendelsohn",
       "photo": "https://image.tmdb.org/t/p/w500/81J75cmqBkTzO7EQ1G8xSkEebpj.jpg",
@@ -27798,29 +25445,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/2037046",
       "imported_at": "2026-08-29T20:19:02.352Z"
-    },
-    {
-      "id": 176823,
-      "name": "Spencer Grammer",
-      "photo": "https://image.tmdb.org/t/p/w500/1L8Y45RJo2YxUXl6ldIowQay1V7.jpg",
-      "biography": "Spencer Karen Grammer (born October 9, 1983) is an American actress and voice-over actress best known for her roles as the voice of Summer Smith in the Adult Swim animated science-fiction series Rick and Morty and as Casey Cartwright in the ABC Family college comedy-drama series Greek.\n\nHer father is actor Kelsey Grammer.",
-      "birthday": "1983-10-09",
-      "deathday": null,
-      "place_of_birth": "Los Angeles, California, USA",
-      "known_for_department": "Acting",
-      "popularity": 2.3023,
-      "imdb_id": "nm0334561",
-      "also_known_as": [
-        "斯宾瑟·格拉默",
-        "Spencer Grammar",
-        "Spencer Karen Grammer"
-      ],
-      "movies": [],
-      "series": [
-        60625
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/176823",
-      "imported_at": "2026-08-29T20:35:33.340Z"
     },
     {
       "id": 2476557,
@@ -28145,47 +25769,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/59116",
       "imported_at": "2026-08-29T20:39:23.966Z"
-    },
-    {
-      "id": 55412,
-      "name": "Steve Toussaint",
-      "photo": "https://image.tmdb.org/t/p/w500/9rJafPDkQP8YuLy9iY5v19ZfMIW.jpg",
-      "biography": "Stephen Toussaint (born 22 March 1965) is a British actor and writer. He first gained prominence through his role in the ITV crime drama The Knock (1994–2000). He plays Lord Corlys Velaryon in the HBO fantasy series House of the Dragon.\n\nHis films include Shooting Dogs (2005) and Prince of Persia: The Sands of Time (2010). On television, he appeared in the second series of Line of Duty (2014), the ninth series of Lewis (2015), the Australian series Pine Gap (2018), and Small Axe: Red, White and Blue (2020).\n\nDescription above from the Wikipedia article Stephen Toussaint, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "1965-03-22",
-      "deathday": null,
-      "place_of_birth": "Birmingham, England, UK",
-      "known_for_department": "Acting",
-      "popularity": 1.8926,
-      "imdb_id": "nm0869750",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        94997
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/55412",
-      "imported_at": "2026-08-29T20:20:29.537Z"
-    },
-    {
-      "id": 2401183,
-      "name": "Steven G. Norfleet",
-      "photo": "https://image.tmdb.org/t/p/w500/aJb4SvUTIi2VfkU90dHtd0vCYI5.jpg",
-      "biography": "",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "",
-      "known_for_department": "Acting",
-      "popularity": 1.1677,
-      "imdb_id": "nm1343124",
-      "also_known_as": [
-        "Steven Norfleet",
-        "Steven Gregory Norfleet"
-      ],
-      "movies": [],
-      "series": [
-        246246
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/2401183",
-      "imported_at": "2026-08-29T20:19:45.141Z"
     },
     {
       "id": 215055,
@@ -28535,25 +26118,6 @@
       "imported_at": "2026-08-29T20:19:17.497Z"
     },
     {
-      "id": 4989445,
-      "name": "Susana Morales",
-      "photo": "https://image.tmdb.org/t/p/w500/eQiul9fAjoR36j2zm4YIzKeQwgK.jpg",
-      "biography": "",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "Medellín, Antioquia, Colombia",
-      "known_for_department": "Acting",
-      "popularity": 1.4945,
-      "imdb_id": "",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        207333
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/4989445",
-      "imported_at": "2026-08-29T20:35:35.803Z"
-    },
-    {
       "id": 26998,
       "name": "Suzy Nakamura",
       "photo": "https://image.tmdb.org/t/p/w500/AkPYH6DKr0Bhv9kA2PTSGjpi11P.jpg",
@@ -28573,27 +26137,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/26998",
       "imported_at": "2026-08-29T20:39:50.918Z"
-    },
-    {
-      "id": 1104414,
-      "name": "Sydelle Noel",
-      "photo": "https://image.tmdb.org/t/p/w500/fCOlRtkZVMOMDRPYhdRLeKqymVa.jpg",
-      "biography": "Sydelle Noel (/sɪˈdɛl noʊˈɛl/;[1] born July 16, 1985) is an American actress and former athlete, best known for her role as Cherry \"Junkchain\" Bang in GLOW.\n\nDescription above from the Wikipedia article Sydelle Noel, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "1985-07-16",
-      "deathday": null,
-      "place_of_birth": "Hollywood, California, USA",
-      "known_for_department": "Acting",
-      "popularity": 5.8851,
-      "imdb_id": "nm1999504",
-      "also_known_as": [
-        "Sydelle Granger"
-      ],
-      "movies": [],
-      "series": [
-        108978
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1104414",
-      "imported_at": "2026-08-29T20:14:49.283Z"
     },
     {
       "id": 3650526,
@@ -28849,27 +26392,6 @@
       "imported_at": "2026-08-29T20:44:37.892Z"
     },
     {
-      "id": 2232609,
-      "name": "Taylor Polidore",
-      "photo": "https://image.tmdb.org/t/p/w500/iigKug2twKR0YJj8WJF2C8w1gcI.jpg",
-      "biography": "",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "",
-      "known_for_department": "Acting",
-      "popularity": 1.48,
-      "imdb_id": "nm2651783",
-      "also_known_as": [
-        "Taylor Polidore Williams"
-      ],
-      "movies": [],
-      "series": [
-        246246
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/2232609",
-      "imported_at": "2026-08-29T20:19:43.304Z"
-    },
-    {
       "id": 1353827,
       "name": "Taylor Russell",
       "photo": "https://image.tmdb.org/t/p/w500/wxY9vztrc69MolSJ1LDNg7sEADU.jpg",
@@ -28910,25 +26432,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/1838566",
       "imported_at": "2026-08-29T20:41:06.054Z"
-    },
-    {
-      "id": 1062609,
-      "name": "Terrell Carter",
-      "photo": "https://image.tmdb.org/t/p/w500/dLxWslCyuGMI5ZxjnjsuuO08Ynr.jpg",
-      "biography": "",
-      "birthday": "",
-      "deathday": null,
-      "place_of_birth": "",
-      "known_for_department": "Acting",
-      "popularity": 1.4457,
-      "imdb_id": "nm1828813",
-      "also_known_as": [],
-      "movies": [],
-      "series": [
-        246246
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1062609",
-      "imported_at": "2026-08-29T20:19:45.788Z"
     },
     {
       "id": 2031926,
@@ -29388,27 +26891,6 @@
       "imported_at": "2026-08-29T20:41:59.990Z"
     },
     {
-      "id": 1765227,
-      "name": "Tom Glynn-Carney",
-      "photo": "https://image.tmdb.org/t/p/w500/jJ3KqUW8ySGBwHXOCN3x2Wxjm5W.jpg",
-      "biography": "Tom Glynn-Carney (born 7 February 1995) is an English actor. He appeared in Christopher Nolan's war film Dunkirk (2017). He won a Drama Desk Award in 2019 for his performance in the play The Ferryman. He gained recognition for starring as Aegon II Targaryen in the fantasy drama series House of the Dragon (2022–present).\n\nDescription above from the Wikipedia article Tom Glynn-Carney, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "1995-02-07",
-      "deathday": null,
-      "place_of_birth": "Salford, Greater Manchester, England, UK",
-      "known_for_department": "Acting",
-      "popularity": 1.749,
-      "imdb_id": "nm6077951",
-      "also_known_as": [
-        "Tom Glynn-Whitehead"
-      ],
-      "movies": [],
-      "series": [
-        94997
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1765227",
-      "imported_at": "2026-08-29T20:20:30.766Z"
-    },
-    {
       "id": 31,
       "name": "Tom Hanks",
       "photo": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
@@ -29496,31 +26978,6 @@
       "imported_at": "2026-08-29T20:45:04.270Z"
     },
     {
-      "id": 1550587,
-      "name": "Tomer Capone",
-      "photo": "https://image.tmdb.org/t/p/w500/3IhYEhV3Tmx2CawG5DvcWQyephv.jpg",
-      "biography": "Tomer Capone (born July 15, 1985) is an Israeli actor. He has starred in popular Israeli exported television such as Hostages and the political thriller television series Fauda. In 2016 he was awarded an Ophir Award for Best Supporting Actor in One Week and a Day. He stars in When Heroes Fly and in the Amazon series The Boys.",
-      "birthday": "1985-07-15",
-      "deathday": null,
-      "place_of_birth": "Holon, Israel",
-      "known_for_department": "Acting",
-      "popularity": 1.5757,
-      "imdb_id": "nm6150071",
-      "also_known_as": [
-        "תומר קפון",
-        "토머 카폰",
-        "Tomer Kapon",
-        "Tomer Kappon",
-        "トメル・カポン"
-      ],
-      "movies": [],
-      "series": [
-        76479
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/1550587",
-      "imported_at": "2026-08-29T20:41:41.445Z"
-    },
-    {
       "id": 2088733,
       "name": "Tommy Martinez",
       "photo": "https://image.tmdb.org/t/p/w500/hPPWLxCSoehYnDaOrC6O0HxXPjT.jpg",
@@ -29561,32 +27018,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/1249235",
       "imported_at": "2026-08-29T20:39:43.982Z"
-    },
-    {
-      "id": 144655,
-      "name": "Tomokazu Sugita",
-      "photo": "https://image.tmdb.org/t/p/w500/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg",
-      "biography": "Tomokazu Sugita is a Japanese voice actor who was born on October 11, 1980 in Saitama, Japan. Previously affiliated with Atomic Monkey, he is now the CEO of AGRS Co., Ltd. His bloodtype is B.\n\nSugita and fellow seiyuu Narita Ken are sometimes referred to as \"brothers\" due to a joke made during Live Pastel Collection 2003. During an Omaera No Tame Darou event, hosts Toshiyuki Morikawa and Nobuyuki Hiyama asked Sugita how they were similar. His answer was that both of them rarely blink, making eye-to-eye contact with either a frightening encounter.\n\nSugita has also had a close friendship with fellow seiyuu Yuichi Nakamura since 2001. Both play male leads in two anime adapted from Key visual novels, Yuichi Aizawa of Kanon and Tomoya Okazaki of Clannad, respectively.\n\nSugita won for \"Best Supporting Actor\" in the Third Seiyu Awards.\n\nOn April 1, 2020, he left Atomic Monkey, where he had belonged for many years, and on October 11, 2019 he established AGRS Co., Ltd., where he serves as the representative director.",
-      "birthday": "1980-10-11",
-      "deathday": null,
-      "place_of_birth": "Ranzan, Japon",
-      "known_for_department": "Acting",
-      "popularity": 3.0808,
-      "imdb_id": "nm0837523",
-      "also_known_as": [
-        "Tomokazu “Freedom” Sugita",
-        "すぎた ともかず",
-        "杉田 智和",
-        "توموکازو سوگیتا"
-      ],
-      "movies": [
-        1530941
-      ],
-      "series": [
-        94664
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/144655",
-      "imported_at": "2026-08-29T20:36:13.102Z"
     },
     {
       "id": 184460,
@@ -29906,9 +27337,7 @@
       "movies": [
         1315772
       ],
-      "series": [
-        2190
-      ],
+      "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/34517",
       "imported_at": "2026-08-29T20:19:22.573Z"
     },
@@ -30388,28 +27817,6 @@
       "imported_at": "2026-08-29T20:31:36.218Z"
     },
     {
-      "id": 8210,
-      "name": "Wes Bentley",
-      "photo": "https://image.tmdb.org/t/p/w500/voD93lzFZrr9xfAggwFcPRBi84i.jpg",
-      "biography": "Wesley Cook \"Wes\" Bentley (born September 4, 1978) is an American film actor known for his roles as Ricky Fitts in American Beauty (1999) and Seneca Crane in The Hunger Games (2012). Bentley was one of four subjects in the documentary My Big Break (2009), which covered his fame after American Beauty and struggles with substance abuse. Rebuilding his career, he starred in the premier of Venus in Fur by David Ives in the off-Broadway production in 2010, whose run was extended.\n\nDescription above from the Wikipedia article Wes Bentley, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "birthday": "1978-09-04",
-      "deathday": null,
-      "place_of_birth": "Jonesboro, Arkansas, USA",
-      "known_for_department": "Acting",
-      "popularity": 3.4891,
-      "imdb_id": "nm0004747",
-      "also_known_as": [
-        "Wesley Cook Bentley",
-        "Wesley Bentley"
-      ],
-      "movies": [],
-      "series": [
-        298168
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/8210",
-      "imported_at": "2026-08-29T20:35:29.665Z"
-    },
-    {
       "id": 1136135,
       "name": "Will Brill",
       "photo": "https://image.tmdb.org/t/p/w500/eTPXcvxlquT8ppKnwAe2a3CzI90.jpg",
@@ -30674,27 +28081,6 @@
       "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/986808",
       "imported_at": "2026-08-29T20:20:25.342Z"
-    },
-    {
-      "id": 4635145,
-      "name": "Xavier Smalls",
-      "photo": "https://image.tmdb.org/t/p/w500/jRnrhp5i69Brwb6qAse6a2erspr.jpg",
-      "biography": "Xavier Smalls is an American actor and performer born on November 7, 1997, in Los Angeles, California. He gained recognition for his role as Angel in the Netflix series Beauty in Black, produced by Tyler Perry, which premiered in October 2024.\n\nSmalls pursued his education at Sacramento State University, where he studied musical theater and audition techniques. He further honed his craft at the William Esper Studio in New York City, focusing on scene study, acting technique, and on-camera work.\n\nIn 2025, Smalls starred in Madea’s Destination Wedding, another Tyler Perry production, released on Netflix. He also featured in the short film Shelf Life.\n\nBeyond acting, Smalls is engaged to makeup artist Vanessa Martinez, with whom he shares a daughter.",
-      "birthday": "1997-11-07",
-      "deathday": null,
-      "place_of_birth": "Los Angeles, California, U.S",
-      "known_for_department": "Acting",
-      "popularity": 2.0248,
-      "imdb_id": "nm15604731",
-      "also_known_as": [
-        "Smalls"
-      ],
-      "movies": [],
-      "series": [
-        246246
-      ],
-      "tmdb_url": "https://www.themoviedb.org/person/4635145",
-      "imported_at": "2026-08-29T20:19:44.207Z"
     },
     {
       "id": 131513,
@@ -30990,29 +28376,6 @@
       ],
       "tmdb_url": "https://www.themoviedb.org/person/5586",
       "imported_at": "2026-08-29T20:34:58.643Z"
-    },
-    {
-      "id": 3202177,
-      "name": "Yeung Wai-Lun",
-      "photo": "https://image.tmdb.org/t/p/w500/el7DT5Pcp2wLy4egLhxYzkox2dZ.jpg",
-      "biography": "",
-      "birthday": "1981-09-14",
-      "deathday": null,
-      "place_of_birth": "Hong Kong, British Crown Colony",
-      "known_for_department": "Acting",
-      "popularity": 1.0079,
-      "imdb_id": "nm6845952",
-      "also_known_as": [
-        "Lun Yeah",
-        "Alan Yeung Wai-Leun"
-      ],
-      "movies": [
-        1602727,
-        1667205
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/3202177",
-      "imported_at": "2026-08-29T20:39:54.099Z"
     },
     {
       "id": 2288957,
@@ -31311,9 +28674,7 @@
         "Kaida Yuuko",
         "یوهکو کایدا"
       ],
-      "movies": [
-        1530941
-      ],
+      "movies": [],
       "series": [
         285993
       ],
@@ -31403,32 +28764,6 @@
       "imported_at": "2026-08-29T20:41:16.022Z"
     },
     {
-      "id": 1201637,
-      "name": "Yuko Sanpei",
-      "photo": "https://image.tmdb.org/t/p/w500/gms4G7ZRIQYXI9zsorkQr8aHnOU.jpg",
-      "biography": "Yuko Sanpei is a voice actress, narrator and former child actress currently affiliated with Axl One.",
-      "birthday": "1986-02-28",
-      "deathday": null,
-      "place_of_birth": "Tokyo, Japan",
-      "known_for_department": "Acting",
-      "popularity": 1.6959,
-      "imdb_id": "nm2149245",
-      "also_known_as": [
-        "さんぺい ゆうこ",
-        "Yuuko Sanpei",
-        "Yūko Sanpei",
-        "三瓶 由布子",
-        "산페이 유우코",
-        "یوکو سانپی"
-      ],
-      "movies": [
-        1530941
-      ],
-      "series": [],
-      "tmdb_url": "https://www.themoviedb.org/person/1201637",
-      "imported_at": "2026-08-29T20:41:08.632Z"
-    },
-    {
       "id": 1321070,
       "name": "Yumi Uchiyama",
       "photo": "https://image.tmdb.org/t/p/w500/JvavoF3YOLCf4LHfl4XvYobANE.jpg",
@@ -31452,8 +28787,7 @@
       ],
       "movies": [],
       "series": [
-        65942,
-        94664
+        65942
       ],
       "tmdb_url": "https://www.themoviedb.org/person/1321070",
       "imported_at": "2026-08-29T20:20:09.840Z"
@@ -31523,7 +28857,6 @@
         "زک چری"
       ],
       "movies": [
-        1240889,
         1423191,
         1440050
       ],
@@ -31910,9 +29243,7 @@
       "movies": [
         83533
       ],
-      "series": [
-        113962
-      ],
+      "series": [],
       "tmdb_url": "https://www.themoviedb.org/person/8691",
       "imported_at": "2026-08-29T20:19:36.435Z"
     },
