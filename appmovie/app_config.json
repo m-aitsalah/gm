@@ -1,5 +1,5 @@
 {
-  "configVersion": 3,
+  "configVersion": 1,
 
   "content": {
     "moviesUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/movies.json",
