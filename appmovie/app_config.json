@@ -1,28 +1,50 @@
 {
-  "configVersion": 1,
+  "configVersion": 2,
 
   "content": {
-    "moviesUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/movies.json",
-    "seriesUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/series.json",
-    "actorsUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/actors.json",
-    "trendingUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/trending.json"
+    "moviesUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/data/movies.json",
+    "seriesUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/data/series.json",
+    "actorsUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/data/actors.json",
+    "trendingUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/data/trending.json"
+  },
+
+  "trailers": {
+    "enabled": true,
+
+    "origins": [
+      "https://xuperapp.tv/",
+      "https://www.xuperapp.tv/",
+      "https://trailer.xuperapp.tv/"
+    ],
+
+    "maxOriginAttempts": 3,
+    "cacheLastWorkingOrigin": true,
+    "preferLastWorkingOrigin": true,
+
+    "retryOnPlayerErrors": [
+      153
+    ],
+
+    "externalFallbackOnPlayerErrors": [
+      2,
+      5,
+      100,
+      101,
+      150
+    ],
+
+    "attemptTimeoutSeconds": 10,
+    "externalFallback": true,
+    "openYouTubeAppFirst": true
   },
 
   "ads": {
     "enabled": true,
-
     "banner": true,
-    "banner_id": "ca-app-pub-3940256099942544/6300978111",
-
     "interstitial": true,
-    "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-    "interstitial_every": 3,
-
     "native": true,
-    "native_id": "ca-app-pub-3940256099942544/2247696110",
-
     "rewarded": true,
-    "rewarded_id": "ca-app-pub-3940256099942544/5224354917"
+    "interstitial_every": 3
   },
 
   "update": {
