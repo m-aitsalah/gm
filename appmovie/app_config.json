@@ -2,10 +2,10 @@
   "configVersion": 2,
 
   "content": {
-    "moviesUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/data/movies.json",
-    "seriesUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/data/series.json",
-    "actorsUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/data/actors.json",
-    "trendingUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/data/trending.json"
+    "moviesUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/movies.json",
+    "seriesUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/series.json",
+    "actorsUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/actors.json",
+    "trendingUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/trending.json"
   },
 
   "trailers": {
