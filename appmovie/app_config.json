@@ -16,7 +16,6 @@
       "textColor": "#FFFFFF",
       "centerContent": true
     },
-
     "questions": {
       "showProgressCounter": false
     }
@@ -54,13 +53,20 @@
   },
 
   "ads": {
-    "enabled": true,
+    "enabled": false,
+
     "banner": true,
     "interstitial": true,
     "native": true,
     "rewarded": true,
-    "interstitial_every": 3,
 
+    "admob_banner_unit_id": "ca-app-pub-5328735289575157/8032545018",
+    "admob_interstitial_unit_id": "ca-app-pub-5328735289575157/5873285536",
+    "admob_native_unit_id": "ca-app-pub-5328735289575157/8499448871",
+
+    "admob_rewarded_unit_id": "ca-app-pub-3940256099942544/5224354917",
+
+    "interstitial_every": 3,
     "global_interstitial_counter": true,
     "count_question_clicks": true
   },
