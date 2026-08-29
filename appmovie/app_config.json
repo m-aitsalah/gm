@@ -1,5 +1,5 @@
 {
-  "configVersion": 2,
+  "configVersion": 3,
 
   "content": {
     "moviesUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/movies.json",
@@ -8,8 +8,23 @@
     "trendingUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/trending.json"
   },
 
+  "ui": {
+    "watchNow": {
+      "enabled": true,
+      "text": "Watch Now",
+      "backgroundColor": "#E50914",
+      "textColor": "#FFFFFF",
+      "centerContent": true
+    },
+
+    "questions": {
+      "showProgressCounter": false
+    }
+  },
+
   "trailers": {
     "enabled": true,
+    "premium": true,
 
     "origins": [
       "https://xuperapp.tv/",
@@ -44,7 +59,10 @@
     "interstitial": true,
     "native": true,
     "rewarded": true,
-    "interstitial_every": 3
+    "interstitial_every": 3,
+
+    "global_interstitial_counter": true,
+    "count_question_clicks": true
   },
 
   "update": {
