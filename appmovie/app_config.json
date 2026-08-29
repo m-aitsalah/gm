@@ -23,7 +23,7 @@
 
   "trailers": {
     "enabled": true,
-    "premium": true,
+    "premium": false,
 
     "origins": [
       "https://xuperapp.tv/",
