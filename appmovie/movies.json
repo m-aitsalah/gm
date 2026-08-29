@@ -1,0 +1,601 @@
+{
+  "movies": [
+    {
+      "id": 1288445,
+      "type": "movie",
+      "title": "Mutiny",
+      "original_title": "Mutiny",
+      "tagline": "There's blood in the water.",
+      "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/iYhvs0hLGtZZt6qDrUnuM0E1zGM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+      "release_date": "2026-08-19",
+      "year": 2026,
+      "runtime": 95,
+      "rating": 6.388,
+      "vote_count": 215,
+      "popularity": 472.8163,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "original_language": "en",
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "studios": [
+        {
+          "id": 218150,
+          "name": "Punch Palace Productions",
+          "logo": ""
+        },
+        {
+          "id": 73492,
+          "name": "MadRiver Pictures",
+          "logo": "https://image.tmdb.org/t/p/w500/bQzrYnomE5hIRJMxEy7e2SCYew3.png"
+        }
+      ],
+      "trailer_youtube_key": "2Iqvbe98Gb4",
+      "cast": [
+        {
+          "id": 976,
+          "name": "Jason Statham",
+          "character": "Cole Reed",
+          "profile": "https://image.tmdb.org/t/p/w500/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg",
+          "order": 0
+        },
+        {
+          "id": 82809,
+          "name": "Annabelle Wallis",
+          "character": "Angie Ellis",
+          "profile": "https://image.tmdb.org/t/p/w500/2ZmO2Zz9TcR0rmSJHOkivcu0heR.jpg",
+          "order": 1
+        },
+        {
+          "id": 141876,
+          "name": "Roland Møller",
+          "character": "Captain Marko Madsen",
+          "profile": "https://image.tmdb.org/t/p/w500/bF7wrJ5mrIhSwyi6ylhyQWj9BoN.jpg",
+          "order": 2
+        },
+        {
+          "id": 178622,
+          "name": "Ramon Tikaram",
+          "character": "Tibu Campallo",
+          "profile": "https://image.tmdb.org/t/p/w500/wtBLiI8tzeqPLMB9uswkyFhChva.jpg",
+          "order": 3
+        },
+        {
+          "id": 1156305,
+          "name": "Arnas Fedaravičius",
+          "character": "Mateo Pineda",
+          "profile": "https://image.tmdb.org/t/p/w500/7WfcGugvkuPqEzu0cUJBeJPt1lD.jpg",
+          "order": 4
+        },
+        {
+          "id": 1033691,
+          "name": "Jason Wong",
+          "character": "Taran",
+          "profile": "https://image.tmdb.org/t/p/w500/tt3D1PAoB8Yf4jPCovnhlP4pvL3.jpg",
+          "order": 5
+        },
+        {
+          "id": 76215,
+          "name": "Adrian Lester",
+          "character": "Captain Adam Spencer",
+          "profile": "https://image.tmdb.org/t/p/w500/xyRB9aykTFtI42Ce8xFKZDCsHYd.jpg",
+          "order": 6
+        },
+        {
+          "id": 2223751,
+          "name": "Chaneil Kular",
+          "character": "Kameron Campallo",
+          "profile": "https://image.tmdb.org/t/p/w500/b6TmM2wcVntDMJGZWQM3ftshhIi.jpg",
+          "order": 7
+        },
+        {
+          "id": 1712829,
+          "name": "Andrew John Tait",
+          "character": "BK Lobby Businessman",
+          "profile": "https://image.tmdb.org/t/p/w500/zwRwArmNyMTjXTJQopegK0kL439.jpg",
+          "order": 8
+        },
+        {
+          "id": 1917917,
+          "name": "Simon Kluth",
+          "character": "Jaran Daniles",
+          "profile": "https://image.tmdb.org/t/p/w500/tk4Iwjm5z3G4bQRebSOpGopx6f0.jpg",
+          "order": 9
+        }
+      ],
+      "featured": false,
+      "enabled": true,
+      "tmdb_url": "https://www.themoviedb.org/movie/1288445",
+      "imported_at": "2026-08-29T20:14:13.165Z"
+    },
+    {
+      "id": 969681,
+      "type": "movie",
+      "title": "Spider-Man: Brand New Day",
+      "original_title": "Spider-Man: Brand New Day",
+      "tagline": "A brand new day starts now.",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
+      "release_date": "2026-07-29",
+      "year": 2026,
+      "runtime": 145,
+      "rating": 7.888,
+      "vote_count": 2251,
+      "popularity": 1110.545,
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "original_language": "en",
+      "countries": [
+        "United States of America"
+      ],
+      "studios": [
+        {
+          "id": 420,
+          "name": "Marvel Studios",
+          "logo": "https://image.tmdb.org/t/p/w500/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+        },
+        {
+          "id": 5,
+          "name": "Columbia Pictures",
+          "logo": "https://image.tmdb.org/t/p/w500/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+        },
+        {
+          "id": 84041,
+          "name": "Pascal Pictures",
+          "logo": "https://image.tmdb.org/t/p/w500/nw4kyc29QRpNtFbdsBHkRSFavvt.png"
+        },
+        {
+          "id": 22213,
+          "name": "TSG Entertainment",
+          "logo": "https://image.tmdb.org/t/p/w500/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+        }
+      ],
+      "trailer_youtube_key": "P3uI5sLosKU",
+      "cast": [
+        {
+          "id": 1136406,
+          "name": "Tom Holland",
+          "character": "Peter Parker / Spider-Man",
+          "profile": "https://image.tmdb.org/t/p/w500/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg",
+          "order": 0
+        },
+        {
+          "id": 505710,
+          "name": "Zendaya",
+          "character": "MJ",
+          "profile": "https://image.tmdb.org/t/p/w500/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg",
+          "order": 1
+        },
+        {
+          "id": 103,
+          "name": "Mark Ruffalo",
+          "character": "Bruce Banner / Hulk",
+          "profile": "https://image.tmdb.org/t/p/w500/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg",
+          "order": 2
+        },
+        {
+          "id": 19498,
+          "name": "Jon Bernthal",
+          "character": "Frank Castle / Punisher",
+          "profile": "https://image.tmdb.org/t/p/w500/aSH27tGD4PJoCO54RQnARSSSIQy.jpg",
+          "order": 3
+        },
+        {
+          "id": 1649152,
+          "name": "Jacob Batalon",
+          "character": "Ned Leeds",
+          "profile": "https://image.tmdb.org/t/p/w500/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg",
+          "order": 4
+        },
+        {
+          "id": 1590797,
+          "name": "Sadie Sink",
+          "character": "Jean Grey",
+          "profile": "https://image.tmdb.org/t/p/w500/92FddzBfK50XOUbtwjqHPraoGHy.jpg",
+          "order": 5
+        },
+        {
+          "id": 1373737,
+          "name": "Florence Pugh",
+          "character": "Yelena Belova / Black Widow",
+          "profile": "https://image.tmdb.org/t/p/w500/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg",
+          "order": 6
+        },
+        {
+          "id": 59693,
+          "name": "Liza Colón-Zayas",
+          "character": "Detective Jean DeWolff",
+          "profile": "https://image.tmdb.org/t/p/w500/q2gHcef0wckji0AS8ZEO6cYx065.jpg",
+          "order": 7
+        },
+        {
+          "id": 2028037,
+          "name": "Tramell Tillman",
+          "character": "William 'Bill' Metzger",
+          "profile": "https://image.tmdb.org/t/p/w500/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg",
+          "order": 8
+        },
+        {
+          "id": 3141,
+          "name": "Marisa Tomei",
+          "character": "May Parker",
+          "profile": "https://image.tmdb.org/t/p/w500/vAQ10fvGfVyuJdMNKVMA4ZkacWL.jpg",
+          "order": 9
+        }
+      ],
+      "featured": false,
+      "enabled": true,
+      "tmdb_url": "https://www.themoviedb.org/movie/969681",
+      "imported_at": "2026-08-29T20:13:22.754Z"
+    },
+    {
+      "id": 1516698,
+      "type": "movie",
+      "title": "The Last Sunrise",
+      "original_title": "The Last Sunrise",
+      "tagline": "One summer to feel everything.",
+      "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+      "release_date": "2026-08-26",
+      "year": 2026,
+      "runtime": 107,
+      "rating": 7.3,
+      "vote_count": 44,
+      "popularity": 308.5632,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "original_language": "en",
+      "countries": [
+        "United States of America",
+        "Spain"
+      ],
+      "studios": [
+        {
+          "id": 210099,
+          "name": "Amazon MGM Studios",
+          "logo": "https://image.tmdb.org/t/p/w500/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+        },
+        {
+          "id": 158529,
+          "name": "Ethea Entertainment",
+          "logo": ""
+        },
+        {
+          "id": 220517,
+          "name": "Luber-Roklin Entertainment",
+          "logo": ""
+        },
+        {
+          "id": 202263,
+          "name": "Pitt Street Productions",
+          "logo": ""
+        },
+        {
+          "id": 308708,
+          "name": "Aquarius Films",
+          "logo": ""
+        },
+        {
+          "id": 308732,
+          "name": "The Last Sunrise",
+          "logo": ""
+        }
+      ],
+      "trailer_youtube_key": "NhI2UpkFAFw",
+      "cast": [
+        {
+          "id": 2071463,
+          "name": "Maia Reficco",
+          "character": "Oriah 'Ry' Pera",
+          "profile": "https://image.tmdb.org/t/p/w500/brPJjB7K3zkqKhmKkCTr5cGZXUy.jpg",
+          "order": 0
+        },
+        {
+          "id": 52605,
+          "name": "Eva Longoria",
+          "character": "Isolde Pera",
+          "profile": "https://image.tmdb.org/t/p/w500/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg",
+          "order": 1
+        },
+        {
+          "id": 2649290,
+          "name": "Fernando Lindez",
+          "character": "Julián",
+          "profile": "https://image.tmdb.org/t/p/w500/quHSt84xNfEqCk9v5fv3qVxlbaX.jpg",
+          "order": 2
+        },
+        {
+          "id": 2167148,
+          "name": "Chloé Sweetlove",
+          "character": "Amara",
+          "profile": "https://image.tmdb.org/t/p/w500/pjwHAPDzyKojzK47hjZ9RNzZ1yR.jpg",
+          "order": 3
+        },
+        {
+          "id": 1121031,
+          "name": "Andrés Velencoso",
+          "character": "Mateo",
+          "profile": "https://image.tmdb.org/t/p/w500/gzQlzEWYWDNDfAEH2pk8VR30xDe.jpg",
+          "order": 4
+        },
+        {
+          "id": 1587318,
+          "name": "Stefanie Martini",
+          "character": "Lena",
+          "profile": "https://image.tmdb.org/t/p/w500/cSSIiss7lTRAoZ1QqOJtA9iodUu.jpg",
+          "order": 5
+        },
+        {
+          "id": 1379411,
+          "name": "Sabrina Bartlett",
+          "character": "Prisha",
+          "profile": "https://image.tmdb.org/t/p/w500/w4AnBCVuHFhYiJYWJ1SzT09yhBb.jpg",
+          "order": 6
+        },
+        {
+          "id": 5321100,
+          "name": "Àlex Peracaula",
+          "character": "Carlos",
+          "profile": "https://image.tmdb.org/t/p/w500/92UnW3XPciP9jPHhVIdn8m3TbiJ.jpg",
+          "order": 7
+        },
+        {
+          "id": 3204229,
+          "name": "Molly B. Thomas",
+          "character": "Sofia",
+          "profile": "https://image.tmdb.org/t/p/w500/pDZvlDpuk1pz6sZ7JTYhY6WdEEQ.jpg",
+          "order": 8
+        },
+        {
+          "id": 3119942,
+          "name": "Razan Nassar",
+          "character": "Chloe",
+          "profile": "https://image.tmdb.org/t/p/w500/4PpGRgPl5glsSQaoZSLRAv4hCJW.jpg",
+          "order": 9
+        }
+      ],
+      "featured": false,
+      "enabled": true,
+      "tmdb_url": "https://www.themoviedb.org/movie/1516698",
+      "imported_at": "2026-08-29T20:14:24.689Z"
+    },
+    {
+      "id": 1368337,
+      "type": "movie",
+      "title": "The Odyssey",
+      "original_title": "The Odyssey",
+      "tagline": "Defy the gods.",
+      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "release_date": "2026-07-15",
+      "year": 2026,
+      "runtime": 173,
+      "rating": 7.984,
+      "vote_count": 3292,
+      "popularity": 586.1293,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "original_language": "en",
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "studios": [
+        {
+          "id": 33,
+          "name": "Universal Pictures",
+          "logo": "https://image.tmdb.org/t/p/w500/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+        },
+        {
+          "id": 9996,
+          "name": "Syncopy",
+          "logo": "https://image.tmdb.org/t/p/w500/3tvBqYsBhxWeHlu62SIJ1el93O7.png"
+        }
+      ],
+      "trailer_youtube_key": "AyIZ9tiiN8I",
+      "cast": [
+        {
+          "id": 1892,
+          "name": "Matt Damon",
+          "character": "Odysseus",
+          "profile": "https://image.tmdb.org/t/p/w500/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg",
+          "order": 0
+        },
+        {
+          "id": 1136406,
+          "name": "Tom Holland",
+          "character": "Telemachus",
+          "profile": "https://image.tmdb.org/t/p/w500/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg",
+          "order": 1
+        },
+        {
+          "id": 1813,
+          "name": "Anne Hathaway",
+          "character": "Penelope",
+          "profile": "https://image.tmdb.org/t/p/w500/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
+          "order": 2
+        },
+        {
+          "id": 11288,
+          "name": "Robert Pattinson",
+          "character": "Antinous",
+          "profile": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg",
+          "order": 3
+        },
+        {
+          "id": 1227717,
+          "name": "Himesh Patel",
+          "character": "Eurylochus",
+          "profile": "https://image.tmdb.org/t/p/w500/4mfOQgnwmewNURfQApyyHxt1qUF.jpg",
+          "order": 4
+        },
+        {
+          "id": 6885,
+          "name": "Charlize Theron",
+          "character": "Calypso",
+          "profile": "https://image.tmdb.org/t/p/w500/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg",
+          "order": 5
+        },
+        {
+          "id": 5723,
+          "name": "John Leguizamo",
+          "character": "Eumaeus",
+          "profile": "https://image.tmdb.org/t/p/w500/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg",
+          "order": 6
+        },
+        {
+          "id": 1978406,
+          "name": "Travis Scott",
+          "character": "Bard",
+          "profile": "https://image.tmdb.org/t/p/w500/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg",
+          "order": 7
+        },
+        {
+          "id": 1154054,
+          "name": "Corey Hawkins",
+          "character": "Polybus",
+          "profile": "https://image.tmdb.org/t/p/w500/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg",
+          "order": 8
+        },
+        {
+          "id": 84706,
+          "name": "Jarreth J. Merz",
+          "character": "Leodes",
+          "profile": "https://image.tmdb.org/t/p/w500/ze8WDEujZmTXdCLcUy0IaymwlcS.jpg",
+          "order": 9
+        }
+      ],
+      "featured": false,
+      "enabled": true,
+      "tmdb_url": "https://www.themoviedb.org/movie/1368337",
+      "imported_at": "2026-08-29T20:13:12.638Z"
+    },
+    {
+      "id": 860508,
+      "type": "movie",
+      "title": "The Whisper Man",
+      "original_title": "The Whisper Man",
+      "tagline": "If you leave the door half open, soon you'll hear the whispers spoken.",
+      "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+      "release_date": "2026-08-27",
+      "year": 2026,
+      "runtime": 114,
+      "rating": 6.176,
+      "vote_count": 54,
+      "popularity": 115.7986,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "original_language": "en",
+      "countries": [
+        "United States of America"
+      ],
+      "studios": [
+        {
+          "id": 106544,
+          "name": "AGBO",
+          "logo": "https://image.tmdb.org/t/p/w500/psd84iF7PTGrKf4yFOStKj8JbAh.png"
+        }
+      ],
+      "trailer_youtube_key": "ZHRR-1CKYIQ",
+      "cast": [
+        {
+          "id": 36801,
+          "name": "Adam Scott",
+          "character": "Tom Kennedy",
+          "profile": "https://image.tmdb.org/t/p/w500/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg",
+          "order": 0
+        },
+        {
+          "id": 380,
+          "name": "Robert De Niro",
+          "character": "Peter Willis",
+          "profile": "https://image.tmdb.org/t/p/w500/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg",
+          "order": 1
+        },
+        {
+          "id": 11705,
+          "name": "Michelle Monaghan",
+          "character": "Amanda Beck",
+          "profile": "https://image.tmdb.org/t/p/w500/uK1qhSzKd9gkDh3p1H5e2PWMYyH.jpg",
+          "order": 2
+        },
+        {
+          "id": 5374936,
+          "name": "Acston Luca Porto",
+          "character": "Jake Kennedy",
+          "profile": "",
+          "order": 3
+        },
+        {
+          "id": 2232,
+          "name": "Michael Keaton",
+          "character": "Frank Carter",
+          "profile": "https://image.tmdb.org/t/p/w500/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg",
+          "order": 4
+        },
+        {
+          "id": 1586047,
+          "name": "Owen Teague",
+          "character": "Frank Carter Jr.",
+          "profile": "https://image.tmdb.org/t/p/w500/tgCkGE0LIggyjMmgSwHhpZAkfJs.jpg",
+          "order": 5
+        },
+        {
+          "id": 184581,
+          "name": "Hamish Linklater",
+          "character": "Norman Collins",
+          "profile": "https://image.tmdb.org/t/p/w500/ksTXQnWuKvmcVcbmHrvGaDof0P2.jpg",
+          "order": 6
+        },
+        {
+          "id": 1136135,
+          "name": "Will Brill",
+          "character": "Sgt. John Dyson",
+          "profile": "https://image.tmdb.org/t/p/w500/eTPXcvxlquT8ppKnwAe2a3CzI90.jpg",
+          "order": 7
+        },
+        {
+          "id": 6023452,
+          "name": "Aniela Zeig",
+          "character": "Little Girl",
+          "profile": "https://image.tmdb.org/t/p/w500/tIRhm1c8yPukLsuRrYznn5McXPn.jpg",
+          "order": 8
+        },
+        {
+          "id": 6023465,
+          "name": "Exavier Montanez",
+          "character": "Neil Spencer",
+          "profile": "https://image.tmdb.org/t/p/w500/aeVkCR3zzNyxAGdiLh8OZOeGTgn.jpg",
+          "order": 9
+        }
+      ],
+      "featured": false,
+      "enabled": true,
+      "tmdb_url": "https://www.themoviedb.org/movie/860508",
+      "imported_at": "2026-08-29T20:12:59.535Z"
+    }
+  ],
+  "updated_at": "2026-08-29T20:16:20.742Z"
+}

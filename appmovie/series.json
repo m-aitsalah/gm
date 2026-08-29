@@ -1,0 +1,1145 @@
+{
+  "series": [
+    {
+      "id": 95350,
+      "type": "series",
+      "title": "Lanterns",
+      "original_title": "Lanterns",
+      "tagline": "Only one can wear the ring.",
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "first_air_date": "2026-08-16",
+      "last_air_date": "2026-08-23",
+      "year": 2026,
+      "status": "Returning Series",
+      "number_of_seasons": 1,
+      "number_of_episodes": 8,
+      "episode_runtime": 0,
+      "rating": 8.2,
+      "vote_count": 182,
+      "popularity": 247.9363,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "original_language": "en",
+      "countries": [
+        "United States of America"
+      ],
+      "networks": [
+        {
+          "id": 49,
+          "name": "HBO",
+          "logo": "https://image.tmdb.org/t/p/w500/tuomPhY2UtuPTqqFnKMVHvSb724.png"
+        }
+      ],
+      "studios": [
+        {
+          "id": 184898,
+          "name": "DC Studios",
+          "logo": "https://image.tmdb.org/t/p/w500/iNTsbEgntSUwHmsZ9whiLhm60WB.png"
+        },
+        {
+          "id": 3268,
+          "name": "HBO",
+          "logo": "https://image.tmdb.org/t/p/w500/tuomPhY2UtuPTqqFnKMVHvSb724.png"
+        },
+        {
+          "id": 1957,
+          "name": "Warner Bros. Television",
+          "logo": "https://image.tmdb.org/t/p/w500/pJJw98MtNFC9cHn3o15G7vaUnnX.png"
+        },
+        {
+          "id": 66224,
+          "name": "Man, Woman & Child Productions",
+          "logo": ""
+        }
+      ],
+      "trailer_youtube_key": "7UIBOsuUwc4",
+      "cast": [
+        {
+          "id": 3497,
+          "name": "Kyle Chandler",
+          "character": "Hal Jordan",
+          "profile": "https://image.tmdb.org/t/p/w500/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg",
+          "order": 0
+        },
+        {
+          "id": 1763709,
+          "name": "Aaron Pierre",
+          "character": "John Stewart",
+          "profile": "https://image.tmdb.org/t/p/w500/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg",
+          "order": 1
+        },
+        {
+          "id": 9015,
+          "name": "Kelly Macdonald",
+          "character": "Sheriff Kerry Kane",
+          "profile": "https://image.tmdb.org/t/p/w500/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg",
+          "order": 2
+        },
+        {
+          "id": 39520,
+          "name": "Garret Dillahunt",
+          "character": "William 'Will' Macon",
+          "profile": "https://image.tmdb.org/t/p/w500/4L9bdqQIdfrtqR7JQdsIhlF3Fjk.jpg",
+          "order": 3
+        },
+        {
+          "id": 428440,
+          "name": "Poorna Jagannathan",
+          "character": "Zoe Macon",
+          "profile": "https://image.tmdb.org/t/p/w500/o2BQX1tAgo47GGvpBy1k4LQLRs6.jpg",
+          "order": 4
+        }
+      ],
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Season 1",
+          "overview": "",
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/djyIsygQPhB0RCgiCJHbyiX4BLg.jpg",
+          "air_date": "2026-08-16",
+          "episode_count": 8,
+          "episodes": [
+            {
+              "id": 4988115,
+              "episode_number": 1,
+              "title": "Pilot",
+              "overview": "After a fatal shooting, Green Lantern Hal Jordan and new recruit John Stewart set out to prove it was an extraterrestrial event.",
+              "still": "https://image.tmdb.org/t/p/w780/eamjkYDnuDcvS1MyynI4B9nE6KL.jpg",
+              "runtime": 57,
+              "air_date": "2026-08-16",
+              "rating": 6.9
+            },
+            {
+              "id": 7007714,
+              "episode_number": 2,
+              "title": "Trust Fall",
+              "overview": "While John's middling errand ultimately proves eventful, Hal makes waves in Rushville – which only inspires him to dig deeper.",
+              "still": "https://image.tmdb.org/t/p/w780/kccUM3MF6AmqdcsgPMKoBfcl54a.jpg",
+              "runtime": 52,
+              "air_date": "2026-08-23",
+              "rating": 6.6
+            },
+            {
+              "id": 7179884,
+              "episode_number": 3,
+              "title": "Episode 3",
+              "overview": "",
+              "still": "https://image.tmdb.org/t/p/w780/omG0zY2xdHVqI0KRByuafxgX3Ag.jpg",
+              "runtime": 57,
+              "air_date": "2026-08-30",
+              "rating": 3.25
+            },
+            {
+              "id": 7179885,
+              "episode_number": 4,
+              "title": "Episode 4",
+              "overview": "",
+              "still": "",
+              "runtime": 0,
+              "air_date": "2026-09-06",
+              "rating": 0
+            },
+            {
+              "id": 7179886,
+              "episode_number": 5,
+              "title": "Episode 5",
+              "overview": "",
+              "still": "",
+              "runtime": 0,
+              "air_date": "2026-09-13",
+              "rating": 0
+            },
+            {
+              "id": 7179887,
+              "episode_number": 6,
+              "title": "Episode 6",
+              "overview": "",
+              "still": "",
+              "runtime": 0,
+              "air_date": "2026-09-20",
+              "rating": 0
+            },
+            {
+              "id": 7179888,
+              "episode_number": 7,
+              "title": "Episode 7",
+              "overview": "",
+              "still": "",
+              "runtime": 0,
+              "air_date": "2026-09-27",
+              "rating": 0
+            },
+            {
+              "id": 7179889,
+              "episode_number": 8,
+              "title": "Episode 8",
+              "overview": "",
+              "still": "",
+              "runtime": 0,
+              "air_date": "2026-10-04",
+              "rating": 0
+            }
+          ]
+        }
+      ],
+      "featured": false,
+      "enabled": true,
+      "tmdb_url": "https://www.themoviedb.org/tv/95350",
+      "imported_at": "2026-08-29T20:15:02.667Z"
+    },
+    {
+      "id": 108978,
+      "type": "series",
+      "title": "Reacher",
+      "original_title": "Reacher",
+      "tagline": "Reacher's back.",
+      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "first_air_date": "2022-02-03",
+      "last_air_date": "2026-08-26",
+      "year": 2022,
+      "status": "Returning Series",
+      "number_of_seasons": 4,
+      "number_of_episodes": 32,
+      "episode_runtime": 0,
+      "rating": 8.097,
+      "vote_count": 3166,
+      "popularity": 565.7909,
+      "genres": [
+        "Action & Adventure",
+        "Crime"
+      ],
+      "original_language": "en",
+      "countries": [
+        "United States of America"
+      ],
+      "networks": [
+        {
+          "id": 1024,
+          "name": "Prime Video",
+          "logo": "https://image.tmdb.org/t/p/w500/w7HfLNm9CWwRmAMU58udl2L7We7.png"
+        }
+      ],
+      "studios": [
+        {
+          "id": 20580,
+          "name": "Amazon Studios",
+          "logo": "https://image.tmdb.org/t/p/w500/oRR9EXVoKP9szDkVKlze5HVJS7g.png"
+        },
+        {
+          "id": 87731,
+          "name": "Skydance Television",
+          "logo": "https://image.tmdb.org/t/p/w500/8PeKdSO13vYTod2HAJsV2m7mRr0.png"
+        },
+        {
+          "id": 228633,
+          "name": "Paramount Television Studios",
+          "logo": "https://image.tmdb.org/t/p/w500/of4mmVt6egYaO9oERJbuUxMOTkj.png"
+        },
+        {
+          "id": 210099,
+          "name": "Amazon MGM Studios",
+          "logo": "https://image.tmdb.org/t/p/w500/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+        },
+        {
+          "id": 270146,
+          "name": "Paramount Television Studios",
+          "logo": "https://image.tmdb.org/t/p/w500/4r6rIxegOrrVeJwqRxpzNrCRQMD.png"
+        }
+      ],
+      "trailer_youtube_key": "PCbp1FfipPg",
+      "cast": [
+        {
+          "id": 64295,
+          "name": "Alan Ritchson",
+          "character": "Jack Reacher",
+          "profile": "https://image.tmdb.org/t/p/w500/92YNEEpCyugkTzPprJwZpvVtvuK.jpg",
+          "order": 0
+        },
+        {
+          "id": 1247604,
+          "name": "Agnez Mo",
+          "character": "Lila Hoth",
+          "profile": "https://image.tmdb.org/t/p/w500/7GuBJxf5szQRCKLk3iG2ztfCo39.jpg",
+          "order": 16
+        },
+        {
+          "id": 1104414,
+          "name": "Sydelle Noel",
+          "character": "Tamara Green",
+          "profile": "https://image.tmdb.org/t/p/w500/fCOlRtkZVMOMDRPYhdRLeKqymVa.jpg",
+          "order": 17
+        },
+        {
+          "id": 1297494,
+          "name": "Anggun",
+          "character": "Amisha Hoth",
+          "profile": "https://image.tmdb.org/t/p/w500/4WxHGTehDvZudrunxTZmnR66CBi.jpg",
+          "order": 18
+        },
+        {
+          "id": 59238,
+          "name": "Christopher Rodriguez Marquette",
+          "character": "Jacob Merrick",
+          "profile": "https://image.tmdb.org/t/p/w500/8AL7UPXM4sVkOMgTHIxNdRi2SXP.jpg",
+          "order": 19
+        },
+        {
+          "id": 18472,
+          "name": "Kevin Corrigan",
+          "character": "Shaun Docherty",
+          "profile": "https://image.tmdb.org/t/p/w500/obSUGc68mQDvFONalMg25Xw5GZM.jpg",
+          "order": 20
+        }
+      ],
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Season 1",
+          "overview": "Based on \"Killing Floor,\" when retired Military Police Officer Jack Reacher is arrested for a murder he did not commit, he finds himself in the middle of a deadly conspiracy full of dirty cops, shady businessmen and scheming politicians. With nothing but his wits, he must figure out what is happening in Margrave, Georgia.",
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/aylSycUpdCQzN7nRrPDL2EZwp5a.jpg",
+          "air_date": "2022-02-03",
+          "episode_count": 8,
+          "episodes": [
+            {
+              "id": 2416050,
+              "episode_number": 1,
+              "title": "Welcome to Margrave",
+              "overview": "Reacher is wrongly accused of murder while visiting the small town of Margrave, GA.",
+              "still": "https://image.tmdb.org/t/p/w780/15xLLZN3LLAdvoiHnYL5DcXlsYu.jpg",
+              "runtime": 54,
+              "air_date": "2022-02-03",
+              "rating": 7.638
+            },
+            {
+              "id": 3375621,
+              "episode_number": 2,
+              "title": "First Dance",
+              "overview": "When more victims are discovered, Reacher attempts to get answers but is set up. Roscoe receives a threatening message.",
+              "still": "https://image.tmdb.org/t/p/w780/4nfnpqWMX8dHI1bYZcdxLEvy2c9.jpg",
+              "runtime": 53,
+              "air_date": "2022-02-03",
+              "rating": 7.596
+            },
+            {
+              "id": 3375622,
+              "episode_number": 3,
+              "title": "Spoonful",
+              "overview": "Reacher and Finlay’s investigation into the missing Spivey leads them into a confrontation with Kliner Sr. Roscoe learns unsettling news about Reacher.",
+              "still": "https://image.tmdb.org/t/p/w780/6dgLq2bUlEBuXz5SPzr1Dn7UpML.jpg",
+              "runtime": 47,
+              "air_date": "2022-02-03",
+              "rating": 7.537
+            },
+            {
+              "id": 3375623,
+              "episode_number": 4,
+              "title": "In a Tree",
+              "overview": "As the danger increases, Reacher and Roscoe grow closer and they make plans to meet with their contact from Homeland Security.",
+              "still": "https://image.tmdb.org/t/p/w780/8AgfxcL0WxcDCiTtanrKG9vGyug.jpg",
+              "runtime": 46,
+              "air_date": "2022-02-03",
+              "rating": 7.474
+            },
+            {
+              "id": 3375624,
+              "episode_number": 5,
+              "title": "No Apologies",
+              "overview": "As the mystery deepens, Reacher teams up with an old colleague and Finlay makes a shocking discovery.",
+              "still": "https://image.tmdb.org/t/p/w780/yvSWomTB7uiVOov0iQXrlmek81l.jpg",
+              "runtime": 49,
+              "air_date": "2022-02-03",
+              "rating": 7.619
+            },
+            {
+              "id": 3375625,
+              "episode_number": 6,
+              "title": "Papier",
+              "overview": "As the town is rocked by another murder, Reacher heads to New York and learns the truth about the illegal business in Margrave while Roscoe faces danger in the woods.",
+              "still": "https://image.tmdb.org/t/p/w780/3GT2msFS0C4KdEDeD9TR2NPOS1s.jpg",
+              "runtime": 49,
+              "air_date": "2022-02-03",
+              "rating": 7.562
+            },
+            {
+              "id": 3375626,
+              "episode_number": 7,
+              "title": "Reacher Said Nothing",
+              "overview": "Reacher springs a trap and then gets trapped himself.",
+              "still": "https://image.tmdb.org/t/p/w780/i9z3J0xwImiuFhu5DQyYqnBxVDC.jpg",
+              "runtime": 42,
+              "air_date": "2022-02-03",
+              "rating": 7.733
+            },
+            {
+              "id": 3375627,
+              "episode_number": 8,
+              "title": "Pie",
+              "overview": "Reacher leads a rescue mission at the warehouse that ends in a showdown.",
+              "still": "https://image.tmdb.org/t/p/w780/8Pzg1MpVAAbyBGdfAUmRmfSmAWQ.jpg",
+              "runtime": 52,
+              "air_date": "2022-02-03",
+              "rating": 7.805
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "name": "Season 2",
+          "overview": "Based on \"Bad Luck and Trouble,\" when members of Reacher's old military unit start turning up dead, Reacher has just one thing on his mind—revenge.",
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jFuH0md41x5mB4qj5344mSmtHrO.jpg",
+          "air_date": "2023-12-14",
+          "episode_count": 8,
+          "episodes": [
+            {
+              "id": 4899162,
+              "episode_number": 1,
+              "title": "ATM",
+              "overview": "Reacher and Neagley investigate the murder of a member of 110th, a group of Special investigators assembled by Reacher, only to realize the whole unit may be at risk.",
+              "still": "https://image.tmdb.org/t/p/w780/j7hYdtMCzXsRtk8oeoynzcB1skZ.jpg",
+              "runtime": 56,
+              "air_date": "2023-12-14",
+              "rating": 7.218
+            },
+            {
+              "id": 4901210,
+              "episode_number": 2,
+              "title": "What Happens in Atlantic City",
+              "overview": "The investigation into Franz's murder takes Reacher and the surviving members of his former Army unit to Atlantic City where the mystery deepens, danger awaits, and an old flame is rekindled.",
+              "still": "https://image.tmdb.org/t/p/w780/qdsegCgx8x5tXL7k1nwiQ0493J6.jpg",
+              "runtime": 50,
+              "air_date": "2023-12-14",
+              "rating": 7.059
+            },
+            {
+              "id": 4901211,
+              "episode_number": 3,
+              "title": "Picture Says a Thousand Words",
+              "overview": "After more of his friends fall victim, Reacher forges an uneasy alliance with a dogged detective, and their only clue in the case leads the 110th to a troubling discovery.",
+              "still": "https://image.tmdb.org/t/p/w780/fRqRZZuBRMhxOw6QHIOL97MAj5P.jpg",
+              "runtime": 48,
+              "air_date": "2023-12-14",
+              "rating": 6.909
+            },
+            {
+              "id": 4901212,
+              "episode_number": 4,
+              "title": "A Night at the Symphony",
+              "overview": "Reacher and his team head to Boston to track down a political aide with insider knowledge of a top secret military-defense contract that may be the reason behind their friends' deaths.",
+              "still": "https://image.tmdb.org/t/p/w780/xZMIwWORGokHKxU4DgGSzcrvvJr.jpg",
+              "runtime": 46,
+              "air_date": "2023-12-21",
+              "rating": 6.9
+            },
+            {
+              "id": 4901213,
+              "episode_number": 5,
+              "title": "Burial",
+              "overview": "Neagley and Dixon discover shocking information about an old friend in Denver while Reacher and O'Donnell learn more about the nefarious and mysterious A.M..",
+              "still": "https://image.tmdb.org/t/p/w780/qHoDmkiqipd7u8VzVDNcwVksRfd.jpg",
+              "runtime": 44,
+              "air_date": "2023-12-28",
+              "rating": 6.767
+            },
+            {
+              "id": 4901214,
+              "episode_number": 6,
+              "title": "New York's Finest",
+              "overview": "As the mystery continues to unfold, Reacher and his team set a trap to even the score.",
+              "still": "https://image.tmdb.org/t/p/w780/r0Xj9M0XfaX1tbuahIZECCo9y6S.jpg",
+              "runtime": 46,
+              "air_date": "2024-01-04",
+              "rating": 6.7
+            },
+            {
+              "id": 4901215,
+              "episode_number": 7,
+              "title": "The Man Goes Through",
+              "overview": "As the team close in on Langston, two members of the 110th face danger, compelling Reacher to devise a dangerous plan to rescue them.",
+              "still": "https://image.tmdb.org/t/p/w780/xdX8ijvCkwM6erROSdZYqnlzEre.jpg",
+              "runtime": 46,
+              "air_date": "2024-01-11",
+              "rating": 6.679
+            },
+            {
+              "id": 4901216,
+              "episode_number": 8,
+              "title": "Fly Boy",
+              "overview": "Reacher and Neagley make a final desperate attempt to save O’Donnell and Dixon, stop A.M. and avenge their friends’ murder.",
+              "still": "https://image.tmdb.org/t/p/w780/7Jt8ghfYb2jx7hg1H5UbEUEH101.jpg",
+              "runtime": 43,
+              "air_date": "2024-01-18",
+              "rating": 6.443
+            }
+          ]
+        },
+        {
+          "season_number": 3,
+          "name": "Season 3",
+          "overview": "Based on \"Persuader,\" Reacher hurtles into the dark heart of a vast criminal enterprise when trying to rescue an undercover DEA informant whose time is running out. There he finds a world of secrecy and violence—and confronts some unfinished business from his own past.",
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
+          "air_date": "2025-02-20",
+          "episode_count": 8,
+          "episodes": [
+            {
+              "id": 5818652,
+              "episode_number": 1,
+              "title": "Persuader",
+              "overview": "Reacher's attempt to thwart a kidnapping brings him into contact with mysterious businessman Zachary Beck.",
+              "still": "https://image.tmdb.org/t/p/w780/rOH23zL2aisDvZ3aCDlj65gsmdZ.jpg",
+              "runtime": 53,
+              "air_date": "2025-02-20",
+              "rating": 7.781
+            },
+            {
+              "id": 5818653,
+              "episode_number": 2,
+              "title": "Truckin'",
+              "overview": "Tasked with transporting cargo for his new employer Zachary Beck, Reacher must juggle the involvement of the DEA and a nosy new associate.",
+              "still": "https://image.tmdb.org/t/p/w780/cxjl8M0822xIaetKhseEC12znKY.jpg",
+              "runtime": 43,
+              "air_date": "2025-02-20",
+              "rating": 7.458
+            },
+            {
+              "id": 5818654,
+              "episode_number": 3,
+              "title": "Number 2 with a Bullet",
+              "overview": "As a rising body count threatens his undercover position, Reacher makes a dangerous play to secure Beck's trust.",
+              "still": "https://image.tmdb.org/t/p/w780/xewDe800NB1qdxu1l3vjINtBwJK.jpg",
+              "runtime": 54,
+              "air_date": "2025-02-20",
+              "rating": 7.289
+            },
+            {
+              "id": 5818655,
+              "episode_number": 4,
+              "title": "Dominique",
+              "overview": "Reacher reunites with Duffy and Villanueva and finally shares the painful details of his history with Xavier Quinn.",
+              "still": "https://image.tmdb.org/t/p/w780/ypZpH089L0AD45fH0SiixqW3MK8.jpg",
+              "runtime": 53,
+              "air_date": "2025-02-27",
+              "rating": 7.102
+            },
+            {
+              "id": 5818656,
+              "episode_number": 5,
+              "title": "Smackdown",
+              "overview": "When a DEA tragedy puts the entire mission at risk, Reacher, Duffy, and Villanueva improvise a drastic plan to save their cover.",
+              "still": "https://image.tmdb.org/t/p/w780/4r5BUAgNyzhsk28Pr9OpnrQXsvZ.jpg",
+              "runtime": 49,
+              "air_date": "2025-03-06",
+              "rating": 7
+            },
+            {
+              "id": 5818657,
+              "episode_number": 6,
+              "title": "Smoke on the Water",
+              "overview": "Reacher is torn between his desire to kill Quinn and his promise to Duffy to save Teresa.",
+              "still": "https://image.tmdb.org/t/p/w780/2gpbqF4AiqwuKuths8jKyap16I6.jpg",
+              "runtime": 48,
+              "air_date": "2025-03-13",
+              "rating": 7.061
+            },
+            {
+              "id": 5818658,
+              "episode_number": 7,
+              "title": "L.A. Story",
+              "overview": "After Reacher and Duffy travel to Los Angeles to arrange a deal, Neagley arrives in Maine to help Reacher get answers.",
+              "still": "https://image.tmdb.org/t/p/w780/h6n5EXzNYTYycAH72J8FVMqXw9u.jpg",
+              "runtime": 52,
+              "air_date": "2025-03-20",
+              "rating": 7.2
+            },
+            {
+              "id": 5818659,
+              "episode_number": 8,
+              "title": "Unfinished Business",
+              "overview": "Reacher finally faces off with both Paulie and Quinn.",
+              "still": "https://image.tmdb.org/t/p/w780/y0LEFFyCAZqZPM7zggm4KysdF2h.jpg",
+              "runtime": 52,
+              "air_date": "2025-03-27",
+              "rating": 7.926
+            }
+          ]
+        },
+        {
+          "season_number": 4,
+          "name": "Season 4",
+          "overview": "Based on \"Gone Tomorrow,\" when a chance encounter with a distraught stranger on a subway goes horribly wrong, Jack Reacher is drawn into a complex and deadly game that pits him against ruthless foes from the highest echelons of power.",
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+          "air_date": "2026-08-12",
+          "episode_count": 8,
+          "episodes": [
+            {
+              "id": 7438861,
+              "episode_number": 1,
+              "title": "City of Brotherly Love",
+              "overview": "A chance encounter with a distraught stranger on a Philadelphia subway car draws Jack Reacher into a deadly mystery involving a missing flash drive that contains secrets worth killing for.",
+              "still": "https://image.tmdb.org/t/p/w780/r34i4he79jzOeDuTddNHF62DdD3.jpg",
+              "runtime": 46,
+              "air_date": "2026-08-12",
+              "rating": 6.513
+            },
+            {
+              "id": 7438862,
+              "episode_number": 2,
+              "title": "Cage Fight",
+              "overview": "Tamara finds herself caught up in the mystery whether she likes it or not as she, Reacher, and Jacob face off against shady government agents and a mysterious squad of professional soldiers all looking for the same missing flash drive.",
+              "still": "https://image.tmdb.org/t/p/w780/zql5YtLObawcXJaZihwu28dKmIg.jpg",
+              "runtime": 48,
+              "air_date": "2026-08-12",
+              "rating": 6.329
+            },
+            {
+              "id": 7438863,
+              "episode_number": 3,
+              "title": "One Small Step",
+              "overview": "Reacher learns that things are more complex than they seem as he and Lila draw closer. Meanwhile, Tamara, Jacob, and Plum find an important clue after another attack from one of their mysterious adversaries sends them back to Philadelphia.",
+              "still": "https://image.tmdb.org/t/p/w780/rNVrMf7gXC1EZBMdgsFYFCHjpEF.jpg",
+              "runtime": 44,
+              "air_date": "2026-08-12",
+              "rating": 6.29
+            },
+            {
+              "id": 7438864,
+              "episode_number": 4,
+              "title": "Karambits and Pieces",
+              "overview": "Reacher interrogates Sampson, Tamara breaks into a government facility, Jacob receives some crushing news and the team learns a piece of information that changes everything.",
+              "still": "https://image.tmdb.org/t/p/w780/cFJMK5jyQ04jIMX9A6ZcIt65K9L.jpg",
+              "runtime": 44,
+              "air_date": "2026-08-19",
+              "rating": 6.5
+            },
+            {
+              "id": 7438865,
+              "episode_number": 5,
+              "title": "Bridge",
+              "overview": "After a misunderstanding, Reacher becomes Philadelphia's Most Wanted. Meanwhile, old enemies catch up with him and new ones emerge. Jacob, Tamara and Plum end up in a firefight, giving Jacob his first real shot at avenging his sister's death.",
+              "still": "https://image.tmdb.org/t/p/w780/3JrZvxduPF6YH6Sb3BlPnKDmh67.jpg",
+              "runtime": 47,
+              "air_date": "2026-08-26",
+              "rating": 6.571
+            },
+            {
+              "id": 7438866,
+              "episode_number": 6,
+              "title": "Plum Out of Luck",
+              "overview": "Fleeing the police, Reacher and Tamara head out-of-town to find the mysterious Ahlquist only to run into more trouble. Meanwhile, Jacob and Plum deal with their own problems back in Philadelphia.",
+              "still": "https://image.tmdb.org/t/p/w780/qSJn08nw1pdCE5vTrNbWSDEJipd.jpg",
+              "runtime": 39,
+              "air_date": "2026-09-02",
+              "rating": 0
+            },
+            {
+              "id": 7438867,
+              "episode_number": 7,
+              "title": "Vote for Sampson",
+              "overview": "Reacher and Tamara finally get the answers they've been looking for. Meanwhile, Jacob learns that their problems are just beginning when Plum's sources come through with some timely information.",
+              "still": "https://image.tmdb.org/t/p/w780/szPCuR79q4iapjkZi7bWVJUMtRt.jpg",
+              "runtime": 41,
+              "air_date": "2026-09-09",
+              "rating": 0
+            },
+            {
+              "id": 7438868,
+              "episode_number": 8,
+              "title": "Cut",
+              "overview": "Reacher, Tamara and Jacob take the fight to the enemy as the full extent of their plot is revealed. Reacher faces off with those responsible for Anna's death while Jacob faces a moment of truth and Plum gets his shot at redemption.",
+              "still": "https://image.tmdb.org/t/p/w780/fx4RRJtY9Dusdo2RW1CLB6jA0m7.jpg",
+              "runtime": 56,
+              "air_date": "2026-09-16",
+              "rating": 0
+            }
+          ]
+        }
+      ],
+      "featured": false,
+      "enabled": true,
+      "tmdb_url": "https://www.themoviedb.org/tv/108978",
+      "imported_at": "2026-08-29T20:14:47.239Z"
+    },
+    {
+      "id": 125988,
+      "type": "series",
+      "title": "Silo",
+      "original_title": "Silo",
+      "tagline": "The key to the future lies in the past.",
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "first_air_date": "2023-05-04",
+      "last_air_date": "2026-08-27",
+      "year": 2023,
+      "status": "Returning Series",
+      "number_of_seasons": 4,
+      "number_of_episodes": 30,
+      "episode_runtime": 0,
+      "rating": 8.2,
+      "vote_count": 2513,
+      "popularity": 279.601,
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "original_language": "en",
+      "countries": [
+        "United States of America"
+      ],
+      "networks": [
+        {
+          "id": 2552,
+          "name": "Apple TV",
+          "logo": "https://image.tmdb.org/t/p/w500/bngHRFi794mnMq34gfVcm9nDxN1.png"
+        }
+      ],
+      "studios": [
+        {
+          "id": 23242,
+          "name": "AMC Studios",
+          "logo": "https://image.tmdb.org/t/p/w500/ucE6dN6pUPfZHH5JlXkq44TDUMS.png"
+        },
+        {
+          "id": 65105,
+          "name": "Nemofilms",
+          "logo": ""
+        },
+        {
+          "id": 199363,
+          "name": "Mimir Films",
+          "logo": ""
+        },
+        {
+          "id": 194232,
+          "name": "Apple Studios",
+          "logo": "https://image.tmdb.org/t/p/w500/oE7H93u8sy5vvW5EH3fpCp68vvB.png"
+        }
+      ],
+      "trailer_youtube_key": "8ZYhuvIv1pA",
+      "cast": [
+        {
+          "id": 933238,
+          "name": "Rebecca Ferguson",
+          "character": "Juliette Nichols",
+          "profile": "https://image.tmdb.org/t/p/w500/ty8ZPzaCBBlqIr5qzpOXI24iC8j.jpg",
+          "order": 0
+        },
+        {
+          "id": 4238,
+          "name": "Common",
+          "character": "Robert Sims",
+          "profile": "https://image.tmdb.org/t/p/w500/7Gk5L3rg6uZAGp7SWWTJRP32IJ3.jpg",
+          "order": 1
+        },
+        {
+          "id": 1717255,
+          "name": "Chinaza Uche",
+          "character": "Paul Billings",
+          "profile": "https://image.tmdb.org/t/p/w500/5fbbLI9BPiByyIIRYu9pbRQwyUN.jpg",
+          "order": 2
+        },
+        {
+          "id": 219960,
+          "name": "Ashley Zukerman",
+          "character": "Daniel Keene",
+          "profile": "https://image.tmdb.org/t/p/w500/tKT5ybCjMOV4whEQ6jy8ZQnrP7C.jpg",
+          "order": 3
+        },
+        {
+          "id": 83222,
+          "name": "Shane McRae",
+          "character": "Knox",
+          "profile": "https://image.tmdb.org/t/p/w500/ixNSdZDJ6fZzZc2Pdx4Dwr8wHir.jpg",
+          "order": 4
+        },
+        {
+          "id": 2298156,
+          "name": "Remmie Milner",
+          "character": "Shirley Campbell",
+          "profile": "https://image.tmdb.org/t/p/w500/4LDy6vhBZ11kOevBdAGBRM34d3L.jpg",
+          "order": 6
+        },
+        {
+          "id": 2189998,
+          "name": "Alexandria Riley",
+          "character": "Camille Sims",
+          "profile": "https://image.tmdb.org/t/p/w500/7rEJ2m0ur4uFPG0YzBQpYQB8Crt.jpg",
+          "order": 7
+        },
+        {
+          "id": 163774,
+          "name": "Reed Birney",
+          "character": "Henry",
+          "profile": "https://image.tmdb.org/t/p/w500/dfLgNLUt6Xs2MJJTi6B1iWdXjU6.jpg",
+          "order": 8
+        },
+        {
+          "id": 454973,
+          "name": "Laura Innes",
+          "character": "Senator Thurman",
+          "profile": "https://image.tmdb.org/t/p/w500/eO6hk2e7rowODSAgAq61mnv62Cv.jpg",
+          "order": 9
+        },
+        {
+          "id": 567269,
+          "name": "Jessica Brown Findlay",
+          "character": "Charlotte Keene",
+          "profile": "https://image.tmdb.org/t/p/w500/zaqkavcb9ur0W1h1QAxJfKnCJ2h.jpg",
+          "order": 11
+        }
+      ],
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Season 1",
+          "overview": "In a bleak dystopian future, humanity clings to survival deep underground within the confines of a colossal silo. Juliette, an engineer tasked with unraveling the mystery behind the death of a colleague, uncovers startling secrets that threaten the very fabric of their enclosed world.",
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/ay0fwyIFEZ71NBXzyaN6d0OGxgu.jpg",
+          "air_date": "2023-05-04",
+          "episode_count": 10,
+          "episodes": [
+            {
+              "id": 2964686,
+              "episode_number": 1,
+              "title": "Freedom Day",
+              "overview": "Sheriff Becker's plans for the future are thrown off course after his wife meets a hacker with information about the silo.",
+              "still": "https://image.tmdb.org/t/p/w780/rpZhJcWPpyLvPC5Vid61GD6JHVu.jpg",
+              "runtime": 62,
+              "air_date": "2023-05-04",
+              "rating": 7.3
+            },
+            {
+              "id": 4281661,
+              "episode_number": 2,
+              "title": "Holston's Pick",
+              "overview": "Juliette, an engineer, pieces together what might have led to a co-worker's mysterious death.",
+              "still": "https://image.tmdb.org/t/p/w780/bRYHFClG8YkTJTy8fx73hgCd8Ac.jpg",
+              "runtime": 52,
+              "air_date": "2023-05-04",
+              "rating": 7.2
+            },
+            {
+              "id": 4281667,
+              "episode_number": 3,
+              "title": "Machines",
+              "overview": "In her hunt for a new sheriff, Mayor Jahns clashes with Bernard. Juliette strikes a deal to keep the generator running.",
+              "still": "https://image.tmdb.org/t/p/w780/8hQB4jxk9ydj55Mrl9sY95smV7.jpg",
+              "runtime": 66,
+              "air_date": "2023-05-11",
+              "rating": 7.305
+            },
+            {
+              "id": 4281669,
+              "episode_number": 4,
+              "title": "Truth",
+              "overview": "Juliette tries gaining the trust of Deputy Marnes as they work to uncover the truth about recent tragedies.",
+              "still": "https://image.tmdb.org/t/p/w780/x3fMuXhTx5f91tQgjXNzopo5B5g.jpg",
+              "runtime": 49,
+              "air_date": "2023-05-18",
+              "rating": 6.8
+            },
+            {
+              "id": 4281672,
+              "episode_number": 5,
+              "title": "The Janitor's Boy",
+              "overview": "Sims appoints Billings as chief deputy to keep tabs on Juliette, whose efforts to solve two murders lead to a showdown.",
+              "still": "https://image.tmdb.org/t/p/w780/yzLUNo2jU82N5rdRG0xZ2A2ed79.jpg",
+              "runtime": 54,
+              "air_date": "2023-05-25",
+              "rating": 6.7
+            },
+            {
+              "id": 4281674,
+              "episode_number": 6,
+              "title": "The Relic",
+              "overview": "During her investigation, Juliette uncovers disturbing secrets about someone she thought she knew.",
+              "still": "https://image.tmdb.org/t/p/w780/k5UxYAS4Xmcsn3GZdCklXGMIBMd.jpg",
+              "runtime": 55,
+              "air_date": "2023-06-01",
+              "rating": 6.6
+            },
+            {
+              "id": 4281675,
+              "episode_number": 7,
+              "title": "The Flamekeepers",
+              "overview": "Bernard seeks Juliette's cooperation as he grows increasingly concerned about the silo's security. Juliette asks her father for a favor.",
+              "still": "https://image.tmdb.org/t/p/w780/ukzV8BZbjlIU6WOKdoZqhHMg2yi.jpg",
+              "runtime": 51,
+              "air_date": "2023-06-08",
+              "rating": 6.9
+            },
+            {
+              "id": 4281676,
+              "episode_number": 8,
+              "title": "Hanna",
+              "overview": "New information causes Juliette to see her family's past differently—and she finally gains access to the silo's biggest secrets.",
+              "still": "https://image.tmdb.org/t/p/w780/sZaeOvZYS4evALQtm2wfC3eJxit.jpg",
+              "runtime": 48,
+              "air_date": "2023-06-15",
+              "rating": 7.2
+            },
+            {
+              "id": 4281678,
+              "episode_number": 9,
+              "title": "The Getaway",
+              "overview": "Racked with guilt, Billings sets off on a personal mission, only to discover a mind-blowing clue from Juliette.",
+              "still": "https://image.tmdb.org/t/p/w780/mogTf95jiLdvSXwnjpQcIs6Wxh2.jpg",
+              "runtime": 48,
+              "air_date": "2023-06-22",
+              "rating": 7.2
+            },
+            {
+              "id": 4281679,
+              "episode_number": 10,
+              "title": "Outside",
+              "overview": "Juliette's fate seems sealed when certain truths finally come to light.",
+              "still": "https://image.tmdb.org/t/p/w780/qcqkEv0S8Re5V2UV9LFUWzHYyq3.jpg",
+              "runtime": 49,
+              "air_date": "2023-06-29",
+              "rating": 7.6
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "name": "Season 2",
+          "overview": "Stranded outside her silo with a failing suit, Juliette Nichols races against time, stunned to find another silo nearby that could be her only hope for survival. Meanwhile, unrest brews inside her original silo as Bernard Holland rallies citizens to maintain order amid rising questions about their world. As Juliette faces unexpected dangers near the new silo, hidden truths about the silos’ origins and the world beyond begin to surface, deepening the mystery.",
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/rY2LTYNkLdfWJAoa7whge0HGFik.jpg",
+          "air_date": "2024-11-14",
+          "episode_count": 10,
+          "episodes": [
+            {
+              "id": 5501094,
+              "episode_number": 1,
+              "title": "The Engineer",
+              "overview": "Juliette finds sanctuary in a silo long ago destroyed by war, thinking she's alone.",
+              "still": "https://image.tmdb.org/t/p/w780/kB5wWdEknKlBJ8iGEYQyTJWTSZv.jpg",
+              "runtime": 48,
+              "air_date": "2024-11-14",
+              "rating": 6.7
+            },
+            {
+              "id": 5501095,
+              "episode_number": 2,
+              "title": "Order",
+              "overview": "In Silo 18, shock and unrest take hold in the wake of Juliette doing what no one's done before.",
+              "still": "https://image.tmdb.org/t/p/w780/gB2lEpKUvTshTdq00IRjQHFgG4J.jpg",
+              "runtime": 42,
+              "air_date": "2024-11-21",
+              "rating": 6.5
+            },
+            {
+              "id": 5501096,
+              "episode_number": 3,
+              "title": "Solo",
+              "overview": "Bernard turns to Judge Meadows for help. Billings begins to wonder if he's being lied to. Juliette finally meets the man in the vault.",
+              "still": "https://image.tmdb.org/t/p/w780/dY1nJnRuuhC0stZqNWShBYqk93H.jpg",
+              "runtime": 54,
+              "air_date": "2024-11-26",
+              "rating": 6.6
+            },
+            {
+              "id": 5501098,
+              "episode_number": 4,
+              "title": "The Harmonium",
+              "overview": "Juliette sets out on a dangerous quest to retrieve a suit so she can return home and save her silo. Mechanical plans a meeting with Judge Meadows.",
+              "still": "https://image.tmdb.org/t/p/w780/lSsLzD8eVZaju4XUGmoTGSvZq2C.jpg",
+              "runtime": 54,
+              "air_date": "2024-12-05",
+              "rating": 6.5
+            },
+            {
+              "id": 5501099,
+              "episode_number": 5,
+              "title": "Descent",
+              "overview": "Sims finds himself with a new position. Juliette learns Solo isn't being honest. Bernard and Lukas make an important discovery.",
+              "still": "https://image.tmdb.org/t/p/w780/y2KEcaL7GLj5uYXP0t7C0d0R5B6.jpg",
+              "runtime": 49,
+              "air_date": "2024-12-12",
+              "rating": 6.3
+            },
+            {
+              "id": 5501101,
+              "episode_number": 6,
+              "title": "Barricades",
+              "overview": "Bernard enacts a plan to root out Knox, Shirley, and Walker. Billings takes a stand. Solo saves Juliette's life and wants something in return.",
+              "still": "https://image.tmdb.org/t/p/w780/aAPo83kOC5mfgcOado49ijWITVo.jpg",
+              "runtime": 43,
+              "air_date": "2024-12-19",
+              "rating": 6.2
+            },
+            {
+              "id": 5501102,
+              "episode_number": 7,
+              "title": "The Dive",
+              "overview": "Lukas is assigned a mission. Mechanical sends a powerful message. Juliette embarks on a perilous descent—and confronts a new danger.",
+              "still": "https://image.tmdb.org/t/p/w780/z60fohHAWgfhpVjZRZq4M1Itw7Z.jpg",
+              "runtime": 51,
+              "air_date": "2024-12-26",
+              "rating": 6.343
+            },
+            {
+              "id": 5501103,
+              "episode_number": 8,
+              "title": "The Book of Quinn",
+              "overview": "Juliette discovers something's happened to Solo. Bernard makes an offer to Walker. Lukas meets with Salvador Quinn's descendants.",
+              "still": "https://image.tmdb.org/t/p/w780/krzYmEQZ3ugR5MFqOMQJrv2pcnh.jpg",
+              "runtime": 47,
+              "air_date": "2025-01-02",
+              "rating": 6.036
+            },
+            {
+              "id": 5501104,
+              "episode_number": 9,
+              "title": "The Safeguard",
+              "overview": "Billings' faith is shaken. Lukas heads to the down deep. Knox identifies the traitor. Juliette uncovers the truth about Solo's past.",
+              "still": "https://image.tmdb.org/t/p/w780/aNgT4AEffmGwiabRD03riCz1aWr.jpg",
+              "runtime": 59,
+              "air_date": "2025-01-09",
+              "rating": 6.7
+            },
+            {
+              "id": 5501105,
+              "episode_number": 10,
+              "title": "Into the Fire",
+              "overview": "The rebels make their move—and so does Juliette.",
+              "still": "https://image.tmdb.org/t/p/w780/coz4XyEQ59IbkJ3UYB9Nr8UW8ur.jpg",
+              "runtime": 59,
+              "air_date": "2025-01-16",
+              "rating": 7
+            }
+          ]
+        },
+        {
+          "season_number": 3,
+          "name": "Season 3",
+          "overview": "Season three reveals an origin story set centuries earlier, while continuing the saga of a dystopian society of 10,000 people living underground under mysterious circumstances. In the present, Juliette Nichols survives her forced \"cleaning\" but returns with memory loss as the silo recovers from rebellion and faces a dangerous new threat. Meanwhile, in the \"Before Times,\" journalist Helen Drew and Congressman Daniel Keene uncover a conspiracy that pulls them into a chain of events with catastrophic, irreversible consequences.",
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/eviZTbKOXOeSaR268iJ9yqtwTNU.jpg",
+          "air_date": "2026-07-02",
+          "episode_count": 10,
+          "episodes": [
+            {
+              "id": 7173957,
+              "episode_number": 1,
+              "title": "Who Are You?",
+              "overview": "New mayor Juliette can't remember anything from her time outside—or her past.",
+              "still": "https://image.tmdb.org/t/p/w780/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
+              "runtime": 56,
+              "air_date": "2026-07-02",
+              "rating": 6.703
+            },
+            {
+              "id": 7173958,
+              "episode_number": 2,
+              "title": "It's All Good",
+              "overview": "Billings investigates a disappearance. Daniel Keene has a run-in with a reporter.",
+              "still": "https://image.tmdb.org/t/p/w780/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
+              "runtime": 51,
+              "air_date": "2026-07-09",
+              "rating": 6.371
+            },
+            {
+              "id": 7173959,
+              "episode_number": 3,
+              "title": "A Dark Web",
+              "overview": "Juliette takes control of her recovery process. Helen suffers consequences of her investigation.",
+              "still": "https://image.tmdb.org/t/p/w780/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
+              "runtime": 49,
+              "air_date": "2026-07-16",
+              "rating": 6.194
+            },
+            {
+              "id": 7173960,
+              "episode_number": 4,
+              "title": "Whatever You Do, Don't Go Home",
+              "overview": "The race to evade Camille leads Juliette to a shocking discovery. Daniel seeks help from a friend.",
+              "still": "https://image.tmdb.org/t/p/w780/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
+              "runtime": 48,
+              "air_date": "2026-07-23",
+              "rating": 6.439
+            },
+            {
+              "id": 7173961,
+              "episode_number": 5,
+              "title": "Memory",
+              "overview": "The events following Juliette's return come to light—and unexpected allies are made.",
+              "still": "https://image.tmdb.org/t/p/w780/zcbjuLkbVPHSphOHClKQM0v1Zjf.jpg",
+              "runtime": 52,
+              "air_date": "2026-07-30",
+              "rating": 6.92
+            },
+            {
+              "id": 7173962,
+              "episode_number": 6,
+              "title": "The Drive",
+              "overview": "Billings and Hank stumble on a new mystery. Daniel and Helen receive a surprising proposition.",
+              "still": "https://image.tmdb.org/t/p/w780/hCUVzq1FghJlS75KIG2Ttxua4AL.jpg",
+              "runtime": 55,
+              "air_date": "2026-08-06",
+              "rating": 6.402
+            },
+            {
+              "id": 7173963,
+              "episode_number": 7,
+              "title": "Radio",
+              "overview": "Juliette sends Lukas and Kennedy on a mission, as a desperate Camille threatens Robert to tell the truth.",
+              "still": "https://image.tmdb.org/t/p/w780/hT47PUyS6fQrmukmbyXrL9nBgKc.jpg",
+              "runtime": 55,
+              "air_date": "2026-08-13",
+              "rating": 6.803
+            },
+            {
+              "id": 7173964,
+              "episode_number": 8,
+              "title": "Gray Goo",
+              "overview": "Knox's father Gus comes clean about a secret. Charlotte makes a life-changing decision.",
+              "still": "https://image.tmdb.org/t/p/w780/qZiRIiFbjCSttNe3uNHsi6hoxWV.jpg",
+              "runtime": 56,
+              "air_date": "2026-08-20",
+              "rating": 7.061
+            },
+            {
+              "id": 7173965,
+              "episode_number": 9,
+              "title": "Farewell",
+              "overview": "The entire silo is stunned by an announcement from Camille. Daniel and Helen attend a special event.",
+              "still": "https://image.tmdb.org/t/p/w780/fl5tbMRYYQ6eWEuU5E5wN3qRXrK.jpg",
+              "runtime": 62,
+              "air_date": "2026-08-27",
+              "rating": 7.2
+            },
+            {
+              "id": 7173966,
+              "episode_number": 10,
+              "title": "Troy",
+              "overview": "A leader wakes to a new world.",
+              "still": "https://image.tmdb.org/t/p/w780/cWfqa602Kcka7zRaLMq9TRhLJkH.jpg",
+              "runtime": 61,
+              "air_date": "2026-09-03",
+              "rating": 7.75
+            }
+          ]
+        },
+        {
+          "season_number": 4,
+          "name": "Season 4",
+          "overview": "",
+          "poster": "",
+          "air_date": "",
+          "episode_count": 0,
+          "episodes": []
+        }
+      ],
+      "featured": false,
+      "enabled": true,
+      "tmdb_url": "https://www.themoviedb.org/tv/125988",
+      "imported_at": "2026-08-29T20:15:15.705Z"
+    }
+  ],
+  "updated_at": "2026-08-29T20:16:21.878Z"
+}
