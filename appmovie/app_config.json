@@ -1,19 +1,30 @@
 {
   "configVersion": 1,
+
   "content": {
     "moviesUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/movies.json",
     "seriesUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/series.json",
     "actorsUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/actors.json",
     "trendingUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/trending.json"
   },
+
   "ads": {
     "enabled": true,
+
     "banner": true,
+    "banner_id": "ca-app-pub-3940256099942544/6300978111",
+
     "interstitial": true,
+    "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+    "interstitial_every": 3,
+
     "native": true,
+    "native_id": "ca-app-pub-3940256099942544/2247696110",
+
     "rewarded": true,
-    "interstitial_every": 3
+    "rewarded_id": "ca-app-pub-3940256099942544/5224354917"
   },
+
   "update": {
     "enabled": false,
     "minimumVersion": "1.0.0",
@@ -22,6 +33,7 @@
     "buttonText": "Update now",
     "androidUrl": "https://play.google.com/store/apps/details?id=com.xuper.tv"
   },
+
   "maintenance": {
     "enabled": false,
     "title": "We’ll be right back",
