@@ -22,7 +22,7 @@
   },
 
   "trailers": {
-    "directExternalOpen": true
+    "directExternalOpen": true,
     "enabled": true,
     "premium": false,
 
@@ -64,7 +64,6 @@
     "admob_banner_unit_id": "ca-app-pub-5328735289575157/8032545018",
     "admob_interstitial_unit_id": "ca-app-pub-5328735289575157/5873285536",
     "admob_native_unit_id": "ca-app-pub-5328735289575157/8499448871",
-
     "admob_rewarded_unit_id": "ca-app-pub-3940256099942544/5224354917",
 
     "interstitial_every": 3,
@@ -85,16 +84,17 @@
     "enabled": false,
     "title": "We’ll be right back",
     "message": "Xuper TV is temporarily under maintenance."
-  }
+  },
+
   "notifications": {
-   "enabled": false,
-   "firstOpenReminder": {
-     "enabled": true,
-     "delayHours": 999
-   },
-   "inactiveReminder": {
-     "enabled": false,
-     "afterDays": 33
-  }
+    "enabled": false,
+    "firstOpenReminder": {
+      "enabled": true,
+      "delayHours": 999
+    },
+    "inactiveReminder": {
+      "enabled": false,
+      "afterDays": 33
+    }
   }
 }
