@@ -87,14 +87,14 @@
     "message": "Xuper TV is temporarily under maintenance."
   }
   "notifications": {
-  "enabled": false,
-  "firstOpenReminder": {
-    "enabled": true,
-    "delayHours": 3
-  },
-  "inactiveReminder": {
-    "enabled": true,
-    "afterDays": 3
+   "enabled": false,
+   "firstOpenReminder": {
+     "enabled": true,
+     "delayHours": 999
+   },
+   "inactiveReminder": {
+     "enabled": false,
+     "afterDays": 3
   }
-}
+  }
 }
