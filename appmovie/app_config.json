@@ -22,6 +22,7 @@
   },
 
   "trailers": {
+    "directExternalOpen": true
     "enabled": true,
     "premium": false,
 
