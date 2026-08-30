@@ -94,7 +94,7 @@
    },
    "inactiveReminder": {
      "enabled": false,
-     "afterDays": 3
+     "afterDays": 33
   }
   }
 }
