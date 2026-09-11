@@ -54,17 +54,17 @@
   },
 
   "ads": {
-    "enabled": false,
+    "enabled": true,
 
     "banner": true,
     "interstitial": true,
     "native": true,
     "rewarded": true,
 
-    "admob_banner_unit_id": "ca-app-pub-5328735289575157/8032545018",
-    "admob_interstitial_unit_id": "ca-app-pub-5328735289575157/5873285536",
-    "admob_native_unit_id": "ca-app-pub-5328735289575157/8499448871",
-    "admob_rewarded_unit_id": "ca-app-pub-3940256099942544/5224354917",
+    "admob_banner_unit_id": "ca-app-pub-5328735289575157/3101762866",
+    "admob_interstitial_unit_id": "ca-app-pub-5328735289575157/9539178704",
+    "admob_native_unit_id": "ca-app-pub-5328735289575157/1165864669",
+    "admob_rewarded_unit_id": "ca-app-pub-5328735289575157/6463664046",
 
     "interstitial_every": 3,
     "global_interstitial_counter": true,
