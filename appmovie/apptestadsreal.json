@@ -1,0 +1,100 @@
+{
+  "configVersion": 1,
+
+  "content": {
+    "moviesUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/movies.json",
+    "seriesUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/series.json",
+    "actorsUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/actors.json",
+    "trendingUrl": "https://raw.githubusercontent.com/m-aitsalah/gm/refs/heads/main/appmovie/trending.json"
+  },
+
+  "ui": {
+    "watchNow": {
+      "enabled": false,
+      "text": "Watch Now",
+      "backgroundColor": "#E50914",
+      "textColor": "#FFFFFF",
+      "centerContent": true
+    },
+    "questions": {
+      "showProgressCounter": false
+    }
+  },
+
+  "trailers": {
+    "directExternalOpen": true,
+    "enabled": true,
+    "premium": false,
+
+    "origins": [
+      "https://xuperapp.tv/",
+      "https://www.xuperapp.tv/",
+      "https://trailer.xuperapp.tv/"
+    ],
+
+    "maxOriginAttempts": 3,
+    "cacheLastWorkingOrigin": true,
+    "preferLastWorkingOrigin": true,
+
+    "retryOnPlayerErrors": [
+      153
+    ],
+
+    "externalFallbackOnPlayerErrors": [
+      2,
+      5,
+      100,
+      101,
+      150
+    ],
+
+    "attemptTimeoutSeconds": 10,
+    "externalFallback": true,
+    "openYouTubeAppFirst": true
+  },
+
+  "ads": {
+    "enabled": true,
+
+    "banner": true,
+    "interstitial": true,
+    "native": true,
+    "rewarded": false,
+
+    "admob_banner_unit_id": "ca-app-pub-5328735289575157/8032545018",
+    "admob_interstitial_unit_id": "ca-app-pub-5328735289575157/5873285536",
+    "admob_native_unit_id": "ca-app-pub-5328735289575157/8499448871",
+    "admob_rewarded_unit_id": "ca-app-pub-5328735289575157/6463664046",
+
+    "interstitial_every": 2,
+    "global_interstitial_counter": true,
+    "count_question_clicks": true
+  },
+
+  "update": {
+    "enabled": false,
+    "minimumVersion": "1.0.0",
+    "title": "Update required",
+    "message": "A newer version is required to continue using Xuper TV.",
+    "buttonText": "Update now",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.xuper.tv"
+  },
+
+  "maintenance": {
+    "enabled": false,
+    "title": "We’ll be right back",
+    "message": "Xuper TV is temporarily under maintenance."
+  },
+
+  "notifications": {
+    "enabled": false,
+    "firstOpenReminder": {
+      "enabled": true,
+      "delayHours": 999
+    },
+    "inactiveReminder": {
+      "enabled": false,
+      "afterDays": 33
+    }
+  }
+}
