@@ -66,7 +66,7 @@
     "admob_native_unit_id": "ca-app-pub-5328735289575157/1165864669",
     "admob_rewarded_unit_id": "ca-app-pub-5328735289575157/6463664046",
 
-    "interstitial_every": 3,
+    "interstitial_every": 5,
     "global_interstitial_counter": true,
     "count_question_clicks": true
   },
