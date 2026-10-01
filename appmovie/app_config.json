@@ -61,9 +61,9 @@
     "native": true,
     "rewarded": true,
 
-    "admob_banner_unit_id": "ca-app-pub-5328735289575157/3101762866",
-    "admob_interstitial_unit_id": "ca-app-pub-5328735289575157/9539178704",
-    "admob_native_unit_id": "ca-app-pub-5328735289575157/1165864669",
+    "admob_banner_unit_id": "ca-app-pub-5328735289575157/4977276263",
+    "admob_interstitial_unit_id": "ca-app-pub-5328735289575157/3664194593",
+    "admob_native_unit_id": "ca-app-pub-5328735289575157/7967325125",
     "admob_rewarded_unit_id": "ca-app-pub-5328735289575157/6463664046",
 
     "interstitial_every": 5,
