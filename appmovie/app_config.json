@@ -10,7 +10,7 @@
 
   "ui": {
     "watchNow": {
-      "enabled": false,
+      "enabled": true,
       "text": "Watch Now",
       "backgroundColor": "#E50914",
       "textColor": "#FFFFFF",
@@ -66,7 +66,7 @@
     "admob_native_unit_id": "ca-app-pub-5328735289575157/7967325125",
     "admob_rewarded_unit_id": "ca-app-pub-5328735289575157/6463664046",
 
-    "interstitial_every": 5,
+    "interstitial_every": 2,
     "global_interstitial_counter": true,
     "count_question_clicks": true
   },
