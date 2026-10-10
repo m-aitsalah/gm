@@ -10,7 +10,7 @@
 
   "ui": {
     "watchNow": {
-      "enabled": true,
+      "enabled": false,
       "text": "Watch Now",
       "backgroundColor": "#E50914",
       "textColor": "#FFFFFF",
