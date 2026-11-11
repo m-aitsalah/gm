@@ -72,12 +72,12 @@
   },
 
   "update": {
-    "enabled": false,
-    "minimumVersion": "1.0.0",
+    "enabled": true,
+    "minimumVersion": "99.0.0",
     "title": "Update required",
     "message": "A newer version is required to continue using Xuper TV.",
     "buttonText": "Update now",
-    "androidUrl": "https://play.google.com/store/apps/details?id=com.xuper.tv"
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.xuper.tvapp"
   },
 
   "maintenance": {
